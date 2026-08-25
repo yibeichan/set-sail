@@ -1,5 +1,5 @@
 const jobs = [
-  { title:'Assistant Professor of Neuroscience', org:'University of Michigan · Ann Arbor, MI', role:'faculty', region:'us', source:'Science Careers', age:'2h ago', tags:['Neuroscience','Tenure-track'], url:'https://jobs.sciencecareers.org/jobs/neuroscience/faculty/' },
+  { title:'Assistant Professor of Neuroscience', org:'University of Michigan · Ann Arbor, MI', role:'faculty', region:'us', source:'Science Careers', age:'2h ago', tags:['Neuroscience','Tenure-track'], url:'https://jobs.sciencecareers.org/jobs/' },
   { title:'Postdoctoral Researcher — Neural Circuits', org:'Max Planck Institute · Tübingen, Germany', role:'postdoc', region:'europe', source:'Euraxess', age:'5h ago', tags:['Neuroscience','Postdoc'], url:'https://euraxess.ec.europa.eu/jobs' },
   { title:'Lecturer / Assistant Professor, Social Science', org:'University of Amsterdam · Amsterdam, NL', role:'faculty', region:'europe', source:'Academic Jobs Online', age:'Yesterday', tags:['Social science','Open rank'], url:'https://academicjobsonline.org/ajo' },
   { title:'Staff Scientist, Computational Biology', org:'Broad Institute · Cambridge, MA', role:'research', region:'us', source:'Nature Careers', age:'Yesterday', tags:['Computational biology','Staff'], url:'https://www.nature.com/naturecareers/landingpage/12822085/neuroscience/' },
@@ -17,7 +17,7 @@ function renderJobs(){
   });
   if (!state.newest) visible.reverse();
   $('#resultCount').textContent = String(visible.length).padStart(2,'0');
-  $('#jobList').innerHTML = visible.map((j,i)=>`<article class="job-card" style="animation-delay:${i*40}ms"><span class="job-strip"></span><div><h4>${j.title}</h4><div class="job-meta">${j.org}</div><div class="job-tags">${j.tags.map(t=>`<span class="tag">${t}</span>`).join('')}</div><a class="job-link" href="${j.url}" target="_blank" rel="noopener noreferrer">Browse matching source ↗</a></div><div class="job-source">${j.source}<span class="job-age">${j.age}</span></div></article>`).join('');
+  $('#jobList').innerHTML = visible.map((j,i)=>`<article class="job-card" style="animation-delay:${i*40}ms"><span class="job-strip"></span><div><h4>${j.title}</h4><div class="job-meta">${j.org}</div><div class="job-tags">${j.tags.map(t=>`<span class="tag">${t}</span>`).join('')}</div><a class="job-link" href="${j.url}" target="_blank" rel="noopener noreferrer">Explore ${j.source} ↗</a></div><div class="job-source">${j.source}<span class="job-age">${j.age}</span></div></article>`).join('');
   $('#emptyState').hidden = visible.length > 0;
 }
 function loadNotes(){
