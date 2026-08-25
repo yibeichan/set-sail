@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#101c2d" />
+    <title>Signal Desk — research job monitor</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="shell">
+      <header class="topbar">
+        <a class="brand" href="#top" aria-label="Signal Desk home">
+          <span class="brand-mark"><i></i><i></i><i></i></span>
+          <span>signal<span class="brand-slash">/</span>desk</span>
+        </a>
+        <div class="status"><span class="status-dot"></span>monitoring 7 sources <span class="status-divider"></span> last scan 2h ago</div>
+        <div class="top-actions"><button class="profile-button" id="profileButton"><span class="avatar">YB</span><span class="profile-label">Your desk</span></button><button class="icon-button" id="themeButton" aria-label="Toggle contrast mode">◐</button></div>
+      </header>
+
+      <main id="top">
+        <section class="hero">
+          <div class="eyebrow">THE RESEARCH JOB RADAR <span>///</span> 25 AUG 2026</div>
+          <h1>Find the signal<br /><em>between the titles.</em></h1>
+          <p class="hero-copy">A focused monitor for science, academic, and European research roles. Search broadly. Refine with intent.</p>
+          <div class="search-wrap">
+            <span class="search-icon">⌕</span>
+            <input id="searchInput" type="search" placeholder="Try a field, not a hyper-specific title — e.g. neuroscience" autocomplete="off" />
+            <kbd>⌘ K</kbd>
+          </div>
+          <div class="suggestions"><span>Try broad fields:</span><button data-query="neuroscience">neuroscience</button><button data-query="computational biology">computational biology</button><button data-query="social science">social science</button></div>
+        </section>
+
+        <section class="overview" aria-label="Monitor overview">
+          <div class="metric metric-main"><span class="metric-label">OPEN SIGNALS</span><strong id="resultCount">08</strong><span class="metric-note">across your watchlist</span></div>
+          <div class="metric"><span class="metric-label">NEW THIS WEEK</span><strong>14</strong><span class="metric-note">+4 since Monday</span></div>
+          <div class="metric"><span class="metric-label">SOURCES ON</span><strong>07</strong><span class="metric-note">3 continents</span></div>
+          <div class="metric"><span class="metric-label">YOUR NOTES</span><strong id="noteCount">03</strong><span class="metric-note">keep the context</span></div>
+        </section>
+
+        <div class="content-grid">
+          <section class="feed-panel">
+            <div class="section-heading">
+              <div><span class="section-kicker">01 / LIVE FEED</span><h2>Worth a closer look</h2></div>
+              <button class="sort-button" id="sortButton">Newest first <span>↕</span></button>
+            </div>
+            <div class="filters" role="toolbar" aria-label="Filter jobs">
+              <div class="filter-group"><span>ROLE</span><button class="filter active" data-role="all">All roles</button><button class="filter" data-role="faculty">Faculty</button><button class="filter" data-role="postdoc">Postdoc</button><button class="filter" data-role="research">Research</button><button class="filter" data-role="phd">PhD</button></div>
+              <div class="filter-group"><span>REGION</span><button class="filter active" data-region="all">Everywhere</button><button class="filter" data-region="us">US</button><button class="filter" data-region="europe">Europe</button><button class="filter" data-region="global">Global</button></div>
+            </div>
+            <div id="jobList" class="job-list"></div>
+            <div id="emptyState" class="empty-state" hidden>No signals match that combination.<br /><button id="clearFilters">Clear filters</button></div>
+            <div class="feed-footer"><span><i class="pulse"></i> Feed is a curated starting point — not an exhaustive crawl.</span><a href="#sources">View all source notes →</a></div>
+          </section>
+
+          <aside class="sidebar" id="sources">
+            <div class="side-card note-card">
+              <div class="section-kicker">02 / FIELD NOTES</div>
+              <h3>Keep the nuance.</h3>
+              <p>Your notes sit alongside the monitor, so the useful caveats don’t disappear.</p>
+              <form id="noteForm"><textarea id="noteInput" maxlength="180" placeholder="Add a note about a source, role, or search…" aria-label="New field note"></textarea><div class="note-form-row"><span id="charCount">0 / 180</span><button type="submit">Save note <span>↗</span></button></div></form>
+              <div id="notesList" class="notes-list"></div>
+            </div>
+            <div class="side-card source-card">
+              <div class="source-title"><div><div class="section-kicker">03 / SOURCE MAP</div><h3>Where signals come from</h3></div><span class="source-count">07</span></div>
+              <div class="source-list">
+                <a href="https://jobs.sciencecareers.org/jobs/" target="_blank"><span class="source-dot blue"></span><span>Science Careers</span><small>SCIENCE</small><b>↗</b></a>
+                <a href="https://academicjobsonline.org/ajo" target="_blank"><span class="source-dot purple"></span><span>Academic Jobs Online</span><small>ALL FIELDS</small><b>↗</b></a>
+                <a href="https://www.higheredjobs.com/" target="_blank"><span class="source-dot yellow"></span><span>HigherEdJobs</span><small>HIGHER ED</small><b>↗</b></a>
+                <a href="https://neurojobs.sfn.org/jobs/faculty-member/" target="_blank"><span class="source-dot orange"></span><span>SFN NeuroJobs</span><small>NEURO</small><b>↗</b></a>
+                <a href="https://www.nature.com/naturecareers/landingpage/12822085/neuroscience/" target="_blank"><span class="source-dot green"></span><span>Nature Careers</span><small>SCIENCE</small><b>↗</b></a>
+                <a href="https://euraxess.ec.europa.eu/jobs" target="_blank"><span class="source-dot red"></span><span>Euraxess</span><small>EUROPE</small><b>↗</b></a>
+                <a href="https://www.linkedin.com/" target="_blank"><span class="source-dot blue"></span><span>Institutional LinkedIn</span><small>ANNOUNCEMENTS</small><b>↗</b></a>
+                <a href="https://www.linkedin.com/" target="_blank"><span class="source-dot blue"></span><span>Institutional LinkedIn</span><small>ANNOUNCEMENTS</small><b>↗</b></a>
+              </div>
+              <p class="source-footnote">LinkedIn institutional pages are the missing layer: follow them for announcements that never hit the job boards.</p>
+            </div>
+          </aside>
+        </div>
+      </main>
+      <footer class="footer"><span>Signal Desk <span class="brand-slash">/</span> a personal job monitor</span><span>Search wide. Read closely.</span></footer>
+    </div>
+    <dialog id="profileDialog" class="profile-dialog">
+      <button class="dialog-close" id="dialogClose" aria-label="Close profile">×</button>
+      <div class="section-kicker">YOUR SIGNAL PROFILE</div><h2>Make the desk yours.</h2>
+      <p class="dialog-copy">These preferences stay in this browser. Connect GitHub later to carry them across devices.</p>
+      <form id="profileForm"><label>Your name<input id="profileName" type="text" placeholder="e.g. Yi Bei" /></label><label>Primary field<input id="profileField" type="text" placeholder="e.g. neuroscience" /></label><label>Regions to watch<input id="profileRegions" type="text" placeholder="e.g. US, Europe" /></label><button class="save-profile" type="submit">Save preferences</button></form>
+      <div class="github-divider"><span>OR</span></div>
+      <button class="github-button" id="githubButton"><span>◉</span> Continue with GitHub</button>
+      <p class="auth-status" id="authStatus"></p>
+    </dialog>
+    <script src="config.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
