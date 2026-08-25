@@ -1,4 +1,4 @@
-const jobs = [
+const fallbackJobs = [
   { title:'Tenure-Track Assistant Professor position', org:'Department of Biology - TAMU · College Station, TX', role:'faculty', region:'us', source:'Science Careers', age:'Live feed', tags:['Biology','Tenure-track'], url:'https://jobs.sciencecareers.org/job/679780/tenure-track-assistant-professor-position/?LinkSource=PremiumListing' },
   { title:'Tenure-track Assistant Professor', org:'University of Minnesota Chemistry Department · Minneapolis, MN', role:'faculty', region:'us', source:'Science Careers', age:'Live feed', tags:['Chemistry','Tenure-track'], url:'https://jobs.sciencecareers.org/job/679846/tenure-track-assistant-professor/?LinkSource=PremiumListing' },
   { title:'Assistant Professor of Medicine', org:'Columbia University · New York, NY', role:'faculty', region:'us', source:'Science Careers', age:'Live feed', tags:['Medicine','Faculty'], url:'https://jobs.sciencecareers.org/job/679845/assistant-professor-of-medicine/?LinkSource=PremiumListing' },
@@ -8,6 +8,7 @@ const jobs = [
   { title:'Postdoctoral Associate / Research Scientist in Systems Neuroscience', org:'University of Pittsburgh · Pittsburgh, PA', role:'postdoc', region:'us', source:'Nature Careers', age:'Live feed', tags:['Neuroscience','Postdoc'], url:'https://www.nature.com/naturecareers/job/12862383/postdoctoral-associate-research-scientist-in-systems-neuroscience-and-or-neuroengineering/' },
   { title:'Postdoctoral Fellowship in Neural Engineering', org:'National Institute on Drug Abuse (NIDA) · Baltimore, MD', role:'postdoc', region:'us', source:'Nature Careers', age:'Live feed', tags:['Neural engineering','Postdoc'], url:'https://www.nature.com/naturecareers/job/12861495/postdoctoral-fellowship-in-neural-engineering-section-behavioral-neuroscience-research-branch/' }
 ];
+let jobs = fallbackJobs;
 let state = { role:'all', region:'all', query:'', newest:true };
 const $ = (s) => document.querySelector(s);
 function renderJobs(){
@@ -48,3 +49,4 @@ $('#dialogClose').addEventListener('click',()=>profileDialog.close());
 $('#profileForm').addEventListener('submit',e=>{e.preventDefault();const next={name:$('#profileName').value.trim(),field:$('#profileField').value.trim(),regions:$('#profileRegions').value.trim()};localStorage.setItem('signal-profile',JSON.stringify(next));$('.profile-label').textContent=next.name||'Your desk';profileDialog.close()});
 document.addEventListener('keydown',e=>{if((e.metaKey||e.ctrlKey)&&e.key.toLowerCase()==='k'){e.preventDefault();$('#searchInput').focus()}});
 renderJobs();loadNotes();
+fetch(`jobs.json?refresh=${Date.now()}`).then(response=>response.ok?response.json():Promise.reject()).then(data=>{if(Array.isArray(data.jobs)&&data.jobs.length){jobs=data.jobs;renderJobs()}}).catch(()=>{});
