@@ -65,15 +65,15 @@
               <div id="notesList" class="notes-list"></div>
             </div>
             <div class="side-card source-card">
-              <div class="source-title"><div><div class="section-kicker">03 / SOURCE MAP</div><h3>Where signals come from</h3></div><span class="source-count">07</span></div>
+              <div class="source-title"><div><div class="section-kicker">03 / SOURCE MAP</div><h3>Where signals come from</h3></div><span class="source-count">08</span></div>
               <div class="source-list">
                 <a href="https://jobs.sciencecareers.org/jobs/" target="_blank"><span class="source-dot blue"></span><span>Science Careers</span><small>SCIENCE</small><b>↗</b></a>
                 <a href="https://academicjobsonline.org/ajo" target="_blank"><span class="source-dot purple"></span><span>Academic Jobs Online</span><small>ALL FIELDS</small><b>↗</b></a>
                 <a href="https://www.higheredjobs.com/" target="_blank"><span class="source-dot yellow"></span><span>HigherEdJobs</span><small>HIGHER ED</small><b>↗</b></a>
+                <a href="https://careers.insidehighered.com/jobs/education/tenured-and-tenure-track/" target="_blank"><span class="source-dot yellow"></span><span>Inside Higher Ed</span><small>TENURE-TRACK</small><b>↗</b></a>
                 <a href="https://neurojobs.sfn.org/jobs/faculty-member/" target="_blank"><span class="source-dot orange"></span><span>SFN NeuroJobs</span><small>NEURO</small><b>↗</b></a>
                 <a href="https://www.nature.com/naturecareers/landingpage/12822085/neuroscience/" target="_blank"><span class="source-dot green"></span><span>Nature Careers</span><small>SCIENCE</small><b>↗</b></a>
                 <a href="https://euraxess.ec.europa.eu/jobs" target="_blank"><span class="source-dot red"></span><span>Euraxess</span><small>EUROPE</small><b>↗</b></a>
-                <a href="https://www.linkedin.com/" target="_blank"><span class="source-dot blue"></span><span>Institutional LinkedIn</span><small>ANNOUNCEMENTS</small><b>↗</b></a>
                 <a href="https://www.linkedin.com/" target="_blank"><span class="source-dot blue"></span><span>Institutional LinkedIn</span><small>ANNOUNCEMENTS</small><b>↗</b></a>
               </div>
               <p class="source-footnote">LinkedIn institutional pages are the missing layer: follow them for announcements that never hit the job boards.</p>
@@ -86,14 +86,9 @@
     <dialog id="profileDialog" class="profile-dialog">
       <button class="dialog-close" id="dialogClose" aria-label="Close profile">×</button>
       <div class="section-kicker">YOUR SIGNAL PROFILE</div><h2>Make the desk yours.</h2>
-      <p class="dialog-copy">These preferences stay in this browser. Connect GitHub later to carry them across devices.</p>
+      <p class="dialog-copy">Your preferences stay in this browser and are never sent anywhere.</p>
       <form id="profileForm"><label>Your name<input id="profileName" type="text" placeholder="e.g. Yi Bei" /></label><label>Primary field<input id="profileField" type="text" placeholder="e.g. neuroscience" /></label><label>Regions to watch<input id="profileRegions" type="text" placeholder="e.g. US, Europe" /></label><button class="save-profile" type="submit">Save preferences</button></form>
-      <div class="github-divider"><span>OR</span></div>
-      <button class="github-button" id="githubButton"><span>◉</span> Continue with GitHub</button>
-      <p class="auth-status" id="authStatus"></p>
     </dialog>
-    <script src="config.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <script src="app.js"></script>
   </body>
 </html>

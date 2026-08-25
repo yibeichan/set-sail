@@ -46,12 +46,5 @@ $('.profile-label').textContent=profile.name||'Your desk';
 $('#profileButton').addEventListener('click',()=>profileDialog.showModal());
 $('#dialogClose').addEventListener('click',()=>profileDialog.close());
 $('#profileForm').addEventListener('submit',e=>{e.preventDefault();const next={name:$('#profileName').value.trim(),field:$('#profileField').value.trim(),regions:$('#profileRegions').value.trim()};localStorage.setItem('signal-profile',JSON.stringify(next));$('.profile-label').textContent=next.name||'Your desk';profileDialog.close()});
-$('#githubButton').addEventListener('click',async()=>{
-  const config=window.SIGNAL_CONFIG||{}; const status=$('#authStatus');
-  if(!config.supabaseUrl||!config.supabaseAnonKey||!window.supabase){status.textContent='To enable GitHub login: add your Supabase URL and anon key in config.js, then set the GitHub callback URL to this Pages site.';return;}
-  const client=window.supabase.createClient(config.supabaseUrl,config.supabaseAnonKey);
-  const {error}=await client.auth.signInWithOAuth({provider:'github',options:{redirectTo:window.location.origin+window.location.pathname}});
-  if(error) status.textContent=error.message;
-});
 document.addEventListener('keydown',e=>{if((e.metaKey||e.ctrlKey)&&e.key.toLowerCase()==='k'){e.preventDefault();$('#searchInput').focus()}});
 renderJobs();loadNotes();
