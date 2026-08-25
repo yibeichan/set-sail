@@ -17,7 +17,7 @@ function renderJobs(){
   });
   if (!state.newest) visible.reverse();
   $('#resultCount').textContent = String(visible.length).padStart(2,'0');
-  $('#jobList').innerHTML = visible.map((j,i)=>`<article class="job-card" style="animation-delay:${i*40}ms"><span class="job-strip"></span><div><h4>${j.title}</h4><div class="job-meta">${j.org}</div><div class="job-tags">${j.tags.map(t=>`<span class="tag">${t}</span>`).join('')}</div><a class="job-link" href="${j.url}" target="_blank">Open source listing ↗</a></div><div class="job-source">${j.source}<span class="job-age">${j.age}</span></div></article>`).join('');
+  $('#jobList').innerHTML = visible.map((j,i)=>`<article class="job-card" style="animation-delay:${i*40}ms"><span class="job-strip"></span><div><h4>${j.title}</h4><div class="job-meta">${j.org}</div><div class="job-tags">${j.tags.map(t=>`<span class="tag">${t}</span>`).join('')}</div><a class="job-link" href="${j.url}" target="_blank" rel="noopener noreferrer">Browse matching source ↗</a></div><div class="job-source">${j.source}<span class="job-age">${j.age}</span></div></article>`).join('');
   $('#emptyState').hidden = visible.length > 0;
 }
 function loadNotes(){
