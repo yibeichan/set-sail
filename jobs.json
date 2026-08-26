@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-25T21:15:14.085Z",
+  "updatedAt": "2026-08-26T07:07:16.749Z",
   "jobs": [
+    {
+      "title": "Operations Director",
+      "org": "University of Leeds · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "age": "Today",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/679796/operations-director/"
+    },
     {
       "title": "Assistant Professor of Developmental Biology",
       "org": "School of Biological Sciences, UC San Diego · United States",
@@ -12,6 +22,19 @@
         "Faculty"
       ],
       "url": "https://jobs.sciencecareers.org/job/679849/assistant-professor-of-developmental-biology/"
+    },
+    {
+      "title": "Tenure-Track Faculty Position in Cardiac Biology and Cancer Research",
+      "org": "Department of Cellular Biology & Anatomy, LSU Health Shreveport · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "age": "Today",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/679848/tenure-track-faculty-position-in-cardiac-biology-and-cancer-research/"
     },
     {
       "title": "Assistant Professor – Biological Chemistry",
@@ -75,26 +98,6 @@
       "url": "https://jobs.sciencecareers.org/job/679829/assistant-or-associate-professor-in-vaccinology-or-biologics/"
     },
     {
-      "title": "Senior Staff Associate I",
-      "org": "Columbia University Irving Medical Center/VP&S · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "age": "Today",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679842/senior-staff-associate-i-/"
-    },
-    {
-      "title": "Chief Editor",
-      "org": "Annals of Botany Company · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "age": "Today",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679663/chief-editor/"
-    },
-    {
       "title": "Faculty Member in Chemistry",
       "org": "College of the Atlantic · United States",
       "role": "faculty",
@@ -105,6 +108,16 @@
         "Faculty"
       ],
       "url": "https://careers.insidehighered.com/job/3535969/faculty-member-in-chemistry/"
+    },
+    {
+      "title": "Associate/Full Professor in Educational Leadership (Dissertation and Research)",
+      "org": "Texas A&M University-San Antonio · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "age": "171d ago",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3474564/associate-full-professor-in-educational-leadership-dissertation-and-research-/"
     },
     {
       "title": "Asst. Professor Social Work/Director MSW Prog/Online MSW Coord",
@@ -171,22 +184,12 @@
       "url": "https://careers.insidehighered.com/job/3542329/assistant-associate-academic-specialist-of-social-science-open-rank-/"
     },
     {
-      "title": "Noncredit Police Defensive Tactics Adjunct Instructor",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "age": "494d ago",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3335421/noncredit-police-defensive-tactics-adjunct-instructor/"
-    },
-    {
       "title": "Faculty Positions in Nonhuman Primate Research, School of Life Sciences, Westlake University",
       "org": "Westlake University School of Life Science · Global",
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "150d ago",
+      "age": "151d ago",
       "tags": [
         "Faculty"
       ],
@@ -238,7 +241,7 @@
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "47d ago",
+      "age": "48d ago",
       "tags": [
         "Faculty"
       ],
@@ -262,7 +265,7 @@
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "37d ago",
+      "age": "38d ago",
       "tags": [
         "Tenure-track"
       ],
@@ -274,7 +277,7 @@
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "7d ago",
+      "age": "8d ago",
       "tags": [
         "Faculty"
       ],
