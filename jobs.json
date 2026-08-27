@@ -1,19 +1,39 @@
 {
-  "updatedAt": "2026-08-26T07:07:16.749Z",
+  "updatedAt": "2026-08-27T17:36:18.469Z",
   "jobs": [
     {
-      "title": "Operations Director",
-      "org": "University of Leeds · United States",
+      "title": "Head of Oncology Drug Discovery and Development",
+      "org": "University of Virginia · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
       "age": "Today",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679796/operations-director/"
+      "url": "https://jobs.sciencecareers.org/job/679876/head-of-oncology-drug-discovery-and-development/"
     },
     {
-      "title": "Assistant Professor of Developmental Biology",
-      "org": "School of Biological Sciences, UC San Diego · United States",
+      "title": "Director, Division of Lung Diseases",
+      "org": "National Heart Lung and Blood Institute, NIH · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "age": "Today",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/679875/director-division-of-lung-diseases/"
+    },
+    {
+      "title": "Director, Division of Cardiovascular Sciences",
+      "org": "National Heart Lung and Blood Institute, NIH · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "age": "Today",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/679874/director-division-of-cardiovascular-sciences/"
+    },
+    {
+      "title": "Assistant Professor of Biology",
+      "org": "North Central College - Biology Department · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
@@ -21,23 +41,10 @@
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/679849/assistant-professor-of-developmental-biology/"
+      "url": "https://jobs.sciencecareers.org/job/679873/assistant-professor-of-biology/"
     },
     {
-      "title": "Tenure-Track Faculty Position in Cardiac Biology and Cancer Research",
-      "org": "Department of Cellular Biology & Anatomy, LSU Health Shreveport · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "age": "Today",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/679848/tenure-track-faculty-position-in-cardiac-biology-and-cancer-research/"
-    },
-    {
-      "title": "Assistant Professor – Biological Chemistry",
+      "title": "Assistant Professor - Evolutionary Biology",
       "org": "University of Massachusetts Amherst · United States",
       "role": "faculty",
       "region": "us",
@@ -46,11 +53,11 @@
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/679847/assistant-professor-biological-chemistry/"
+      "url": "https://jobs.sciencecareers.org/job/679871/assistant-professor-evolutionary-biology/"
     },
     {
-      "title": "Tenure-track Assistant Professor",
-      "org": "University of Minnesota Chemistry Department · United States",
+      "title": "Tenure-Track Assistant Professor in Evolutionary Ecology",
+      "org": "University of Iowa Dept of Biology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
@@ -59,43 +66,27 @@
         "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/679846/tenure-track-assistant-professor/"
+      "url": "https://jobs.sciencecareers.org/job/679870/tenure-track-assistant-professor-in-evolutionary-ecology/"
     },
     {
-      "title": "Assistant Professor of Medicine",
-      "org": "Columbia Univ · United States",
+      "title": "Emerging Scholars Forum 2027 | 19-20 January 2027 | Singapore",
+      "org": "Nanyang Technological University, Singapore · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
       "age": "Today",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/679845/assistant-professor-of-medicine/"
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/679872/emerging-scholars-forum-2027-19-20-january-2027-singapore/"
     },
     {
-      "title": "Assistant Professor of Avian Wildlife Conservation and Management",
-      "org": "University of North Carolina, Wilmington · United States",
+      "title": "Student Engagement Administrator - 12 month Fixed Term Contract",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
       "age": "Today",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/679844/assistant-professor-of-avian-wildlife-conservation-and-management/"
-    },
-    {
-      "title": "Assistant or Associate Professor in Vaccinology or Biologics",
-      "org": "The University of Manitoba Department of Microbiology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "age": "Today",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/679829/assistant-or-associate-professor-in-vaccinology-or-biologics/"
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/679869/student-engagement-administrator-12-month-fixed-term-contract/"
     },
     {
       "title": "Faculty Member in Chemistry",
@@ -103,7 +94,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "22d ago",
+      "age": "23d ago",
       "tags": [
         "Faculty"
       ],
@@ -115,7 +106,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "171d ago",
+      "age": "173d ago",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3474564/associate-full-professor-in-educational-leadership-dissertation-and-research-/"
     },
@@ -125,7 +116,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "306d ago",
+      "age": "308d ago",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3418890/asst-professor-social-work-director-msw-prog-online-msw-coord/"
     },
@@ -135,7 +126,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "551d ago",
+      "age": "553d ago",
       "tags": [
         "Faculty"
       ],
@@ -147,7 +138,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "246d ago",
+      "age": "247d ago",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3445402/assistant-associate-full-professor/"
     },
@@ -157,7 +148,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "248d ago",
+      "age": "250d ago",
       "tags": [
         "Faculty"
       ],
@@ -169,7 +160,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "675d ago",
+      "age": "677d ago",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3245533/philosophy-instructor-adjunct-applicant-pool/"
     },
@@ -179,7 +170,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "5d ago",
+      "age": "7d ago",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3542329/assistant-associate-academic-specialist-of-social-science-open-rank-/"
     },
@@ -189,7 +180,7 @@
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "151d ago",
+      "age": "152d ago",
       "tags": [
         "Faculty"
       ],
@@ -201,7 +192,7 @@
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "7d ago",
+      "age": "9d ago",
       "tags": [
         "Neuroscience",
         "Computational",
@@ -215,7 +206,7 @@
       "role": "postdoc",
       "region": "global",
       "source": "Nature Careers",
-      "age": "20d ago",
+      "age": "22d ago",
       "tags": [
         "Neuroscience",
         "Postdoc"
@@ -228,7 +219,7 @@
       "role": "postdoc",
       "region": "global",
       "source": "Nature Careers",
-      "age": "48d ago",
+      "age": "50d ago",
       "tags": [
         "Neuroscience",
         "Postdoc"
@@ -241,7 +232,7 @@
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "48d ago",
+      "age": "49d ago",
       "tags": [
         "Faculty"
       ],
@@ -253,7 +244,7 @@
       "role": "postdoc",
       "region": "global",
       "source": "Nature Careers",
-      "age": "61d ago",
+      "age": "62d ago",
       "tags": [
         "Postdoc"
       ],
@@ -265,7 +256,7 @@
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "38d ago",
+      "age": "39d ago",
       "tags": [
         "Tenure-track"
       ],
@@ -277,7 +268,7 @@
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "8d ago",
+      "age": "9d ago",
       "tags": [
         "Faculty"
       ],
