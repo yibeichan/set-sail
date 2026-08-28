@@ -1,39 +1,19 @@
 {
-  "updatedAt": "2026-08-27T17:36:18.469Z",
+  "updatedAt": "2026-08-28T18:38:13.368Z",
   "jobs": [
     {
-      "title": "Head of Oncology Drug Discovery and Development",
-      "org": "University of Virginia · United States",
+      "title": "Assistant/Associate/Full Professor",
+      "org": "University of Utah Department of Neurobiology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
       "age": "Today",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679876/head-of-oncology-drug-discovery-and-development/"
+      "url": "https://jobs.sciencecareers.org/job/679898/assistant-associate-full-professor/"
     },
     {
-      "title": "Director, Division of Lung Diseases",
-      "org": "National Heart Lung and Blood Institute, NIH · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "age": "Today",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679875/director-division-of-lung-diseases/"
-    },
-    {
-      "title": "Director, Division of Cardiovascular Sciences",
-      "org": "National Heart Lung and Blood Institute, NIH · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "age": "Today",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679874/director-division-of-cardiovascular-sciences/"
-    },
-    {
-      "title": "Assistant Professor of Biology",
-      "org": "North Central College - Biology Department · United States",
+      "title": "Assistant Professor in Materials Chemistry - (Canada Impact+ Emerging Leaders) – McGill University",
+      "org": "McGill University, Department of Chemistry, Faculty of Science · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
@@ -41,23 +21,11 @@
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/679873/assistant-professor-of-biology/"
+      "url": "https://jobs.sciencecareers.org/job/679897/assistant-professor-in-materials-chemistry-canada-impact-emerging-leaders-mcgill-university/"
     },
     {
-      "title": "Assistant Professor - Evolutionary Biology",
-      "org": "University of Massachusetts Amherst · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "age": "Today",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/679871/assistant-professor-evolutionary-biology/"
-    },
-    {
-      "title": "Tenure-Track Assistant Professor in Evolutionary Ecology",
-      "org": "University of Iowa Dept of Biology · United States",
+      "title": "Assistant Professor (tenure-track) position in Chemistry, McGill University",
+      "org": "McGill University, Department of Chemistry, Faculty of Science · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
@@ -66,27 +34,57 @@
         "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/679870/tenure-track-assistant-professor-in-evolutionary-ecology/"
+      "url": "https://jobs.sciencecareers.org/job/679896/assistant-professor-tenure-track-position-in-chemistry-mcgill-university/"
     },
     {
-      "title": "Emerging Scholars Forum 2027 | 19-20 January 2027 | Singapore",
-      "org": "Nanyang Technological University, Singapore · United States",
+      "title": "Biotechnology Director",
+      "org": "INNOVATION AND TECHNOLOGY COMMISSION (ITC) · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
       "age": "Today",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679872/emerging-scholars-forum-2027-19-20-january-2027-singapore/"
+      "url": "https://jobs.sciencecareers.org/job/679889/biotechnology-director-/"
     },
     {
-      "title": "Student Engagement Administrator - 12 month Fixed Term Contract",
+      "title": "EMBL Australia Group Leader",
+      "org": "Monash University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "age": "Today",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/679888/embl-australia-group-leader/"
+    },
+    {
+      "title": "Mass Spectrometry Technician",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
       "age": "Today",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679869/student-engagement-administrator-12-month-fixed-term-contract/"
+      "url": "https://jobs.sciencecareers.org/job/679894/mass-spectrometry-technician/"
+    },
+    {
+      "title": "Bioinformatician",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "age": "Today",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/679893/bioinformatician/"
+    },
+    {
+      "title": "Bioinformatics Engineer",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "age": "Today",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/679892/bioinformatics-engineer/"
     },
     {
       "title": "Faculty Member in Chemistry",
@@ -94,11 +92,21 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "23d ago",
+      "age": "24d ago",
       "tags": [
         "Faculty"
       ],
       "url": "https://careers.insidehighered.com/job/3535969/faculty-member-in-chemistry/"
+    },
+    {
+      "title": "Veterinary Curriculum Instructors",
+      "org": "The Ohio State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "age": "306d ago",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3420637/veterinary-curriculum-instructors/"
     },
     {
       "title": "Associate/Full Professor in Educational Leadership (Dissertation and Research)",
@@ -106,7 +114,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "173d ago",
+      "age": "174d ago",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3474564/associate-full-professor-in-educational-leadership-dissertation-and-research-/"
     },
@@ -116,7 +124,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "308d ago",
+      "age": "309d ago",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3418890/asst-professor-social-work-director-msw-prog-online-msw-coord/"
     },
@@ -126,7 +134,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "553d ago",
+      "age": "554d ago",
       "tags": [
         "Faculty"
       ],
@@ -138,7 +146,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "247d ago",
+      "age": "248d ago",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3445402/assistant-associate-full-professor/"
     },
@@ -148,7 +156,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "250d ago",
+      "age": "251d ago",
       "tags": [
         "Faculty"
       ],
@@ -160,19 +168,9 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "677d ago",
+      "age": "678d ago",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3245533/philosophy-instructor-adjunct-applicant-pool/"
-    },
-    {
-      "title": "Assistant/Associate Academic Specialist of Social Science (Open Rank)",
-      "org": "New York University Abu Dhabi · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "age": "7d ago",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3542329/assistant-associate-academic-specialist-of-social-science-open-rank-/"
     },
     {
       "title": "Faculty Positions in Nonhuman Primate Research, School of Life Sciences, Westlake University",
@@ -180,7 +178,7 @@
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "152d ago",
+      "age": "153d ago",
       "tags": [
         "Faculty"
       ],
@@ -192,7 +190,7 @@
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "9d ago",
+      "age": "10d ago",
       "tags": [
         "Neuroscience",
         "Computational",
@@ -206,7 +204,7 @@
       "role": "postdoc",
       "region": "global",
       "source": "Nature Careers",
-      "age": "22d ago",
+      "age": "23d ago",
       "tags": [
         "Neuroscience",
         "Postdoc"
@@ -219,7 +217,7 @@
       "role": "postdoc",
       "region": "global",
       "source": "Nature Careers",
-      "age": "50d ago",
+      "age": "51d ago",
       "tags": [
         "Neuroscience",
         "Postdoc"
@@ -232,7 +230,7 @@
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "49d ago",
+      "age": "50d ago",
       "tags": [
         "Faculty"
       ],
@@ -244,7 +242,7 @@
       "role": "postdoc",
       "region": "global",
       "source": "Nature Careers",
-      "age": "62d ago",
+      "age": "64d ago",
       "tags": [
         "Postdoc"
       ],
@@ -256,7 +254,7 @@
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "39d ago",
+      "age": "40d ago",
       "tags": [
         "Tenure-track"
       ],
@@ -268,7 +266,7 @@
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "9d ago",
+      "age": "10d ago",
       "tags": [
         "Faculty"
       ],
