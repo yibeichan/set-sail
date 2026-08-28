@@ -17,13 +17,13 @@
           <span class="brand-mark"><i></i><i></i><i></i></span>
           <span>signal<span class="brand-slash">/</span>desk</span>
         </a>
-        <div class="status"><span class="status-dot"></span>monitoring 7 sources <span class="status-divider"></span> last scan 2h ago</div>
-        <div class="top-actions"><button class="profile-button" id="profileButton"><span class="avatar">YB</span><span class="profile-label">Your desk</span></button><button class="icon-button" id="themeButton" aria-label="Toggle contrast mode">◐</button></div>
+        <div class="status"><span class="status-dot"></span><span id="statusText">loading feed…</span></div>
+        <div class="top-actions"><button class="profile-button" id="profileButton"><span class="avatar" id="profileAvatar">SD</span><span class="profile-label">Your desk</span></button><button class="icon-button" id="themeButton" aria-label="Toggle contrast mode">◐</button></div>
       </header>
 
       <main id="top">
         <section class="hero">
-          <div class="eyebrow">THE RESEARCH JOB RADAR <span>///</span> 25 AUG 2026</div>
+          <div class="eyebrow">THE RESEARCH JOB RADAR <span>///</span></div>
           <h1>Find the signal<br /><em>between the titles.</em></h1>
           <p class="hero-copy">A focused monitor for science, academic, and European research roles. Search broadly. Refine with intent.</p>
           <div class="search-wrap">
@@ -36,8 +36,8 @@
 
         <section class="overview" aria-label="Monitor overview">
           <div class="metric metric-main"><span class="metric-label">OPEN SIGNALS</span><strong id="resultCount">08</strong><span class="metric-note">across your watchlist</span></div>
-          <div class="metric"><span class="metric-label">NEW THIS WEEK</span><strong>14</strong><span class="metric-note">+4 since Monday</span></div>
-          <div class="metric"><span class="metric-label">SOURCES ON</span><strong>07</strong><span class="metric-note">3 continents</span></div>
+          <div class="metric"><span class="metric-label">NEW THIS WEEK</span><strong id="statNewWeek">--</strong><span class="metric-note" id="statNewWeekNote">in the last 7 days</span></div>
+          <div class="metric"><span class="metric-label">SOURCES ON</span><strong id="statSources">--</strong><span class="metric-note" id="statSourcesNote">live RSS feeds</span></div>
           <div class="metric"><span class="metric-label">YOUR NOTES</span><strong id="noteCount">03</strong><span class="metric-note">keep the context</span></div>
         </section>
 
@@ -51,6 +51,7 @@
               <div class="filter-group"><span>ROLE</span><button class="filter active" data-role="all">All roles</button><button class="filter" data-role="faculty">Faculty</button><button class="filter" data-role="postdoc">Postdoc</button><button class="filter" data-role="research">Research</button><button class="filter" data-role="phd">PhD</button></div>
               <div class="filter-group"><span>REGION</span><button class="filter active" data-region="all">Everywhere</button><button class="filter" data-region="us">US</button><button class="filter" data-region="europe">Europe</button><button class="filter" data-region="global">Global</button></div>
             </div>
+            <div id="offlineBanner" class="offline-banner" hidden>Live feed unavailable — showing an empty desk. Data refreshes daily; check back soon.</div>
             <div id="jobList" class="job-list"></div>
             <div id="emptyState" class="empty-state" hidden>No signals match that combination.<br /><button id="clearFilters">Clear filters</button></div>
             <div class="feed-footer"><span><i class="pulse"></i> Feed is a curated starting point — not an exhaustive crawl.</span><a href="#sources">View all source notes →</a></div>
@@ -87,7 +88,8 @@
       <button class="dialog-close" id="dialogClose" aria-label="Close profile">×</button>
       <div class="section-kicker">YOUR SIGNAL PROFILE</div><h2>Make the desk yours.</h2>
       <p class="dialog-copy">Your preferences stay in this browser and are never sent anywhere.</p>
-      <form id="profileForm"><label>Your name<input id="profileName" type="text" placeholder="e.g. Yi Bei" /></label><label>Primary field<input id="profileField" type="text" placeholder="e.g. neuroscience" /></label><label>Regions to watch<input id="profileRegions" type="text" placeholder="e.g. US, Europe" /></label><button class="save-profile" type="submit">Save preferences</button></form>
+      <form id="profileForm"><label>Your name<input id="profileName" type="text" placeholder="e.g. Alex Chen" /></label><label>Primary field<input id="profileField" type="text" placeholder="e.g. neuroscience" /></label><label>Regions to watch<input id="profileRegions" type="text" placeholder="e.g. US, Europe" /></label><button class="save-profile" type="submit">Save preferences</button></form>
+      <div class="data-row"><button class="data-button" id="exportData" type="button">Export data (JSON)</button><button class="data-button" id="importData" type="button">Import data</button><input id="importFile" type="file" accept="application/json,.json" hidden /></div>
     </dialog>
     <script src="app.js"></script>
   </body>

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T20:49:56.010Z",
+  "updatedAt": "2026-08-28T21:06:33.240Z",
   "jobs": [
     {
       "title": "Assistant/Associate/Full Professor",
@@ -7,7 +7,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "age": "Today",
+      "published": "2026-08-28T22:47:00.000Z",
       "tags": [],
       "url": "https://jobs.sciencecareers.org/job/679898/assistant-associate-full-professor/"
     },
@@ -17,7 +17,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "age": "Today",
+      "published": "2026-08-28T20:50:00.000Z",
       "tags": [
         "Faculty"
       ],
@@ -29,7 +29,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "age": "Today",
+      "published": "2026-08-28T20:14:00.000Z",
       "tags": [
         "Tenure-track",
         "Faculty"
@@ -42,7 +42,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "age": "Today",
+      "published": "2026-08-28T09:01:00.000Z",
       "tags": [],
       "url": "https://jobs.sciencecareers.org/job/679889/biotechnology-director-/"
     },
@@ -52,7 +52,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "age": "Today",
+      "published": "2026-08-28T08:18:00.000Z",
       "tags": [],
       "url": "https://jobs.sciencecareers.org/job/679888/embl-australia-group-leader/"
     },
@@ -62,7 +62,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "age": "Today",
+      "published": "2026-08-28T09:00:00.000Z",
       "tags": [],
       "url": "https://jobs.sciencecareers.org/job/679894/mass-spectrometry-technician/"
     },
@@ -72,7 +72,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "age": "Today",
+      "published": "2026-08-28T09:00:00.000Z",
       "tags": [],
       "url": "https://jobs.sciencecareers.org/job/679893/bioinformatician/"
     },
@@ -82,7 +82,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "age": "Today",
+      "published": "2026-08-28T09:00:00.000Z",
       "tags": [],
       "url": "https://jobs.sciencecareers.org/job/679892/bioinformatics-engineer/"
     },
@@ -92,7 +92,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "25d ago",
+      "published": "2026-08-03T19:08:00.000Z",
       "tags": [
         "Faculty"
       ],
@@ -104,7 +104,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "306d ago",
+      "published": "2025-10-26T09:00:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3420637/veterinary-curriculum-instructors/"
     },
@@ -114,7 +114,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "174d ago",
+      "published": "2026-03-07T10:00:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3474564/associate-full-professor-in-educational-leadership-dissertation-and-research-/"
     },
@@ -124,7 +124,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "309d ago",
+      "published": "2025-10-23T09:00:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3418890/asst-professor-social-work-director-msw-prog-online-msw-coord/"
     },
@@ -134,7 +134,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "554d ago",
+      "published": "2025-02-20T10:00:00.000Z",
       "tags": [
         "Faculty"
       ],
@@ -146,7 +146,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "249d ago",
+      "published": "2025-12-22T19:36:46.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3445402/assistant-associate-full-professor/"
     },
@@ -156,7 +156,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "251d ago",
+      "published": "2025-12-20T10:00:00.000Z",
       "tags": [
         "Faculty"
       ],
@@ -168,7 +168,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "678d ago",
+      "published": "2024-10-19T09:00:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3245533/philosophy-instructor-adjunct-applicant-pool/"
     },
@@ -178,19 +178,19 @@
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "153d ago",
+      "published": "2026-03-28T00:00:00.000Z",
       "tags": [
         "Faculty"
       ],
       "url": "https://www.nature.com/naturecareers/job/12856820/faculty-positions-in-nonhuman-primate-research-school-of-life-sciences-westlake-university/"
     },
     {
-      "title": "Tenure-Track Faculty- Dept of Neuroscience (Computational or Theoretical Neuroscience)",
-      "org": "Yale University School of Medicine - Department of Neuroscience · Global",
+      "title": "Department of Neuroscience: Tenure-Track Faculty- Dept of Neuroscience (Computational or Theoretical Neuroscience)",
+      "org": "Yale University School of Medicine · Global",
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "10d ago",
+      "published": "2026-08-18T13:55:00.000Z",
       "tags": [
         "Neuroscience",
         "Computational",
@@ -204,7 +204,7 @@
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "Today",
+      "published": "2026-08-28T19:54:00.000Z",
       "tags": [
         "Neuroscience",
         "Faculty"
@@ -212,12 +212,12 @@
       "url": "https://www.nature.com/naturecareers/job/12863049/faculty-position-in-neuroscience-university-of-colorado-anschutz-medical-campus-pharmacology-/"
     },
     {
-      "title": "Postdoctoral Associate / Research Scientist in Systems Neuroscience and/or Neuroengineering",
-      "org": "University of Pittsburgh - Center for the Neural Basis of Cognition / Bioengineering · Global",
+      "title": "Center for the Neural Basis of Cognition / Bioengineering: Postdoctoral Associate / Research Scientist in Systems Neuroscience and/or Neuroengineering",
+      "org": "University of Pittsburgh · Global",
       "role": "postdoc",
       "region": "global",
       "source": "Nature Careers",
-      "age": "23d ago",
+      "published": "2026-08-05T15:12:00.000Z",
       "tags": [
         "Neuroscience",
         "Postdoc"
@@ -230,7 +230,7 @@
       "role": "postdoc",
       "region": "global",
       "source": "Nature Careers",
-      "age": "51d ago",
+      "published": "2026-07-08T14:57:37.000Z",
       "tags": [
         "Neuroscience",
         "Postdoc"
@@ -243,7 +243,7 @@
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "50d ago",
+      "published": "2026-07-08T23:00:00.000Z",
       "tags": [
         "Faculty"
       ],
@@ -255,19 +255,19 @@
       "role": "postdoc",
       "region": "global",
       "source": "Nature Careers",
-      "age": "64d ago",
+      "published": "2026-06-25T17:45:59.000Z",
       "tags": [
         "Postdoc"
       ],
       "url": "https://www.nature.com/naturecareers/job/12861100/postdoctoral-researcher/"
     },
     {
-      "title": "ELSC Tenure Track Position",
-      "org": "The Edmond and Lily Safra Center for Brain Science at The Hebrew University of Jerusalem · Global",
+      "title": "The Edmond and Lily Safra Center for Brain Science at The Hebrew University of Jerusalem: ELSC Tenure Track Position",
+      "org": "Nature Careers · Global",
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "age": "40d ago",
+      "published": "2026-07-19T07:00:00.000Z",
       "tags": [
         "Tenure-track"
       ],
