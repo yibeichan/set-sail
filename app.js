@@ -9,6 +9,25 @@ const fallbackJobs = [
   { title:'Postdoctoral Fellowship in Neural Engineering', org:'National Institute on Drug Abuse (NIDA) · Baltimore, MD', role:'postdoc', region:'us', source:'Nature Careers', age:'Live feed', tags:['Neural engineering','Postdoc'], url:'https://www.nature.com/naturecareers/job/12861495/postdoctoral-fellowship-in-neural-engineering-section-behavioral-neuroscience-research-branch/' }
 ];
 let jobs = fallbackJobs;
+const safeUrl = u => /^https?:\/\//.test(u) ? u : '#';
+const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; };
+function renderJobCard(job, index) {
+  const card = el('article', 'job-card'); card.style.animationDelay = `${index * 40}ms`;
+  card.append(el('span', 'job-strip'));
+  const body = el('div');
+  body.append(el('h4', null, job.title));
+  body.append(el('div', 'job-meta', job.org));
+  const tagWrap = el('div', 'job-tags');
+  job.tags.forEach(t => tagWrap.append(el('span', 'tag', t)));
+  body.append(tagWrap);
+  const link = el('a', 'job-link', 'Open this job ↗');
+  link.href = safeUrl(job.url); link.target = '_blank'; link.rel = 'noopener noreferrer';
+  body.append(link);
+  const side = el('div', 'job-source');
+  side.append(document.createTextNode(job.source), el('span', 'job-age', job.age));
+  card.append(body, side);
+  return card;
+}
 let state = { role:'all', region:'all', query:'', newest:true };
 const $ = (s) => document.querySelector(s);
 function renderJobs(){
@@ -17,8 +36,9 @@ function renderJobs(){
     return (state.role==='all'||j.role===state.role) && (state.region==='all'||j.region===state.region) && (!state.query||haystack.includes(state.query.toLowerCase()));
   });
   if (!state.newest) visible.reverse();
-  $('#resultCount').textContent = String(visible.length).padStart(2,'0');
-  $('#jobList').innerHTML = visible.map((j,i)=>`<article class="job-card" style="animation-delay:${i*40}ms"><span class="job-strip"></span><div><h4>${j.title}</h4><div class="job-meta">${j.org}</div><div class="job-tags">${j.tags.map(t=>`<span class="tag">${t}</span>`).join('')}</div><a class="job-link" href="${j.url}" target="_blank" rel="noopener noreferrer">Open this job ↗</a></div><div class="job-source">${j.source}<span class="job-age">${j.age}</span></div></article>`).join('');
+  $('#resultCount').textContent = String(visible.length).padStart(2, '0');
+  const list = $('#jobList'); list.textContent = '';
+  visible.forEach((job, i) => list.append(renderJobCard(job, i)));
   $('#emptyState').hidden = visible.length > 0;
 }
 function loadNotes(){
@@ -30,7 +50,9 @@ function loadNotes(){
   const notes=JSON.parse(localStorage.getItem('signal-notes')||JSON.stringify(starterNotes));
   if(!localStorage.getItem('signal-notes')) localStorage.setItem('signal-notes',JSON.stringify(notes));
   $('#noteCount').textContent=String(notes.length).padStart(2,'0');
-  $('#notesList').innerHTML=notes.slice().reverse().map(n=>`<div class="note">${n.text}<time>${n.date}</time></div>`).join('');
+  $('#notesList').textContent = '';
+  const wrap = $('#notesList');
+  notes.slice().reverse().forEach(n => { const d = el('div', 'note'); d.append(document.createTextNode(n.text), el('time', null, n.date)); wrap.append(d); });
 }
 document.querySelectorAll('.filter').forEach(b=>b.addEventListener('click',()=>{ const key=b.dataset.role?'role':'region'; state[key]=b.dataset[key]; document.querySelectorAll(`.filter[data-${key}]`).forEach(x=>x.classList.toggle('active',x===b)); renderJobs(); }));
 $('#searchInput').addEventListener('input',e=>{state.query=e.target.value.trim();renderJobs()});
