@@ -6,7 +6,13 @@ const feeds = [
   { source:'Nature Careers', url:'https://www.nature.com/naturecareers/jobsrss/?keywords=Neuroscience&countrycode=GB', region:'global', limit:8 }
 ];
 
-const decode = value => value.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g,'$1').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&#x27;/g,"'").replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').trim();
+const decode = value => String(value)
+  .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')  // unwrap CDATA first
+  .replace(/<[^>]*>/g, ' ')          // strip complete tags while still encoded
+  .replace(/<[^>]*$/, ' ')           // strip unterminated tag remnant
+  .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&#x27;/g, "'")
+  .replace(/\s+/g, ' ').trim();
+const safeUrl = url => url.replace(/[\s"'<>]/g, '');
 const field = (item, name) => decode((item.match(new RegExp(`<${name}(?:\\s[^>]*)?>([\\s\\S]*?)</${name}>`,'i'))||[])[1]||'');
 const roleFor = title => /postdoc|post-doctor|fellowship/i.test(title)?'postdoc':/ph\.d|phd|doctoral/i.test(title)?'phd':/research scientist|staff scientist|research associate/i.test(title)?'research':'faculty';
 const tagsFor = title => [...new Set([...( /neuroscience|neural|neurobiology/i.test(title)?['Neuroscience']:[]), ...(/computational|theoretical/i.test(title)?['Computational']:[]), ...(/postdoc|post-doctor|fellowship/i.test(title)?['Postdoc']:[]), ...(/tenure-track|tenure track/i.test(title)?['Tenure-track']:[]), ...(/assistant professor|associate professor|faculty/i.test(title)?['Faculty']:[])])].slice(0,3);
@@ -19,7 +25,7 @@ for (const feed of feeds) {
     if(!response.ok) throw new Error(`${response.status}`);
     const xml=await response.text();
     for (const item of xml.match(/<item[\s\S]*?<\/item>/gi)||[]) {
-      const rawTitle=field(item,'title'); const url=field(item,'link').split('?')[0]; const date=field(item,'pubDate')||field(item,'dc:date');
+      const rawTitle=field(item,'title'); const url=safeUrl(field(item,'link').split('?')[0]); const date=field(item,'pubDate')||field(item,'dc:date');
       if(!rawTitle||!url||!/^https?:\/\//.test(url)) continue;
       const parts=rawTitle.split(':'); const org=parts.length>1?parts.shift().trim():feed.source; const title=parts.join(':').trim()||rawTitle;
       jobs.push({title,org:`${org} · ${feed.region==='us'?'United States':feed.region==='global'?'Global':'Europe'}`,role:roleFor(title),region:feed.region,source:feed.source,age:ageFor(date),tags:tagsFor(title),url});

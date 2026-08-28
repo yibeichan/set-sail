@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T18:38:13.368Z",
+  "updatedAt": "2026-08-28T20:49:56.010Z",
   "jobs": [
     {
       "title": "Assistant/Associate/Full Professor",
@@ -92,7 +92,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "24d ago",
+      "age": "25d ago",
       "tags": [
         "Faculty"
       ],
@@ -146,7 +146,7 @@
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "age": "248d ago",
+      "age": "249d ago",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3445402/assistant-associate-full-professor/"
     },
@@ -197,6 +197,19 @@
         "Tenure-track"
       ],
       "url": "https://www.nature.com/naturecareers/job/12862704/tenure-track-faculty-dept-of-neuroscience-computational-or-theoretical-neuroscience-/"
+    },
+    {
+      "title": "Faculty Position in Neuroscience - University of Colorado Anschutz Medical Campus (Pharmacology)",
+      "org": "University of Colorado Anschutz · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "age": "Today",
+      "tags": [
+        "Neuroscience",
+        "Faculty"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12863049/faculty-position-in-neuroscience-university-of-colorado-anschutz-medical-campus-pharmacology-/"
     },
     {
       "title": "Postdoctoral Associate / Research Scientist in Systems Neuroscience and/or Neuroengineering",
@@ -259,18 +272,6 @@
         "Tenure-track"
       ],
       "url": "https://www.nature.com/naturecareers/job/12861765/elsc-tenure-track-position/"
-    },
-    {
-      "title": "UTSW OBI PML - Assistant or Associate Professor",
-      "org": "Peter O'Donnell Jr. Brain Institute · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "age": "10d ago",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12862674/utsw-obi-pml-assistant-or-associate-professor/"
     }
   ]
 }
