@@ -1,90 +1,89 @@
 {
-  "updatedAt": "2026-08-28T21:06:33.240Z",
+  "updatedAt": "2026-08-29T12:39:27.774Z",
   "jobs": [
     {
-      "title": "Assistant/Associate/Full Professor",
-      "org": "University of Utah Department of Neurobiology · United States",
+      "title": "(Senior) Scientist, Plant Metabolic Engineering",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-08-28T22:47:00.000Z",
+      "published": "2026-08-29T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679898/assistant-associate-full-professor/"
+      "url": "https://jobs.sciencecareers.org/job/679907/-senior-scientist-plant-metabolic-engineering/"
     },
     {
-      "title": "Assistant Professor in Materials Chemistry - (Canada Impact+ Emerging Leaders) – McGill University",
-      "org": "McGill University, Department of Chemistry, Faculty of Science · United States",
+      "title": "Photosynthesis Assay Development",
+      "org": "Ellison Institute of Technology: Scientist · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-08-28T20:50:00.000Z",
+      "published": "2026-08-29T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/679906/scientist-photosynthesis-assay-development/"
+    },
+    {
+      "title": "Plant Cell Culture",
+      "org": "Ellison Institute of Technology: Laboratory Technician · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-08-29T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/679905/laboratory-technician-plant-cell-culture/"
+    },
+    {
+      "title": "Postdoctoral Research Fellow (Zuercher Lab) - Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-08-29T09:00:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/679904/postdoctoral-research-fellow-zuercher-lab-generative-biology-institute/"
+    },
+    {
+      "title": "Plant Biology Institute",
+      "org": "Ellison Institute of Technology: Laboratory Technician · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-08-29T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/679903/laboratory-technician-plant-biology-institute/"
+    },
+    {
+      "title": "Chief Medical Research Officer",
+      "org": "National Heart Lung and Blood Institute, NIH · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-08-29T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/679879/chief-medical-research-officer/"
+    },
+    {
+      "title": "Downers Grove: Assistant Professor- IL- Physiology",
+      "org": "Midwestern University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-08-29T08:59:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/679897/assistant-professor-in-materials-chemistry-canada-impact-emerging-leaders-mcgill-university/"
+      "url": "https://jobs.sciencecareers.org/job/679880/assistant-professor-il-physiology/"
     },
     {
-      "title": "Assistant Professor (tenure-track) position in Chemistry, McGill University",
-      "org": "McGill University, Department of Chemistry, Faculty of Science · United States",
+      "title": "Ludwig Princeton Branch: Assistant, Associate, or Full Professor, Ludwig Princeton Branch",
+      "org": "Princeton University · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-08-28T20:14:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/679896/assistant-professor-tenure-track-position-in-chemistry-mcgill-university/"
-    },
-    {
-      "title": "Biotechnology Director",
-      "org": "INNOVATION AND TECHNOLOGY COMMISSION (ITC) · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-08-28T09:01:00.000Z",
+      "published": "2026-08-29T01:58:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679889/biotechnology-director-/"
-    },
-    {
-      "title": "EMBL Australia Group Leader",
-      "org": "Monash University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-08-28T08:18:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679888/embl-australia-group-leader/"
-    },
-    {
-      "title": "Mass Spectrometry Technician",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-08-28T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679894/mass-spectrometry-technician/"
-    },
-    {
-      "title": "Bioinformatician",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-08-28T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679893/bioinformatician/"
-    },
-    {
-      "title": "Bioinformatics Engineer",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-08-28T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679892/bioinformatics-engineer/"
+      "url": "https://jobs.sciencecareers.org/job/679902/assistant-associate-or-full-professor-ludwig-princeton-branch/"
     },
     {
       "title": "Faculty Member in Chemistry",
