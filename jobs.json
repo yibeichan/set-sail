@@ -1,99 +1,101 @@
 {
-  "updatedAt": "2026-09-01T11:35:53.980Z",
+  "updatedAt": "2026-09-02T11:13:47.312Z",
   "jobs": [
     {
-      "title": "Max Planck Postdoc Program (Postdoctoral positions at Max Planck Institutes)",
-      "org": "Max Planck Society · United States",
+      "title": "Scientist, Advanced Genome Technologies - Plant Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-02T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/679948/scientist-advanced-genome-technologies-plant-biology-institute/"
+    },
+    {
+      "title": "Postdoctoral Scholar ??? Microbiome, Nutrition and Host Protection",
+      "org": "University of California, San Francisco · United States",
       "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-01T09:04:00.000Z",
+      "published": "2026-09-02T09:30:04.000Z",
       "tags": [
         "Postdoc"
       ],
-      "url": "https://jobs.sciencecareers.org/job/679908/max-planck-postdoc-program-postdoctoral-positions-at-max-planck-institutes-/"
+      "url": "https://jobs.sciencecareers.org/job/679946/postdoctoral-scholar-microbiome-nutrition-and-host-protection/"
     },
     {
-      "title": "Kempner Institute Research Fellow",
-      "org": "Kempner Institute, Harvard University · United States",
+      "title": "Chief Executive Officer, NSF Grid Modernization Engine in the Carolinas",
+      "org": "University of North Carolina at Charlotte · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-01T09:01:00.000Z",
+      "published": "2026-09-02T02:21:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679901/kempner-institute-research-fellow/"
+      "url": "https://jobs.sciencecareers.org/job/679944/chief-executive-officer-nsf-grid-modernization-engine-in-the-carolinas/"
     },
     {
-      "title": "Assistant Clinical Investigator",
-      "org": "NIAID, NIH · United States",
+      "title": "Assistant Professor in Evolutionary Biology",
+      "org": "Stanford University · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-01T09:01:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679843/assistant-clinical-investigator/"
-    },
-    {
-      "title": "Assistant Professor of BioSciences",
-      "org": "Rice University Department of BioSciences · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-01T09:00:00.000Z",
+      "published": "2026-09-02T00:18:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/679863/assistant-professor-of-biosciences/"
+      "url": "https://jobs.sciencecareers.org/job/679941/assistant-professor-in-evolutionary-biology/"
     },
     {
-      "title": "Tenure-Track Faculty Positions for Physician-Scientists",
-      "org": "Tohoku University · United States",
+      "title": "Tenure Track Assistant Professor",
+      "org": "Fordham University · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-01T09:00:00.000Z",
+      "published": "2026-09-01T23:25:00.000Z",
       "tags": [
         "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/679832/tenure-track-faculty-positions-for-physician-scientists/"
+      "url": "https://jobs.sciencecareers.org/job/679939/tenure-track-assistant-professor/"
     },
     {
-      "title": "Tenure Track Assistant Professor – Molecular/Cellular Biologist",
-      "org": "UT Southwestern Medical Center Dept of Pharmacology · United States",
+      "title": "Tenure Track Assistant Professor – Gene Regulation / Molecular Biology / Omics",
+      "org": "UT Southwestern Medical Center · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-01T09:00:00.000Z",
+      "published": "2026-09-02T01:14:00.000Z",
       "tags": [
         "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/679799/tenure-track-assistant-professor-molecular-cellular-biologist/"
+      "url": "https://jobs.sciencecareers.org/job/679942/tenure-track-assistant-professor-gene-regulation-molecular-biology-omics/"
     },
     {
-      "title": "Assistant, Associate, Full Professor of Biochemistry (Tenured or Tenure Track)",
-      "org": "University of Wisconsin-Madison, Department of Biochemistry · United States",
+      "title": "Assistant or Associate Professor of Cell Biology",
+      "org": "University of Virginia · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-01T08:59:00.000Z",
+      "published": "2026-09-01T22:38:00.000Z",
       "tags": [
-        "Tenure-track"
+        "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/679909/assistant-associate-full-professor-of-biochemistry-tenured-or-tenure-track-/"
+      "url": "https://jobs.sciencecareers.org/job/679937/assistant-or-associate-professor-of-cell-biology/"
     },
     {
-      "title": "Postdoctoral Research Scientist",
-      "org": "Columbia University Irving Medical Center/VP&S · United States",
-      "role": "postdoc",
+      "title": "Tenure-Track Faculty Opportunities, Department of Translational Neuroscience",
+      "org": "University of Texas Medical Branch · United States",
+      "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-01T01:50:00.000Z",
+      "published": "2026-09-01T21:28:00.000Z",
       "tags": [
-        "Postdoc"
+        "Neuroscience",
+        "Tenure-track",
+        "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/679920/postdoctoral-research-scientist/"
+      "url": "https://jobs.sciencecareers.org/job/679935/tenure-track-faculty-opportunities-department-of-translational-neuroscience-/"
     },
     {
       "title": "Faculty Member in Chemistry",
