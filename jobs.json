@@ -1,101 +1,97 @@
 {
-  "updatedAt": "2026-09-02T11:13:47.312Z",
+  "updatedAt": "2026-09-03T11:09:36.583Z",
   "jobs": [
     {
-      "title": "Scientist, Advanced Genome Technologies - Plant Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "Endowed Welch Chair of Chemistry",
+      "org": "University of Texas at El Paso · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-02T09:00:00.000Z",
+      "published": "2026-09-03T09:30:04.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679948/scientist-advanced-genome-technologies-plant-biology-institute/"
+      "url": "https://jobs.sciencecareers.org/job/679974/endowed-welch-chair-of-chemistry/"
     },
     {
-      "title": "Postdoctoral Scholar ??? Microbiome, Nutrition and Host Protection",
-      "org": "University of California, San Francisco · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-02T09:30:04.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/679946/postdoctoral-scholar-microbiome-nutrition-and-host-protection/"
-    },
-    {
-      "title": "Chief Executive Officer, NSF Grid Modernization Engine in the Carolinas",
-      "org": "University of North Carolina at Charlotte · United States",
+      "title": "Earth, Ocean and Atmospheric Sciences Department- University of British Columbia: Assistant Professor, Tenure Track, in U-Pb Geochronology",
+      "org": "Science Careers · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-02T02:21:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679944/chief-executive-officer-nsf-grid-modernization-engine-in-the-carolinas/"
-    },
-    {
-      "title": "Assistant Professor in Evolutionary Biology",
-      "org": "Stanford University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-02T00:18:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/679941/assistant-professor-in-evolutionary-biology/"
-    },
-    {
-      "title": "Tenure Track Assistant Professor",
-      "org": "Fordham University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-01T23:25:00.000Z",
+      "published": "2026-09-03T02:30:00.000Z",
       "tags": [
         "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/679939/tenure-track-assistant-professor/"
+      "url": "https://jobs.sciencecareers.org/job/679973/assistant-professor-tenure-track-in-u-pb-geochronology/"
     },
     {
-      "title": "Tenure Track Assistant Professor – Gene Regulation / Molecular Biology / Omics",
-      "org": "UT Southwestern Medical Center · United States",
+      "title": "UCLA Department of Neurobiology Open-rank Tenure-track/tenured Faculty Position",
+      "org": "UCLA Department of Neurobiology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-02T01:14:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/679942/tenure-track-assistant-professor-gene-regulation-molecular-biology-omics/"
-    },
-    {
-      "title": "Assistant or Associate Professor of Cell Biology",
-      "org": "University of Virginia · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-01T22:38:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/679937/assistant-or-associate-professor-of-cell-biology/"
-    },
-    {
-      "title": "Tenure-Track Faculty Opportunities, Department of Translational Neuroscience",
-      "org": "University of Texas Medical Branch · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-01T21:28:00.000Z",
+      "published": "2026-09-02T21:54:00.000Z",
       "tags": [
         "Neuroscience",
         "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/679935/tenure-track-faculty-opportunities-department-of-translational-neuroscience-/"
+      "url": "https://jobs.sciencecareers.org/job/679958/ucla-department-of-neurobiology-open-rank-tenure-track-tenured-faculty-position/"
+    },
+    {
+      "title": "Academic Anatomic Pathologist_Assistant/Associate/Full Professor",
+      "org": "University of California, Davis · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-03T09:30:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/679975/academic-anatomic-pathologist_assistant-associate-full-professor/"
+    },
+    {
+      "title": "Operations Administrator (12 month FTC)",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-03T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/679976/operations-administrator-12-month-ftc-/"
+    },
+    {
+      "title": "Innovative investigators at the Assistant Member level",
+      "org": "Memorial Sloan-Kettering Cancer Center · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-03T01:27:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/679971/innovative-investigators-at-the-assistant-member-level/"
+    },
+    {
+      "title": "Tenure Track Faculty Position",
+      "org": "Memorial Sloan-Kettering Cancer Center · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-03T01:23:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/679970/tenure-track-faculty-position/"
+    },
+    {
+      "title": "FACULTY POSITIONS FOR SCIENTISTS AND PHYSICIAN-SCIENTISTS IN IMMUNO-ONCOLOGY",
+      "org": "Memorial Sloan-Kettering Cancer Center · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-03T01:20:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/679969/faculty-positions-for-scientists-and-physician-scientists-in-immuno-oncology/"
     },
     {
       "title": "Faculty Member in Chemistry",
@@ -108,6 +104,44 @@
         "Faculty"
       ],
       "url": "https://careers.insidehighered.com/job/3535969/faculty-member-in-chemistry/"
+    },
+    {
+      "title": "Associate Professor, School of Graduate Studies",
+      "org": "Lingnan University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-09-03T06:56:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3547127/associate-professor-school-of-graduate-studies/"
+    },
+    {
+      "title": "Associate Professor of Professional Counseling (Tenure Track)",
+      "org": "The University of Oklahoma · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-09-03T02:21:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3547094/associate-professor-of-professional-counseling-tenure-track-/"
+    },
+    {
+      "title": "Assistant Professor of Professional Counseling (Tenure Track)",
+      "org": "The University of Oklahoma · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-09-03T01:43:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3547075/assistant-professor-of-professional-counseling-tenure-track-/"
     },
     {
       "title": "Associate / Assistant Professor in Product or Graphic Design",
@@ -154,36 +188,6 @@
       "published": "2025-08-28T09:00:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3392546/assistant-associate-or-professor-in-endocrinology/"
-    },
-    {
-      "title": "Veterinary Curriculum Instructors",
-      "org": "The Ohio State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-10-26T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3420637/veterinary-curriculum-instructors/"
-    },
-    {
-      "title": "Associate/Full Professor in Educational Leadership (Dissertation and Research)",
-      "org": "Texas A&M University-San Antonio · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-03-07T10:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3474564/associate-full-professor-in-educational-leadership-dissertation-and-research-/"
-    },
-    {
-      "title": "Asst. Professor Social Work/Director MSW Prog/Online MSW Coord",
-      "org": "Kentucky State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-10-23T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3418890/asst-professor-social-work-director-msw-prog-online-msw-coord/"
     },
     {
       "title": "Faculty Positions in Nonhuman Primate Research, School of Life Sciences, Westlake University",
