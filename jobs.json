@@ -1,94 +1,125 @@
 {
-  "updatedAt": "2026-09-04T11:13:50.565Z",
+  "updatedAt": "2026-09-05T10:31:16.988Z",
   "jobs": [
     {
-      "title": "Open-Rank Tenure-Track Faculty Position",
-      "org": "Institute of Molecular Biology, Academia Sinica · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-04T06:57:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/679994/open-rank-tenure-track-faculty-position/"
-    },
-    {
-      "title": "Selection Administrator",
+      "title": "(Senior) Computational Genomics Scientist, Algorithms & AI/ML",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-04T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679999/selection-administrator/"
+      "published": "2026-09-05T09:00:00.000Z",
+      "tags": [
+        "Computational"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680024/-senior-computational-genomics-scientist-algorithms-and-ai-ml/"
     },
     {
-      "title": "Senior Scientist, AMR Genomics - Pathogen",
+      "title": "Senior Laboratory Technician (Transformation) - Plant Biology Institute",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-04T09:00:00.000Z",
+      "published": "2026-09-05T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679998/senior-scientist-amr-genomics-pathogen/"
+      "url": "https://jobs.sciencecareers.org/job/680023/senior-laboratory-technician-transformation-plant-biology-institute/"
     },
     {
-      "title": "AI & Automation Lead for Plant Transformation - Plant Biology Institute",
+      "title": "Postdoctoral Research Fellow (Rehm Lab) - Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-05T09:00:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680022/postdoctoral-research-fellow-rehm-lab-generative-biology-institute/"
+    },
+    {
+      "title": "(Senior) Group Leader, Advanced Genome Technologies - Plant Biology Institute",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-04T09:00:00.000Z",
+      "published": "2026-09-05T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679997/ai-and-automation-lead-for-plant-transformation-plant-biology-institute/"
+      "url": "https://jobs.sciencecareers.org/job/680021/-senior-group-leader-advanced-genome-technologies-plant-biology-institute/"
     },
     {
-      "title": "Assistant Professors/Associate Professors/Professors/Chair Professors (on substantiation-track)",
-      "org": "City University of Hong Kong · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-04T09:01:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/679921/assistant-professors-associate-professors-professors-chair-professors-on-substantiation-track-/"
-    },
-    {
-      "title": "Professor and Head of School, School of Mathematics and Physics",
-      "org": "The University of Queensland (UQ) · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-04T04:20:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679991/professor-and-head-of-school-school-of-mathematics-and-physics/"
-    },
-    {
-      "title": "Kansas City: Assistant or Associate Professor in Biomedical Engineering",
-      "org": "University of Missouri · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-04T02:37:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/679989/assistant-or-associate-professor-in-biomedical-engineering/"
-    },
-    {
-      "title": "Faculty Position in Fundamental Mechanisms of Cancer Metastasis",
+      "title": "Physician Scientist Faculty Position in Radiation Oncology",
       "org": "Fred Hutchinson Cancer Center · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-04T02:07:00.000Z",
+      "published": "2026-09-05T03:15:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/679988/faculty-position-in-fundamental-mechanisms-of-cancer-metastasis/"
+      "url": "https://jobs.sciencecareers.org/job/680015/physician-scientist-faculty-position-in-radiation-oncology/"
+    },
+    {
+      "title": "ACL-3 Facility Manager",
+      "org": "UC San Diego · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-05T02:52:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680014/acl-3-facility-manager/"
+    },
+    {
+      "title": "2027 Luis W Alvarez and Grace M Hopper Postdoctoral Fellowships",
+      "org": "Lawrence Berkeley National Laboratory · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-05T01:49:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680013/2027-luis-w-alvarez-and-grace-m-hopper-postdoctoral-fellowships/"
+    },
+    {
+      "title": "Assistant Professor in Metabolism Research",
+      "org": "Morgridge Institute for Research · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-05T00:16:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680012/assistant-professor-in-metabolism-research/"
+    },
+    {
+      "title": "Special Education",
+      "org": "San José State University: Assistant Professor · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2024-11-02T09:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3253356/assistant-professor-special-education/"
+    },
+    {
+      "title": "Interior Design Adjunct Instructor",
+      "org": "College of the Canyons · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2024-03-03T10:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3096882/interior-design-adjunct-instructor/"
+    },
+    {
+      "title": "Physical Therapy Assistant Instructor Adjunct",
+      "org": "College of the Canyons · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2024-03-03T10:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3096879/physical-therapy-assistant-instructor-adjunct/"
     },
     {
       "title": "Clinical Site Coordinator/Non-Instructional Adjunct Applicant Pool (Pharmacy Technician Program)",
@@ -149,40 +180,6 @@
         "Faculty"
       ],
       "url": "https://careers.insidehighered.com/job/3546271/associate-assistant-professor-in-product-or-graphic-design/"
-    },
-    {
-      "title": "Assistant/Associate Professor, Academic Year 2027-2028",
-      "org": "New York University Abu Dhabi · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-08-31T13:47:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3546206/assistant-associate-professor-academic-year-2027-2028/"
-    },
-    {
-      "title": "Assistant Professor- (Higher Education)",
-      "org": "University of Massachusetts Boston · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-08-29T09:00:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3392912/assistant-professor-higher-education-/"
-    },
-    {
-      "title": "Assistant, Associate, or Professor in Endocrinology",
-      "org": "University of Kentucky · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-08-28T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3392546/assistant-associate-or-professor-in-endocrinology/"
     },
     {
       "title": "Faculty Positions in Nonhuman Primate Research, School of Life Sciences, Westlake University",
