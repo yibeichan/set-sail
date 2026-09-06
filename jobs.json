@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T10:31:16.988Z",
+  "updatedAt": "2026-09-06T10:52:19.933Z",
   "jobs": [
     {
       "title": "(Senior) Computational Genomics Scientist, Algorithms & AI/ML",
@@ -46,50 +46,44 @@
       "url": "https://jobs.sciencecareers.org/job/680021/-senior-group-leader-advanced-genome-technologies-plant-biology-institute/"
     },
     {
-      "title": "Physician Scientist Faculty Position in Radiation Oncology",
-      "org": "Fred Hutchinson Cancer Center · United States",
+      "title": "ML Engineer",
+      "org": "mZero · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-05T03:15:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680015/physician-scientist-faculty-position-in-radiation-oncology/"
-    },
-    {
-      "title": "ACL-3 Facility Manager",
-      "org": "UC San Diego · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-05T02:52:00.000Z",
+      "published": "2026-09-05T05:43:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680014/acl-3-facility-manager/"
+      "url": "https://jobs.sciencecareers.org/job/680020/ml-engineer/"
     },
     {
-      "title": "2027 Luis W Alvarez and Grace M Hopper Postdoctoral Fellowships",
-      "org": "Lawrence Berkeley National Laboratory · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-05T01:49:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680013/2027-luis-w-alvarez-and-grace-m-hopper-postdoctoral-fellowships/"
-    },
-    {
-      "title": "Assistant Professor in Metabolism Research",
-      "org": "Morgridge Institute for Research · United States",
+      "title": "ML Researcher",
+      "org": "mZero · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-05T00:16:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680012/assistant-professor-in-metabolism-research/"
+      "published": "2026-09-05T05:42:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680019/ml-researcher/"
+    },
+    {
+      "title": "Director, Global Health and Regulatory Commercialization, Vector Control",
+      "org": "mZero · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-05T05:39:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680018/director-global-health-and-regulatory-commercialization-vector-control/"
+    },
+    {
+      "title": "Director of Formulation Chemistry",
+      "org": "mZero · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-05T05:33:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680017/director-of-formulation-chemistry/"
     },
     {
       "title": "Special Education",
@@ -221,19 +215,6 @@
       "url": "https://www.nature.com/naturecareers/job/12863049/faculty-position-in-neuroscience-university-of-colorado-anschutz-medical-campus-pharmacology-/"
     },
     {
-      "title": "Center for the Neural Basis of Cognition / Bioengineering: Postdoctoral Associate / Research Scientist in Systems Neuroscience and/or Neuroengineering",
-      "org": "University of Pittsburgh · Global",
-      "role": "postdoc",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-08-05T15:12:00.000Z",
-      "tags": [
-        "Neuroscience",
-        "Postdoc"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12862383/postdoctoral-associate-research-scientist-in-systems-neuroscience-and-or-neuroengineering/"
-    },
-    {
       "title": "Postdoctoral Fellowship in Neural Engineering Section, Behavioral Neuroscience Research Branch",
       "org": "National Institute on Drug Abuse (NIDA) · Global",
       "role": "postdoc",
@@ -281,6 +262,18 @@
         "Tenure-track"
       ],
       "url": "https://www.nature.com/naturecareers/job/12861765/elsc-tenure-track-position/"
+    },
+    {
+      "title": "Assistant or Associate Professor",
+      "org": "Peter O'Donnell Jr. Brain Institute : UTSW OBI PML · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-08-17T21:47:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12862674/utsw-obi-pml-assistant-or-associate-professor/"
     }
   ]
 }
