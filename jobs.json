@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-09-07T12:25:39.698Z",
+  "updatedAt": "2026-09-08T11:13:23.617Z",
   "jobs": [
+    {
+      "title": "Facility Leader – Lab-on-a-Chip (LoC)",
+      "org": "Max Planck Institute for the Science of Light · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-08T13:09:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680042/facility-leader-lab-on-a-chip-loc-/"
+    },
+    {
+      "title": "Plant Biology Institute",
+      "org": "Ellison Institute of Technology: Vector Design Lead · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-08T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680041/vector-design-lead-plant-biology-institute/"
+    },
+    {
+      "title": "Genotyping and Event Delivery Manager - Plant Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-08T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680040/genotyping-and-event-delivery-manager-plant-biology-institute/"
+    },
+    {
+      "title": "Scientist, Molecular Biology - Plant Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-08T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680039/scientist-molecular-biology-plant-biology-institute/"
+    },
+    {
+      "title": "Scientist, Cell-Based Screening - Plant Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-08T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680038/scientist-cell-based-screening-plant-biology-institute/"
+    },
+    {
+      "title": "Plant Biology Institute",
+      "org": "Ellison Institute of Technology: Scientist, Enzymology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-08T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680037/scientist-enzymology-plant-biology-institute/"
+    },
+    {
+      "title": "Postdoctoral Research Fellow (Liu Lab) - Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-08T09:00:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680036/postdoctoral-research-fellow-liu-lab-generative-biology-institute/"
+    },
     {
       "title": "12 Doctoral Research Positions",
       "org": "Westpress Gmbh & Co. KG · United States",
@@ -10,172 +82,6 @@
       "published": "2026-09-07T15:00:00.000Z",
       "tags": [],
       "url": "https://jobs.sciencecareers.org/job/680030/12-doctoral-research-positions/"
-    },
-    {
-      "title": "Immunology and Molecular Medicine - Molecular and Cell Biology",
-      "org": "Unversity of California, Berkeley: Assistant Professor · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-08-18T03:04:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679737/assistant-professor-immunology-and-molecular-medicine-molecular-and-cell-biology/"
-    },
-    {
-      "title": "Computational Neuroscience - Department of Neuroscience",
-      "org": "Unversity of California, Berkeley: Assistant Professor · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-08-18T03:39:00.000Z",
-      "tags": [
-        "Neuroscience",
-        "Computational"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/679738/assistant-professor-computational-neuroscience-department-of-neuroscience/"
-    },
-    {
-      "title": "Director, Halıcıoğlu Data Science Institute",
-      "org": "University of California, San Diego · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-08-18T03:51:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679739/director-halıcıoglu-data-science-institute/"
-    },
-    {
-      "title": "Associate or Full Professor (Ladder Rank) Immunology Faculty",
-      "org": "University of California, San Diego · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-08-18T04:33:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/679742/associate-or-full-professor-ladder-rank-immunology-faculty/"
-    },
-    {
-      "title": "Biochemistry, Biophysics and Structural Biology - Molecular and Cell Biology",
-      "org": "Unversity of California, Berkeley: Assistant Professor · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-08-18T18:47:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679755/assistant-professor-biochemistry-biophysics-and-structural-biology-molecular-and-cell-biology/"
-    },
-    {
-      "title": "Assistant Professor -Genetics, Genomics, Evolution, and Development - Molecular and Cell Biology",
-      "org": "Unversity of California, Berkeley · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-08-18T18:47:17.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/679754/assistant-professor-genetics-genomics-evolution-and-development-molecular-and-cell-biology/"
-    },
-    {
-      "title": "Assistant Professor Ecology - Integrative Biology",
-      "org": "Unversity of California, Berkeley · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-08-19T09:30:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/679774/assistant-professor-ecology-integrative-biology/"
-    },
-    {
-      "title": "Associate/Full Professor & Director - Institute for Community Inclusion",
-      "org": "University of Massachusetts Boston · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-11-05T10:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3424344/associate-full-professor-and-director-institute-for-community-inclusion/"
-    },
-    {
-      "title": "Associate Professor in Educational Leadership (Research Methodology)",
-      "org": "Texas A&M University-San Antonio · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-03-07T10:00:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3474563/associate-professor-in-educational-leadership-research-methodology-/"
-    },
-    {
-      "title": "Special Education",
-      "org": "San José State University: Assistant Professor · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2024-11-02T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3253356/assistant-professor-special-education/"
-    },
-    {
-      "title": "Interior Design Adjunct Instructor",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2024-03-03T10:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3096882/interior-design-adjunct-instructor/"
-    },
-    {
-      "title": "Physical Therapy Assistant Instructor Adjunct",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2024-03-03T10:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3096879/physical-therapy-assistant-instructor-adjunct/"
-    },
-    {
-      "title": "Clinical Site Coordinator/Non-Instructional Adjunct Applicant Pool (Pharmacy Technician Program)",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-05-03T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3342810/clinical-site-coordinator-non-instructional-adjunct-applicant-pool-pharmacy-technician-program-/"
-    },
-    {
-      "title": "Associate Professor, School of Graduate Studies",
-      "org": "Lingnan University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-09-03T06:56:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3547127/associate-professor-school-of-graduate-studies/"
-    },
-    {
-      "title": "Associate Professor of Professional Counseling (Tenure Track)",
-      "org": "The University of Oklahoma · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-09-03T02:21:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3547094/associate-professor-of-professional-counseling-tenure-track-/"
     },
     {
       "title": "Faculty Positions in Nonhuman Primate Research, School of Life Sciences, Westlake University",
