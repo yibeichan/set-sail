@@ -1,99 +1,87 @@
 {
-  "updatedAt": "2026-09-09T11:18:04.455Z",
+  "updatedAt": "2026-09-10T11:14:43.125Z",
   "jobs": [
     {
-      "title": "Assistant Professor, Synthetic Biology and Genomics",
-      "org": "Yale University · United States",
+      "title": "Senior Platform Engineer",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-08T20:26:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680051/assistant-professor-synthetic-biology-and-genomics/"
-    },
-    {
-      "title": "Pulmonary, Critical Care and Sleep Medicine - (260000XS)",
-      "org": "University of Maryland Baltimore: Postdoctoral Fellow · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-09T00:54:00.000Z",
+      "published": "2026-09-10T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680063/postdoctoral-fellow-pulmonary-critical-care-and-sleep-medicine-260000xs-/"
+      "url": "https://jobs.sciencecareers.org/job/680097/senior-platform-engineer/"
     },
     {
-      "title": "Assistant Professor of Computational Biology",
-      "org": "University of Tennessee Knoxville · United States",
+      "title": "Senior ML Infrastructure Engineer",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-09T00:08:00.000Z",
-      "tags": [
-        "Computational",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680062/assistant-professor-of-computational-biology/"
-    },
-    {
-      "title": "Assistant, Associate, and/or Full Professor in Transformational Biological Technologies",
-      "org": "School Of Biological Sciences, UC San Diego · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-08T23:00:00.000Z",
+      "published": "2026-09-10T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680059/assistant-associate-and-or-full-professor-in-transformational-biological-technologies/"
+      "url": "https://jobs.sciencecareers.org/job/680096/senior-ml-infrastructure-engineer/"
     },
     {
-      "title": "Instructor, School of Neuroscience",
-      "org": "Virginia Tech · United States",
+      "title": "Cloud Platform Engineer",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-08T22:15:00.000Z",
-      "tags": [
-        "Neuroscience"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680058/instructor-school-of-neuroscience/"
+      "published": "2026-09-10T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680095/cloud-platform-engineer/"
     },
     {
-      "title": "POSTDOCTORAL RESEARCHER – O'Donnell Brain Institute – Cone Lab",
-      "org": "UT Southwestern Medical Center at Dallas · United States",
+      "title": "Infrastructure Engineer",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-10T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680094/infrastructure-engineer/"
+    },
+    {
+      "title": "Multiskilled Maintenance Engineer - Weekend Shift",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-10T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680093/multiskilled-maintenance-engineer-weekend-shift/"
+    },
+    {
+      "title": "Postdoctoral Research Fellow (Chin Lab) - Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
       "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-08T22:06:00.000Z",
+      "published": "2026-09-10T09:00:00.000Z",
       "tags": [
         "Postdoc"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680056/postdoctoral-researcher-o-donnell-brain-institute-cone-lab/"
+      "url": "https://jobs.sciencecareers.org/job/680092/postdoctoral-research-fellow-chin-lab-generative-biology-institute/"
     },
     {
-      "title": "Assistant Professor, School or Neuroscience",
-      "org": "Virginia Tech · United States",
+      "title": "HR Business Partner",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-08T22:05:00.000Z",
-      "tags": [
-        "Neuroscience",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680057/assistant-professor-school-or-neuroscience/"
+      "published": "2026-09-10T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680091/hr-business-partner/"
     },
     {
-      "title": "Assistant Professor in Chemistry",
-      "org": "UC Davis Department of Chemistry · United States",
+      "title": "HR Advisor",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-08T21:25:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680054/assistant-professor-in-chemistry/"
+      "published": "2026-09-10T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680090/hr-advisor/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
@@ -104,6 +92,16 @@
       "published": "2026-09-08T19:02:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3548577/endowed-nursing-professorship-in-health-well-being-and-chronic-conditions-innovation/"
+    },
+    {
+      "title": "Assistant, Associate, or Full Professor in Department of Clinical Pharmacy and Pharmacy Practice",
+      "org": "TAIPEI MEDICAL UNIVERSITY (TMU) · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-09-10T15:29:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3549019/assistant-associate-or-full-professor-in-department-of-clinical-pharmacy-and-pharmacy-practice/"
     },
     {
       "title": "Associate/Full Professor & Director - Institute for Community Inclusion",
@@ -166,18 +164,6 @@
       "published": "2025-05-03T09:00:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3342810/clinical-site-coordinator-non-instructional-adjunct-applicant-pool-pharmacy-technician-program-/"
-    },
-    {
-      "title": "Associate Professor, School of Graduate Studies",
-      "org": "Lingnan University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-09-03T06:56:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3547127/associate-professor-school-of-graduate-studies/"
     },
     {
       "title": "Faculty Positions in Nonhuman Primate Research, School of Life Sciences, Westlake University",
