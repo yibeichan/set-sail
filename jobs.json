@@ -1,87 +1,103 @@
 {
-  "updatedAt": "2026-09-10T11:14:43.125Z",
+  "updatedAt": "2026-09-11T11:16:14.843Z",
   "jobs": [
     {
-      "title": "Senior Platform Engineer",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "Tenure-track Faculty Positions at Institute of Biological Chemistry, Academia Sinica, Taiwan",
+      "org": "Academia Sinica Institute of Biological Chemistry · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-10T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680097/senior-platform-engineer/"
-    },
-    {
-      "title": "Senior ML Infrastructure Engineer",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-10T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680096/senior-ml-infrastructure-engineer/"
-    },
-    {
-      "title": "Cloud Platform Engineer",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-10T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680095/cloud-platform-engineer/"
-    },
-    {
-      "title": "Infrastructure Engineer",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-10T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680094/infrastructure-engineer/"
-    },
-    {
-      "title": "Multiskilled Maintenance Engineer - Weekend Shift",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-10T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680093/multiskilled-maintenance-engineer-weekend-shift/"
-    },
-    {
-      "title": "Postdoctoral Research Fellow (Chin Lab) - Generative Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-10T09:00:00.000Z",
+      "published": "2026-09-11T09:13:00.000Z",
       "tags": [
-        "Postdoc"
+        "Tenure-track",
+        "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680092/postdoctoral-research-fellow-chin-lab-generative-biology-institute/"
+      "url": "https://jobs.sciencecareers.org/job/680120/tenure-track-faculty-positions-at-institute-of-biological-chemistry-academia-sinica-taiwan/"
     },
     {
-      "title": "HR Business Partner",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "Assistant Professor of Microbiology in Biological Sciences",
+      "org": "University of Alabama · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-10T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680091/hr-business-partner/"
+      "published": "2026-09-11T13:32:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680123/assistant-professor-of-microbiology-in-biological-sciences/"
     },
     {
-      "title": "HR Advisor",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "Biochemistry & Cell Biology: Assistant Professor (PhD) Tenure Track",
+      "org": "Duke University · United States",
+      "role": "phd",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-11T03:06:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680117/assistant-professor-phd-tenure-track/"
+    },
+    {
+      "title": "Assistant/Associate Professor of Experimental Relativistic Heavy-Ion Physics",
+      "org": "Purdue University Department of Physics · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-10T09:00:00.000Z",
+      "published": "2026-09-11T01:33:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680082/assistant-associate-professor-of-experimental-relativistic-heavy-ion-physics/"
+    },
+    {
+      "title": "CCE: Assistant Professor in Chemistry, Biochemistry, or Chemical Engineering",
+      "org": "California Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-11T01:10:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680115/assistant-professor-in-chemistry-biochemistry-or-chemical-engineering/"
+    },
+    {
+      "title": "Open Rank Professor of Virology, Tenured/Tenure-Eligible",
+      "org": "UVA School of Medicine · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-10T21:32:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680090/hr-advisor/"
+      "url": "https://jobs.sciencecareers.org/job/680104/open-rank-professor-of-virology-tenured-tenure-eligible/"
+    },
+    {
+      "title": "Tenure-track Assistant Professor - Department of Molecular Biosciences",
+      "org": "Northwestern University Dept. of Molecular Biosciences · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-10T23:59:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680111/tenure-track-assistant-professor-department-of-molecular-biosciences/"
+    },
+    {
+      "title": "Tenure-Track Research Faculty",
+      "org": "McMaster University, Faculty of Engineering · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-11T00:00:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680106/tenure-track-research-faculty-/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
@@ -205,6 +221,18 @@
       "url": "https://www.nature.com/naturecareers/job/12863049/faculty-position-in-neuroscience-university-of-colorado-anschutz-medical-campus-pharmacology-/"
     },
     {
+      "title": "Faculty position at Chanakya University School of Biosciences",
+      "org": "Chanakya University, School of biosciences · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-09-11T09:47:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12864539/faculty-position-at-chanakya-university-school-of-biosciences/"
+    },
+    {
       "title": "Postdoctoral Fellowship in Neural Engineering Section, Behavioral Neuroscience Research Branch",
       "org": "National Institute on Drug Abuse (NIDA) · Global",
       "role": "postdoc",
@@ -252,18 +280,6 @@
         "Faculty"
       ],
       "url": "https://www.nature.com/naturecareers/job/12862674/utsw-obi-pml-assistant-or-associate-professor/"
-    },
-    {
-      "title": "Assistant Professor or Associate Professor",
-      "org": "UT Southwestern Medical Center: UTSW OBI Scholars · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-08-12T20:00:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12862576/utsw-obi-scholars-assistant-professor-or-associate-professor/"
     }
   ]
 }
