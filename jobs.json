@@ -1,103 +1,98 @@
 {
-  "updatedAt": "2026-09-11T11:16:14.843Z",
+  "updatedAt": "2026-09-12T10:41:48.880Z",
   "jobs": [
     {
-      "title": "Tenure-track Faculty Positions at Institute of Biological Chemistry, Academia Sinica, Taiwan",
-      "org": "Academia Sinica Institute of Biological Chemistry · United States",
+      "title": "Computational Biologist / Postdoctoral Fellow – Single-Molecule Epigenomics & 3D Genome Biology",
+      "org": "NYU Langone Health · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-12T00:51:00.000Z",
+      "tags": [
+        "Computational",
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680140/computational-biologist-postdoctoral-fellow-single-molecule-epigenomics-and-3d-genome-biology/"
+    },
+    {
+      "title": "UNLV: Assistant Professor in Evolutionary Biology, School of Life Sciences",
+      "org": "University of Nevada, Las Vegas · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-11T09:13:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680120/tenure-track-faculty-positions-at-institute-of-biological-chemistry-academia-sinica-taiwan/"
-    },
-    {
-      "title": "Assistant Professor of Microbiology in Biological Sciences",
-      "org": "University of Alabama · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-11T13:32:00.000Z",
+      "published": "2026-09-11T23:37:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680123/assistant-professor-of-microbiology-in-biological-sciences/"
+      "url": "https://jobs.sciencecareers.org/job/680138/assistant-professor-in-evolutionary-biology-school-of-life-sciences/"
     },
     {
-      "title": "Biochemistry & Cell Biology: Assistant Professor (PhD) Tenure Track",
+      "title": "Energy Geoscience Position at Earth and Climate Sciences",
       "org": "Duke University · United States",
-      "role": "phd",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-11T03:06:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680117/assistant-professor-phd-tenure-track/"
-    },
-    {
-      "title": "Assistant/Associate Professor of Experimental Relativistic Heavy-Ion Physics",
-      "org": "Purdue University Department of Physics · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-11T01:33:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680082/assistant-associate-professor-of-experimental-relativistic-heavy-ion-physics/"
-    },
-    {
-      "title": "CCE: Assistant Professor in Chemistry, Biochemistry, or Chemical Engineering",
-      "org": "California Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-11T01:10:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680115/assistant-professor-in-chemistry-biochemistry-or-chemical-engineering/"
-    },
-    {
-      "title": "Open Rank Professor of Virology, Tenured/Tenure-Eligible",
-      "org": "UVA School of Medicine · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-10T21:32:00.000Z",
+      "published": "2026-09-11T23:33:02.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680104/open-rank-professor-of-virology-tenured-tenure-eligible/"
+      "url": "https://jobs.sciencecareers.org/job/680136/energy-geoscience-position-at-earth-and-climate-sciences/"
     },
     {
-      "title": "Tenure-track Assistant Professor - Department of Molecular Biosciences",
-      "org": "Northwestern University Dept. of Molecular Biosciences · United States",
+      "title": "Department of Biology: Charles H. Babcock Chair of Botany in Plant Genomics",
+      "org": "Wake Forest University · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-10T23:59:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680111/tenure-track-assistant-professor-department-of-molecular-biosciences/"
+      "published": "2026-09-11T23:11:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680135/charles-h-babcock-chair-of-botany-in-plant-genomics/"
     },
     {
-      "title": "Tenure-Track Research Faculty",
-      "org": "McMaster University, Faculty of Engineering · United States",
+      "title": "Cellular Therapies Physician Scientist – Research Faculty - JR225384",
+      "org": "Cincinnati Children's: Rheumatology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-11T00:00:00.000Z",
+      "published": "2026-09-11T21:54:00.000Z",
       "tags": [
-        "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680106/tenure-track-research-faculty-/"
+      "url": "https://jobs.sciencecareers.org/job/680132/rheumatology-cellular-therapies-physician-scientist-research-faculty-jr225384/"
+    },
+    {
+      "title": "Postdoctoral Fellow-genome engineering",
+      "org": "Icahn School of Medicine at Mount Sinai · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-11T22:46:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680134/postdoctoral-fellow-genome-engineering/"
+    },
+    {
+      "title": "Assistant Professor of Evolutionary Biology",
+      "org": "The E3B Department at Columbia University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-11T22:11:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680131/assistant-professor-of-evolutionary-biology/"
+    },
+    {
+      "title": "Assistant/Associate Professor (Genomics)",
+      "org": "University of Texas at Arlington, Department of Biology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-11T22:05:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680129/assistant-associate-professor-genomics-/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
@@ -118,16 +113,6 @@
       "published": "2026-09-10T15:29:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3549019/assistant-associate-or-full-professor-in-department-of-clinical-pharmacy-and-pharmacy-practice/"
-    },
-    {
-      "title": "Associate/Full Professor & Director - Institute for Community Inclusion",
-      "org": "University of Massachusetts Boston · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-11-05T10:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3424344/associate-full-professor-and-director-institute-for-community-inclusion/"
     },
     {
       "title": "Associate Professor in Educational Leadership (Research Methodology)",
@@ -180,6 +165,18 @@
       "published": "2025-05-03T09:00:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3342810/clinical-site-coordinator-non-instructional-adjunct-applicant-pool-pharmacy-technician-program-/"
+    },
+    {
+      "title": "Associate Professor, School of Graduate Studies",
+      "org": "Lingnan University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-09-03T06:56:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3547127/associate-professor-school-of-graduate-studies/"
     },
     {
       "title": "Faculty Positions in Nonhuman Primate Research, School of Life Sciences, Westlake University",
