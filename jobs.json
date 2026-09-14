@@ -1,6 +1,77 @@
 {
-  "updatedAt": "2026-09-13T11:47:01.005Z",
+  "updatedAt": "2026-09-14T12:40:06.278Z",
   "jobs": [
+    {
+      "title": "Beverly Petterson Bishop Associate Prof or Professor in Neuroscience",
+      "org": "Syracuse University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-14T09:30:00.000Z",
+      "tags": [
+        "Neuroscience"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680152/beverly-petterson-bishop-associate-prof-or-professor-in-neuroscience/"
+    },
+    {
+      "title": "Postdoctoral Research Fellow / Research Fellow in Statistical Genomics",
+      "org": "The University of Queensland (UQ) · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-14T04:57:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680144/postdoctoral-research-fellow-research-fellow-in-statistical-genomics/"
+    },
+    {
+      "title": "Assistant, Associate, or Full Professor - Open Research Area",
+      "org": "University of Illinois · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-14T17:01:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680142/assistant-associate-or-full-professor-open-research-area/"
+    },
+    {
+      "title": "UT Health Science Center San Antonio, Department of Cellular & Integrative Physiology: Assistant Professor-Tenure Track",
+      "org": "Science Careers · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-14T17:01:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680141/assistant-professor-tenure-track/"
+    },
+    {
+      "title": "Assistant Professor in Cognitive Science",
+      "org": "University of California, San Diego · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-10T23:35:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680109/assistant-professor-in-cognitive-science/"
+    },
+    {
+      "title": "Associate or Full Professor (Ladder Rank) Immunology Faculty",
+      "org": "University of California, San Diego · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-08-18T04:33:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/679742/associate-or-full-professor-ladder-rank-immunology-faculty/"
+    },
     {
       "title": "Department Chair for Physiology and Pharmacology",
       "org": "Des Moines University Medicine and Health Sciences · United States",
@@ -23,74 +94,6 @@
         "Postdoc"
       ],
       "url": "https://jobs.sciencecareers.org/job/680140/computational-biologist-postdoctoral-fellow-single-molecule-epigenomics-and-3d-genome-biology/"
-    },
-    {
-      "title": "UNLV: Assistant Professor in Evolutionary Biology, School of Life Sciences",
-      "org": "University of Nevada, Las Vegas · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-11T23:37:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680138/assistant-professor-in-evolutionary-biology-school-of-life-sciences/"
-    },
-    {
-      "title": "Energy Geoscience Position at Earth and Climate Sciences",
-      "org": "Duke University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-11T23:33:02.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680136/energy-geoscience-position-at-earth-and-climate-sciences/"
-    },
-    {
-      "title": "Department of Biology: Charles H. Babcock Chair of Botany in Plant Genomics",
-      "org": "Wake Forest University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-11T23:11:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680135/charles-h-babcock-chair-of-botany-in-plant-genomics/"
-    },
-    {
-      "title": "Cellular Therapies Physician Scientist – Research Faculty - JR225384",
-      "org": "Cincinnati Children's: Rheumatology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-11T21:54:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680132/rheumatology-cellular-therapies-physician-scientist-research-faculty-jr225384/"
-    },
-    {
-      "title": "Postdoctoral Fellow-genome engineering",
-      "org": "Icahn School of Medicine at Mount Sinai · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-11T22:46:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680134/postdoctoral-fellow-genome-engineering/"
-    },
-    {
-      "title": "Assistant Professor of Evolutionary Biology",
-      "org": "The E3B Department at Columbia University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-11T22:11:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680131/assistant-professor-of-evolutionary-biology/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
@@ -135,16 +138,6 @@
       "url": "https://careers.insidehighered.com/job/3474563/associate-professor-in-educational-leadership-research-methodology-/"
     },
     {
-      "title": "Special Education",
-      "org": "San José State University: Assistant Professor · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2024-11-02T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3253356/assistant-professor-special-education/"
-    },
-    {
       "title": "Interior Design Adjunct Instructor",
       "org": "College of the Canyons · United States",
       "role": "faculty",
@@ -173,6 +166,18 @@
       "published": "2025-05-03T09:00:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3342810/clinical-site-coordinator-non-instructional-adjunct-applicant-pool-pharmacy-technician-program-/"
+    },
+    {
+      "title": "Associate Professor, School of Graduate Studies",
+      "org": "Lingnan University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-09-03T06:56:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3547127/associate-professor-school-of-graduate-studies/"
     },
     {
       "title": "Faculty Positions in Nonhuman Primate Research, School of Life Sciences, Westlake University",
