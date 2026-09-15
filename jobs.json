@@ -1,99 +1,89 @@
 {
-  "updatedAt": "2026-09-14T12:40:06.278Z",
+  "updatedAt": "2026-09-15T11:40:12.177Z",
   "jobs": [
     {
-      "title": "Beverly Petterson Bishop Associate Prof or Professor in Neuroscience",
-      "org": "Syracuse University · United States",
+      "title": "Call for Applications",
+      "org": "Max-Planck-Institut für Kognitions- und Neurowissenschaften · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-14T09:30:00.000Z",
-      "tags": [
-        "Neuroscience"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680152/beverly-petterson-bishop-associate-prof-or-professor-in-neuroscience/"
+      "published": "2026-09-15T12:09:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680171/call-for-applications/"
     },
     {
-      "title": "Postdoctoral Research Fellow / Research Fellow in Statistical Genomics",
-      "org": "The University of Queensland (UQ) · United States",
+      "title": "Generative Biology Institute",
+      "org": "Ellison Institute of Technology: Team Coordinator · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-15T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680170/team-coordinator-generative-biology-institute/"
+    },
+    {
+      "title": "Bioinformatics Data Analyst",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-15T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680169/bioinformatics-data-analyst/"
+    },
+    {
+      "title": "Postdoctoral Research Fellow (van Bijsterveldt Lab)-Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
       "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-14T04:57:00.000Z",
+      "published": "2026-09-15T09:00:00.000Z",
       "tags": [
         "Postdoc"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680144/postdoctoral-research-fellow-research-fellow-in-statistical-genomics/"
+      "url": "https://jobs.sciencecareers.org/job/680168/postdoctoral-research-fellow-van-bijsterveldt-lab-generative-biology-institute/"
     },
     {
-      "title": "Assistant, Associate, or Full Professor - Open Research Area",
-      "org": "University of Illinois · United States",
+      "title": "Chair of Biomedical Sciences",
+      "org": "Western University of Health Sciences · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-14T17:01:00.000Z",
+      "published": "2026-09-15T06:55:25.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680142/assistant-associate-or-full-professor-open-research-area/"
+      "url": "https://jobs.sciencecareers.org/job/680164/chair-of-biomedical-sciences/"
     },
     {
-      "title": "UT Health Science Center San Antonio, Department of Cellular & Integrative Physiology: Assistant Professor-Tenure Track",
-      "org": "Science Careers · United States",
+      "title": "Open Rank Search in Plant Evolution and Director of the UT-Austin Plant Resources Center",
+      "org": "University of Texas at Austin Integrative Biology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-14T17:01:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680141/assistant-professor-tenure-track/"
-    },
-    {
-      "title": "Assistant Professor in Cognitive Science",
-      "org": "University of California, San Diego · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-10T23:35:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680109/assistant-professor-in-cognitive-science/"
-    },
-    {
-      "title": "Associate or Full Professor (Ladder Rank) Immunology Faculty",
-      "org": "University of California, San Diego · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-08-18T04:33:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/679742/associate-or-full-professor-ladder-rank-immunology-faculty/"
-    },
-    {
-      "title": "Department Chair for Physiology and Pharmacology",
-      "org": "Des Moines University Medicine and Health Sciences · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-13T09:00:00.000Z",
+      "published": "2026-09-15T00:18:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679689/department-chair-for-physiology-and-pharmacology/"
+      "url": "https://jobs.sciencecareers.org/job/680162/open-rank-search-in-plant-evolution-and-director-of-the-ut-austin-plant-resources-center/"
     },
     {
-      "title": "Computational Biologist / Postdoctoral Fellow – Single-Molecule Epigenomics & 3D Genome Biology",
-      "org": "NYU Langone Health · United States",
-      "role": "postdoc",
+      "title": "Assistant/Associate Professor of Critical Mineral Geology",
+      "org": "University of Texas Arlington · United States",
+      "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-12T00:51:00.000Z",
+      "published": "2026-09-15T00:14:00.000Z",
       "tags": [
-        "Computational",
-        "Postdoc"
+        "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680140/computational-biologist-postdoctoral-fellow-single-molecule-epigenomics-and-3d-genome-biology/"
+      "url": "https://jobs.sciencecareers.org/job/680161/assistant-associate-professor-of-critical-mineral-geology/"
+    },
+    {
+      "title": "Chief, Virology Branch",
+      "org": "NIAID, NIH · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-15T00:03:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680061/chief-virology-branch/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
@@ -104,6 +94,26 @@
       "published": "2026-09-08T19:02:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3548577/endowed-nursing-professorship-in-health-well-being-and-chronic-conditions-innovation/"
+    },
+    {
+      "title": "Department of Emergency Medicine",
+      "org": "University of Virginia: Instructor Fellowship · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2024-09-12T09:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3222415/instructor-fellowship-department-of-emergency-medicine/"
+    },
+    {
+      "title": "Linguistics (Modern Languages) Adjunct Instructor",
+      "org": "College of the Canyons · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-09-13T09:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3400593/linguistics-modern-languages-adjunct-instructor/"
     },
     {
       "title": "Assistant, Associate, or Full Professor in Department of Clinical Pharmacy and Pharmacy Practice",
@@ -156,28 +166,6 @@
       "published": "2024-03-03T10:00:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3096879/physical-therapy-assistant-instructor-adjunct/"
-    },
-    {
-      "title": "Clinical Site Coordinator/Non-Instructional Adjunct Applicant Pool (Pharmacy Technician Program)",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-05-03T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3342810/clinical-site-coordinator-non-instructional-adjunct-applicant-pool-pharmacy-technician-program-/"
-    },
-    {
-      "title": "Associate Professor, School of Graduate Studies",
-      "org": "Lingnan University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-09-03T06:56:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3547127/associate-professor-school-of-graduate-studies/"
     },
     {
       "title": "Faculty Positions in Nonhuman Primate Research, School of Life Sciences, Westlake University",
