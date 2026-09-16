@@ -1,89 +1,95 @@
 {
-  "updatedAt": "2026-09-15T11:40:12.177Z",
+  "updatedAt": "2026-09-16T11:27:18.197Z",
   "jobs": [
     {
-      "title": "Call for Applications",
-      "org": "Max-Planck-Institut für Kognitions- und Neurowissenschaften · United States",
+      "title": "Catalysis and Process Development",
+      "org": "Facet Amtech Pty Ltd: Principal Scientist · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-15T12:09:00.000Z",
+      "published": "2026-09-16T13:54:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680171/call-for-applications/"
+      "url": "https://jobs.sciencecareers.org/job/680185/principal-scientist-catalysis-and-process-development/"
     },
     {
-      "title": "Generative Biology Institute",
-      "org": "Ellison Institute of Technology: Team Coordinator · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-15T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680170/team-coordinator-generative-biology-institute/"
-    },
-    {
-      "title": "Bioinformatics Data Analyst",
+      "title": "Scientist, Plant Cellular Engineering (Metabolic and Synthetic Biology) - PBI",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-15T09:00:00.000Z",
+      "published": "2026-09-16T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680169/bioinformatics-data-analyst/"
+      "url": "https://jobs.sciencecareers.org/job/680183/scientist-plant-cellular-engineering-metabolic-and-synthetic-biology-pbi/"
     },
     {
-      "title": "Postdoctoral Research Fellow (van Bijsterveldt Lab)-Generative Biology Institute",
+      "title": "Programming & Events Administrator",
       "org": "Ellison Institute of Technology · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-15T09:00:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680168/postdoctoral-research-fellow-van-bijsterveldt-lab-generative-biology-institute/"
-    },
-    {
-      "title": "Chair of Biomedical Sciences",
-      "org": "Western University of Health Sciences · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-15T06:55:25.000Z",
+      "published": "2026-09-16T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680164/chair-of-biomedical-sciences/"
+      "url": "https://jobs.sciencecareers.org/job/680182/programming-and-events-administrator/"
     },
     {
-      "title": "Open Rank Search in Plant Evolution and Director of the UT-Austin Plant Resources Center",
-      "org": "University of Texas at Austin Integrative Biology · United States",
+      "title": "Faculty Recruitment",
+      "org": "Indiana University Bloomington Faculty and Academic Affairs · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-15T00:18:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680162/open-rank-search-in-plant-evolution-and-director-of-the-ut-austin-plant-resources-center/"
-    },
-    {
-      "title": "Assistant/Associate Professor of Critical Mineral Geology",
-      "org": "University of Texas Arlington · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-15T00:14:00.000Z",
+      "published": "2026-09-16T09:01:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680161/assistant-associate-professor-of-critical-mineral-geology/"
+      "url": "https://jobs.sciencecareers.org/job/680155/faculty-recruitment/"
     },
     {
-      "title": "Chief, Virology Branch",
-      "org": "NIAID, NIH · United States",
+      "title": "Tenure-Track Faculty Positions",
+      "org": "Massachusetts Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-15T00:03:00.000Z",
+      "published": "2026-09-16T09:01:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680133/tenure-track-faculty-positions/"
+    },
+    {
+      "title": "Assistant Professor - Microbiology",
+      "org": "University of North Carolina at Greensboro · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-16T02:30:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680181/assistant-professor-microbiology/"
+    },
+    {
+      "title": "Assistant Professor in Computational and Experimental Molecular Biology",
+      "org": "School of Biological Sciences, UC San Diego · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-16T02:03:00.000Z",
+      "tags": [
+        "Computational",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680180/assistant-professor-in-computational-and-experimental-molecular-biology/"
+    },
+    {
+      "title": "Pulmonary Medicine",
+      "org": "Cincinnati Children's: Division Director · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-15T22:38:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680061/chief-virology-branch/"
+      "url": "https://jobs.sciencecareers.org/job/680178/division-director-pulmonary-medicine/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
@@ -114,6 +120,18 @@
       "published": "2025-09-13T09:00:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3400593/linguistics-modern-languages-adjunct-instructor/"
+    },
+    {
+      "title": "Assistant Professor of Special Education",
+      "org": "San José State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-11-25T10:00:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3433586/assistant-professor-of-special-education/"
     },
     {
       "title": "Assistant, Associate, or Full Professor in Department of Clinical Pharmacy and Pharmacy Practice",
@@ -148,24 +166,14 @@
       "url": "https://careers.insidehighered.com/job/3474563/associate-professor-in-educational-leadership-research-methodology-/"
     },
     {
-      "title": "Interior Design Adjunct Instructor",
-      "org": "College of the Canyons · United States",
+      "title": "Special Education",
+      "org": "San José State University: Assistant Professor · United States",
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "published": "2024-03-03T10:00:00.000Z",
+      "published": "2024-11-02T09:00:00.000Z",
       "tags": [],
-      "url": "https://careers.insidehighered.com/job/3096882/interior-design-adjunct-instructor/"
-    },
-    {
-      "title": "Physical Therapy Assistant Instructor Adjunct",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2024-03-03T10:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3096879/physical-therapy-assistant-instructor-adjunct/"
+      "url": "https://careers.insidehighered.com/job/3253356/assistant-professor-special-education/"
     },
     {
       "title": "Faculty Positions in Nonhuman Primate Research, School of Life Sciences, Westlake University",
@@ -192,6 +200,20 @@
         "Tenure-track"
       ],
       "url": "https://www.nature.com/naturecareers/job/12862704/tenure-track-faculty-dept-of-neuroscience-computational-or-theoretical-neuroscience-/"
+    },
+    {
+      "title": "Tenure-Track Faculty Position in Computational or Theoretical Neuroscience",
+      "org": "Duke University Neurobiology Dept · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-09-15T17:56:00.000Z",
+      "tags": [
+        "Neuroscience",
+        "Computational",
+        "Tenure-track"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12864649/tenure-track-faculty-position-in-computational-or-theoretical-neuroscience/"
     },
     {
       "title": "Faculty Position in Neuroscience - University of Colorado Anschutz Medical Campus (Pharmacology)",
@@ -232,40 +254,29 @@
       "url": "https://www.nature.com/naturecareers/job/12861495/postdoctoral-fellowship-in-neural-engineering-section-behavioral-neuroscience-research-branch/"
     },
     {
-      "title": "Postdoctoral Researcher",
-      "org": "Rutgers University Shumyatsky lab · Global",
+      "title": "Neurosciences: Vice Chair for Neuroscience Research, Department of Neurosurgery - McGovern Medical School",
+      "org": "UTHealth Houston · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-09-15T18:43:00.000Z",
+      "tags": [
+        "Neuroscience"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12864653/vice-chair-for-neuroscience-research-department-of-neurosurgery-mcgovern-medical-school/"
+    },
+    {
+      "title": "Postdoctoral Scholar in Visual System Neurobiology & Multi-Omics",
+      "org": "University of California Los Angeles · Global",
       "role": "postdoc",
       "region": "global",
       "source": "Nature Careers",
-      "published": "2026-06-25T17:45:59.000Z",
+      "published": "2026-09-16T00:17:00.000Z",
       "tags": [
+        "Neuroscience",
         "Postdoc"
       ],
-      "url": "https://www.nature.com/naturecareers/job/12861100/postdoctoral-researcher/"
-    },
-    {
-      "title": "The Edmond and Lily Safra Center for Brain Science at The Hebrew University of Jerusalem: ELSC Tenure Track Position",
-      "org": "Nature Careers · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-07-19T07:00:00.000Z",
-      "tags": [
-        "Tenure-track"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12861765/elsc-tenure-track-position/"
-    },
-    {
-      "title": "Assistant or Associate Professor",
-      "org": "Peter O'Donnell Jr. Brain Institute : UTSW OBI PML · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-08-17T21:47:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12862674/utsw-obi-pml-assistant-or-associate-professor/"
+      "url": "https://www.nature.com/naturecareers/job/12864661/postdoctoral-scholar-in-visual-system-neurobiology-and-multi-omics/"
     }
   ]
 }
