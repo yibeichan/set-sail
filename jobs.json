@@ -1,95 +1,96 @@
 {
-  "updatedAt": "2026-09-16T11:27:18.197Z",
+  "updatedAt": "2026-09-17T11:37:09.040Z",
   "jobs": [
     {
-      "title": "Catalysis and Process Development",
-      "org": "Facet Amtech Pty Ltd: Principal Scientist · United States",
-      "role": "faculty",
+      "title": "Program-Specific Assistant Professor / Researcher (Postdoc)",
+      "org": "Kyoto University · United States",
+      "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-16T13:54:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680185/principal-scientist-catalysis-and-process-development/"
+      "published": "2026-09-17T11:57:00.000Z",
+      "tags": [
+        "Postdoc",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680211/program-specific-assistant-professor-researcher-postdoc-/"
     },
     {
-      "title": "Scientist, Plant Cellular Engineering (Metabolic and Synthetic Biology) - PBI",
+      "title": "Bio-ML Scientist (Metabolic Modelling) - Generative Biology Institute",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-16T09:00:00.000Z",
+      "published": "2026-09-17T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680183/scientist-plant-cellular-engineering-metabolic-and-synthetic-biology-pbi/"
+      "url": "https://jobs.sciencecareers.org/job/680209/bio-ml-scientist-metabolic-modelling-generative-biology-institute/"
     },
     {
-      "title": "Programming & Events Administrator",
+      "title": "(Senior) Group Leader, Nitrogen Fixation - Plant Biology Institute",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-16T09:00:00.000Z",
+      "published": "2026-09-17T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680182/programming-and-events-administrator/"
+      "url": "https://jobs.sciencecareers.org/job/680208/-senior-group-leader-nitrogen-fixation-plant-biology-institute/"
     },
     {
-      "title": "Faculty Recruitment",
-      "org": "Indiana University Bloomington Faculty and Academic Affairs · United States",
+      "title": "Principal Investigators (All Levels) - Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-16T09:01:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680155/faculty-recruitment/"
-    },
-    {
-      "title": "Tenure-Track Faculty Positions",
-      "org": "Massachusetts Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-16T09:01:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680133/tenure-track-faculty-positions/"
-    },
-    {
-      "title": "Assistant Professor - Microbiology",
-      "org": "University of North Carolina at Greensboro · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-16T02:30:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680181/assistant-professor-microbiology/"
-    },
-    {
-      "title": "Assistant Professor in Computational and Experimental Molecular Biology",
-      "org": "School of Biological Sciences, UC San Diego · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-16T02:03:00.000Z",
-      "tags": [
-        "Computational",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680180/assistant-professor-in-computational-and-experimental-molecular-biology/"
-    },
-    {
-      "title": "Pulmonary Medicine",
-      "org": "Cincinnati Children's: Division Director · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-15T22:38:00.000Z",
+      "published": "2026-09-17T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680178/division-director-pulmonary-medicine/"
+      "url": "https://jobs.sciencecareers.org/job/680207/principal-investigators-all-levels-generative-biology-institute/"
+    },
+    {
+      "title": "Postdoctoral Research Fellow - Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-17T09:00:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680206/postdoctoral-research-fellow-generative-biology-institute/"
+    },
+    {
+      "title": "Postdoctoral Research Scientists - Materials & Devices for Life Sciences",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-17T09:00:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680205/postdoctoral-research-scientists-materials-and-devices-for-life-sciences/"
+    },
+    {
+      "title": "Assistant Professor of Biology, Biomedical Science",
+      "org": "Montclair State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-17T09:00:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680199/assistant-professor-of-biology-biomedical-science/"
+    },
+    {
+      "title": "University of Virginia, School of Medicine, Dept. of Pharmacology: Open Rank Professor of Pharmacology, Tenured/Tenure-Track-UVA School of Medicine",
+      "org": "Science Careers · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-17T00:24:00.000Z",
+      "tags": [
+        "Tenure-track"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680201/open-rank-professor-of-pharmacology-tenured-tenure-track-uva-school-of-medicine/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
