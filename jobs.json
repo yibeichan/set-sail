@@ -1,96 +1,96 @@
 {
-  "updatedAt": "2026-09-17T11:37:09.040Z",
+  "updatedAt": "2026-09-18T11:09:34.195Z",
   "jobs": [
     {
-      "title": "Program-Specific Assistant Professor / Researcher (Postdoc)",
-      "org": "Kyoto University · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-17T11:57:00.000Z",
-      "tags": [
-        "Postdoc",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680211/program-specific-assistant-professor-researcher-postdoc-/"
-    },
-    {
-      "title": "Bio-ML Scientist (Metabolic Modelling) - Generative Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "Associate/Assistant Professor of Microbiome",
+      "org": "Lee Kong Chian School of Medicine · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-17T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680209/bio-ml-scientist-metabolic-modelling-generative-biology-institute/"
-    },
-    {
-      "title": "(Senior) Group Leader, Nitrogen Fixation - Plant Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-17T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680208/-senior-group-leader-nitrogen-fixation-plant-biology-institute/"
-    },
-    {
-      "title": "Principal Investigators (All Levels) - Generative Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-17T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680207/principal-investigators-all-levels-generative-biology-institute/"
-    },
-    {
-      "title": "Postdoctoral Research Fellow - Generative Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-17T09:00:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680206/postdoctoral-research-fellow-generative-biology-institute/"
-    },
-    {
-      "title": "Postdoctoral Research Scientists - Materials & Devices for Life Sciences",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-17T09:00:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680205/postdoctoral-research-scientists-materials-and-devices-for-life-sciences/"
-    },
-    {
-      "title": "Assistant Professor of Biology, Biomedical Science",
-      "org": "Montclair State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-17T09:00:00.000Z",
+      "published": "2026-09-18T10:48:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680199/assistant-professor-of-biology-biomedical-science/"
+      "url": "https://jobs.sciencecareers.org/job/680240/associate-assistant-professor-of-microbiome/"
     },
     {
-      "title": "University of Virginia, School of Medicine, Dept. of Pharmacology: Open Rank Professor of Pharmacology, Tenured/Tenure-Track-UVA School of Medicine",
-      "org": "Science Careers · United States",
+      "title": "Senior Scientist, Automated Diagnostic Systems - Pathogen",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-17T00:24:00.000Z",
+      "published": "2026-09-18T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680239/senior-scientist-automated-diagnostic-systems-pathogen/"
+    },
+    {
+      "title": "F&B Manager",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-18T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680238/f-and-b-manager/"
+    },
+    {
+      "title": "Assistant Professor of Biology",
+      "org": "Whitman College · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-18T09:00:00.000Z",
       "tags": [
-        "Tenure-track"
+        "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680201/open-rank-professor-of-pharmacology-tenured-tenure-track-uva-school-of-medicine/"
+      "url": "https://jobs.sciencecareers.org/job/680215/assistant-professor-of-biology-/"
+    },
+    {
+      "title": "Galveston: Tenure-Track: Assistant Professor in Marine Biology",
+      "org": "Texas A&M University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-18T03:06:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680235/tenure-track-assistant-professor-in-marine-biology/"
+    },
+    {
+      "title": "Chemical and Biological Engineering: Open Rank Faculty Search: Princeton University",
+      "org": "Princeton University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-18T01:34:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680234/open-rank-faculty-search-princeton-university/"
+    },
+    {
+      "title": "Postdoctoral Associate, Department of Cellular and Molecular Medicine",
+      "org": "Florida International University · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-18T01:25:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680233/-postdoctoral-associate-department-of-cellular-and-molecular-medicine/"
+    },
+    {
+      "title": "Biomedical Engineering Education Research",
+      "org": "Cornell University: Tenure-track Faculty · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-18T00:55:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680232/tenure-track-faculty-biomedical-engineering-education-research/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
@@ -101,6 +101,18 @@
       "published": "2026-09-08T19:02:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3548577/endowed-nursing-professorship-in-health-well-being-and-chronic-conditions-innovation/"
+    },
+    {
+      "title": "Assistant or Associate Professor in K-12 Leadership",
+      "org": "University of Wisconsin-Madison · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-09-15T23:34:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3551249/assistant-or-associate-professor-in-k-12-leadership/"
     },
     {
       "title": "Department of Emergency Medicine",
@@ -123,16 +135,16 @@
       "url": "https://careers.insidehighered.com/job/3400593/linguistics-modern-languages-adjunct-instructor/"
     },
     {
-      "title": "Assistant Professor of Special Education",
-      "org": "San José State University · United States",
+      "title": "Multiple Open Rank Tenured/Tenure-Track Fac in Lifetime Learning Sys, Learning Sci, AI in Education",
+      "org": "Georgia Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Inside Higher Ed",
-      "published": "2025-11-25T10:00:00.000Z",
+      "published": "2026-09-14T19:29:00.000Z",
       "tags": [
-        "Faculty"
+        "Tenure-track"
       ],
-      "url": "https://careers.insidehighered.com/job/3433586/assistant-professor-of-special-education/"
+      "url": "https://careers.insidehighered.com/job/3550892/multiple-open-rank-tenured-tenure-track-fac-in-lifetime-learning-sys-learning-sci-ai-in-education/"
     },
     {
       "title": "Assistant, Associate, or Full Professor in Department of Clinical Pharmacy and Pharmacy Practice",
@@ -165,16 +177,6 @@
         "Faculty"
       ],
       "url": "https://careers.insidehighered.com/job/3474563/associate-professor-in-educational-leadership-research-methodology-/"
-    },
-    {
-      "title": "Special Education",
-      "org": "San José State University: Assistant Professor · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2024-11-02T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3253356/assistant-professor-special-education/"
     },
     {
       "title": "Faculty Positions in Nonhuman Primate Research, School of Life Sciences, Westlake University",
