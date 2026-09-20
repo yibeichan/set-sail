@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T10:54:22.450Z",
+  "updatedAt": "2026-09-20T11:18:13.178Z",
   "jobs": [
     {
       "title": "12-month Fixed Term Contract",
@@ -185,18 +185,6 @@
       "url": "https://careers.insidehighered.com/job/3550892/multiple-open-rank-tenured-tenure-track-fac-in-lifetime-learning-sys-learning-sci-ai-in-education/"
     },
     {
-      "title": "Faculty Positions in Nonhuman Primate Research, School of Life Sciences, Westlake University",
-      "org": "Westlake University School of Life Science · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-03-28T00:00:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12856820/faculty-positions-in-nonhuman-primate-research-school-of-life-sciences-westlake-university/"
-    },
-    {
       "title": "Tenure-Track Faculty Position in Computational or Theoretical Neuroscience",
       "org": "Duke University Neurobiology Dept · Global",
       "role": "faculty",
@@ -284,6 +272,18 @@
         "Postdoc"
       ],
       "url": "https://www.nature.com/naturecareers/job/12861100/postdoctoral-researcher/"
+    },
+    {
+      "title": "Assistant Professor in Metabolism Research",
+      "org": "Jill Walder · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-09-04T18:40:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12864291/assistant-professor-in-metabolism-research/"
     }
   ]
 }
