@@ -1,91 +1,94 @@
 {
-  "updatedAt": "2026-09-21T12:42:54.948Z",
+  "updatedAt": "2026-09-22T11:33:22.122Z",
   "jobs": [
     {
-      "title": "Department of Public Health, Faculty of Health, Aarhus University: Assistant / Associate Professor at the Department of Public Health",
-      "org": "Science Careers · United States",
+      "title": "People and Engagement",
+      "org": "Ellison Institute of Technology: Executive Assistant · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-21T12:17:00.000Z",
+      "published": "2026-09-22T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680281/executive-assistant-people-and-engagement/"
+    },
+    {
+      "title": "Marine Invertebrate Zoology",
+      "org": "CSU Long Beach · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-22T03:38:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680280/marine-invertebrate-zoology/"
+    },
+    {
+      "title": "Department of Biochemistry, School of Medicine—Basic Sciences",
+      "org": "Vanderbilt University: Assistant Professor · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-21T22:32:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680273/assistant-professor-department-of-biochemistry-school-of-medicine-basic-sciences/"
+    },
+    {
+      "title": "Oncology, Cancer & Blood Diseases Institute - Cell & Immune Therapy – Physician-Scientist - JR214185",
+      "org": "Cincinnati Children's · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-21T23:47:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680279/oncology-cancer-and-blood-diseases-institute-cell-and-immune-therapy-physician-scientist-jr214185/"
+    },
+    {
+      "title": "Assistant or Associate Professor Outstanding Research Opportunity",
+      "org": "Temple University : Tenure Track Faculty · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-21T23:48:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680266/assistant-associate-professor-at-the-department-of-public-health/"
+      "url": "https://jobs.sciencecareers.org/job/680278/tenure-track-faculty-assistant-or-associate-professor-outstanding-research-opportunity/"
     },
     {
-      "title": "Department of Public Health, Faculty of Health, Aarhus University: Associate Professor at the Department of Public Health",
-      "org": "Science Careers · United States",
+      "title": "Tenure-Track Faculty Position",
+      "org": "Massachusetts Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-21T11:50:00.000Z",
+      "published": "2026-09-21T21:42:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680271/tenure-track-faculty-position/"
+    },
+    {
+      "title": "Assistant Professor of Practice in Biotechnology and Genomics",
+      "org": "Texas Tech University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-21T22:45:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680264/associate-professor-at-the-department-of-public-health/"
+      "url": "https://jobs.sciencecareers.org/job/680275/assistant-professor-of-practice-in-biotechnology-and-genomics/"
     },
     {
-      "title": "Postdoctoral Positions in T-Cell Immunology",
-      "org": "University of Maryland School of Medicine · United States",
-      "role": "postdoc",
+      "title": "Tenure Track, Division of Experimental Pathology",
+      "org": "University of Pennsylvania: Assistant Professor · United States",
+      "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-21T17:01:00.000Z",
+      "published": "2026-09-21T21:20:00.000Z",
       "tags": [
-        "Postdoc"
+        "Tenure-track"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680262/postdoctoral-positions-in-t-cell-immunology/"
-    },
-    {
-      "title": "Head of the Department of Electronic and Computer Engineering",
-      "org": "The Hong Kong University of Science and Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-19T09:01:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680241/head-of-the-department-of-electronic-and-computer-engineering/"
-    },
-    {
-      "title": "Pathogen",
-      "org": "Ellison Institute of Technology: Fluidic System Engineer · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-21T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680263/fluidic-system-engineer-pathogen/"
-    },
-    {
-      "title": "12-month Fixed Term Contract",
-      "org": "Ellison Institute of Technology: Team Coordinator · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-19T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680260/team-coordinator-12-month-fixed-term-contract/"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-19T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680259/senior-software-engineer/"
-    },
-    {
-      "title": "Generative Biology Institute",
-      "org": "Ellison Institute of Technology: Media and Glass Technician · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-19T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680258/media-and-glass-technician-generative-biology-institute/"
+      "url": "https://jobs.sciencecareers.org/job/680270/assistant-professor-tenure-track-division-of-experimental-pathology/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
@@ -96,6 +99,28 @@
       "published": "2026-09-08T19:02:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3548577/endowed-nursing-professorship-in-health-well-being-and-chronic-conditions-innovation/"
+    },
+    {
+      "title": "Instructors in Education (Learning Behavior Specialist Courses)",
+      "org": "North Central College: Adjunct Pool · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-11-20T10:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3431285/adjunct-pool-instructors-in-education-learning-behavior-specialist-courses-/"
+    },
+    {
+      "title": "Multiple Open Rank Tenured/Tenure-Track Fac in Lifetime Learning Sys, Learning Sci, AI in Education",
+      "org": "Georgia Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-09-14T19:29:00.000Z",
+      "tags": [
+        "Tenure-track"
+      ],
+      "url": "https://careers.insidehighered.com/job/3550892/multiple-open-rank-tenured-tenure-track-fac-in-lifetime-learning-sys-learning-sci-ai-in-education/"
     },
     {
       "title": "Assistant, Associate, or Full Professor in Department of Physiology, School of Medicine",
@@ -149,31 +174,6 @@
         "Faculty"
       ],
       "url": "https://careers.insidehighered.com/job/3553042/open-rank-tenure-track-faculty-in-clinical-mental-health-counseling-and-school-counseling/"
-    },
-    {
-      "title": "Open Rank Tenure Track Faculty in English Education",
-      "org": "The University of Iowa · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-09-19T02:00:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3552978/open-rank-tenure-track-faculty-in-english-education/"
-    },
-    {
-      "title": "Assistant or Associate Professor in K-12 Leadership",
-      "org": "University of Wisconsin-Madison · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-09-15T23:34:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3551249/assistant-or-associate-professor-in-k-12-leadership/"
     },
     {
       "title": "Tenure-Track Faculty Position in Computational or Theoretical Neuroscience",
