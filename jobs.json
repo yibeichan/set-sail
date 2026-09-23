@@ -1,94 +1,99 @@
 {
-  "updatedAt": "2026-09-22T11:33:22.122Z",
+  "updatedAt": "2026-09-23T11:30:16.312Z",
   "jobs": [
     {
-      "title": "People and Engagement",
-      "org": "Ellison Institute of Technology: Executive Assistant · United States",
+      "title": "HR Advisor",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-22T09:00:00.000Z",
+      "published": "2026-09-23T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680281/executive-assistant-people-and-engagement/"
+      "url": "https://jobs.sciencecareers.org/job/680320/hr-advisor/"
     },
     {
-      "title": "Marine Invertebrate Zoology",
-      "org": "CSU Long Beach · United States",
+      "title": "Faculty position, Neuronal Cell Biology and Cryo-ET/vEM",
+      "org": "St. Jude Children's Research Hospital · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-22T03:38:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680280/marine-invertebrate-zoology/"
-    },
-    {
-      "title": "Department of Biochemistry, School of Medicine—Basic Sciences",
-      "org": "Vanderbilt University: Assistant Professor · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-21T22:32:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680273/assistant-professor-department-of-biochemistry-school-of-medicine-basic-sciences/"
-    },
-    {
-      "title": "Oncology, Cancer & Blood Diseases Institute - Cell & Immune Therapy – Physician-Scientist - JR214185",
-      "org": "Cincinnati Children's · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-21T23:47:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680279/oncology-cancer-and-blood-diseases-institute-cell-and-immune-therapy-physician-scientist-jr214185/"
-    },
-    {
-      "title": "Assistant or Associate Professor Outstanding Research Opportunity",
-      "org": "Temple University : Tenure Track Faculty · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-21T23:48:00.000Z",
+      "published": "2026-09-23T08:27:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680278/tenure-track-faculty-assistant-or-associate-professor-outstanding-research-opportunity/"
+      "url": "https://jobs.sciencecareers.org/job/680317/faculty-position-neuronal-cell-biology-and-cryo-et-vem/"
     },
     {
-      "title": "Tenure-Track Faculty Position",
-      "org": "Massachusetts Institute of Technology · United States",
+      "title": "Faculty Positions in Biophysics Theory and Computation at All Levels",
+      "org": "Johns Hopkins University · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-21T21:42:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680271/tenure-track-faculty-position/"
-    },
-    {
-      "title": "Assistant Professor of Practice in Biotechnology and Genomics",
-      "org": "Texas Tech University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-21T22:45:00.000Z",
+      "published": "2026-09-23T00:31:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680275/assistant-professor-of-practice-in-biotechnology-and-genomics/"
+      "url": "https://jobs.sciencecareers.org/job/680312/faculty-positions-in-biophysics-theory-and-computation-at-all-levels/"
     },
     {
-      "title": "Tenure Track, Division of Experimental Pathology",
-      "org": "University of Pennsylvania: Assistant Professor · United States",
+      "title": "Downers Grove: Assistant Professor- IL- Nurse Anesthesia Program",
+      "org": "Midwestern University · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-21T21:20:00.000Z",
+      "published": "2026-09-23T00:09:00.000Z",
       "tags": [
-        "Tenure-track"
+        "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680270/assistant-professor-tenure-track-division-of-experimental-pathology/"
+      "url": "https://jobs.sciencecareers.org/job/680310/assistant-professor-il-nurse-anesthesia-program/"
+    },
+    {
+      "title": "Assistant Professor",
+      "org": "University Of Wisconsin-Madison, Cell and Regenerative Biology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-22T23:19:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680309/assistant-professor/"
+    },
+    {
+      "title": "The University of New Mexico- Biochemistry & Molecular Biology Department: Assistant Professor of Biochemistry & Molecular Biology",
+      "org": "Science Careers · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-22T23:41:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680308/assistant-professor-of-biochemistry-and-molecular-biology/"
+    },
+    {
+      "title": "Downers Grove: Assistant Professor- AZ- Microbiology & Immunology",
+      "org": "Midwestern University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-22T23:39:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680307/assistant-professor-az-microbiology-and-immunology/"
+    },
+    {
+      "title": "Assistant / Associate Professor in Cancer Immunology",
+      "org": "Emory University, Microbiology & Immunology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-22T23:27:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680305/assistant-associate-professor-in-cancer-immunology/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
@@ -99,6 +104,26 @@
       "published": "2026-09-08T19:02:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3548577/endowed-nursing-professorship-in-health-well-being-and-chronic-conditions-innovation/"
+    },
+    {
+      "title": "Open Rank Professor, Higher Education Administration and Policy",
+      "org": "University of Florida · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-11-22T02:42:27.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3432403/open-rank-professor-higher-education-administration-and-policy/"
+    },
+    {
+      "title": "Assistant / Associate / Full Professor",
+      "org": "University of Florida · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-11-22T02:37:50.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3432154/assistant-associate-full-professor/"
     },
     {
       "title": "Instructors in Education (Learning Behavior Specialist Courses)",
@@ -151,29 +176,6 @@
       "published": "2025-07-20T09:00:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3374938/computer-network-technology-adjunct-instructor/"
-    },
-    {
-      "title": "First Year English and Mathematics - POOL",
-      "org": "University of West Georgia: Limited Term Instructor · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-07-10T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3370914/limited-term-instructor-first-year-english-and-mathematics-pool/"
-    },
-    {
-      "title": "Open Rank Tenure Track Faculty in Clinical Mental Health Counseling and School Counseling",
-      "org": "The University of Iowa · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-09-19T01:18:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3553042/open-rank-tenure-track-faculty-in-clinical-mental-health-counseling-and-school-counseling/"
     },
     {
       "title": "Tenure-Track Faculty Position in Computational or Theoretical Neuroscience",
