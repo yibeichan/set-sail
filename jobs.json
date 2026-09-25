@@ -1,97 +1,92 @@
 {
-  "updatedAt": "2026-09-24T11:40:32.767Z",
+  "updatedAt": "2026-09-25T11:46:46.284Z",
   "jobs": [
     {
-      "title": "Associate or Full Professor of Empire Innovation, Sustainable Materials Chemistry",
-      "org": "University at Buffalo · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-24T09:30:08.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680349/associate-or-full-professor-of-empire-innovation-sustainable-materials-chemistry/"
-    },
-    {
-      "title": "Faculty Position in Immunology Research",
-      "org": "University of Florida · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-24T09:00:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680333/faculty-position-in-immunology-research/"
-    },
-    {
-      "title": "Assistant Professor of Chemistry and Biochemistry",
-      "org": "San Diego State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-24T03:59:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680345/assistant-professor-of-chemistry-and-biochemistry/"
-    },
-    {
-      "title": "Center for Craniofacial Molecular Biology: Postdoctoral Scholar - Research Associate",
-      "org": "University of Southern California · United States",
+      "title": "Postdoctoral Associate- Reproductive Psychiatry",
+      "org": "Baylor College of Medicine · United States",
       "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-24T09:00:00.000Z",
+      "published": "2026-09-25T09:00:00.000Z",
       "tags": [
         "Postdoc"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680344/postdoctoral-scholar-research-associate/"
+      "url": "https://jobs.sciencecareers.org/job/680380/postdoctoral-associate-reproductive-psychiatry/"
     },
     {
-      "title": "Shreveport: Assistant/Associate/Full Professor (Tenure-Track) – Cardiovascular or Cancer Research",
-      "org": "LSU Health Science Center · United States",
+      "title": "Immunotherapy of hematologic malignancies",
+      "org": "Baylor College of Medicine: Postdoctoral Associate · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-24T02:55:00.000Z",
-      "tags": [
-        "Tenure-track"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680342/assistant-associate-full-professor-tenure-track-cardiovascular-or-cancer-research/"
-    },
-    {
-      "title": "Professor and Head of the Department of Biochemistry and Biophysics",
-      "org": "Department of Biochemistry and Biophysics Texas A&M University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-24T01:34:00.000Z",
+      "published": "2026-09-25T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680341/professor-and-head-of-the-department-of-biochemistry-and-biophysics/"
+      "url": "https://jobs.sciencecareers.org/job/680379/postdoctoral-associate-immunotherapy-of-hematologic-malignancies/"
     },
     {
-      "title": "Assistant Professor",
-      "org": "University of South Carolina School of Medicine Columbia · United States",
+      "title": "Electrophysiology",
+      "org": "Baylor College of Medicine: Research Associate · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-24T01:21:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680340/assistant-professor/"
+      "published": "2026-09-25T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680378/research-associate-electrophysiology/"
     },
     {
-      "title": "Endowed Faculty Position in Physical and Quantitative Biology",
-      "org": "Stony Brook University · United States",
+      "title": "Aortic Imaging & Clinical Research",
+      "org": "Baylor College of Medicine: Postdoctoral Associate · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-24T00:30:00.000Z",
+      "published": "2026-09-25T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680377/postdoctoral-associate-aortic-imaging-and-clinical-research/"
+    },
+    {
+      "title": "Business Analyst",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-25T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680376/business-analyst/"
+    },
+    {
+      "title": "IT Quality Assurance Lead",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-25T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680375/it-quality-assurance-lead/"
+    },
+    {
+      "title": "Postdoctoral Fellow (computational & experimental)",
+      "org": "University of Pennsylvania · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-25T09:30:05.000Z",
+      "tags": [
+        "Computational",
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680374/postdoctoral-fellow-computational-and-experimental-/"
+    },
+    {
+      "title": "Harvard T.H. Chan School of Public Health/Dana-Farber Cancer Institute : Assistant/Associate Professor of Biostatistics and Data Science",
+      "org": "Science Careers · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-24T23:49:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680335/endowed-faculty-position-in-physical-and-quantitative-biology/"
+      "url": "https://jobs.sciencecareers.org/job/680366/assistant-associate-professor-of-biostatistics-and-data-science/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
