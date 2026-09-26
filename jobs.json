@@ -1,92 +1,89 @@
 {
-  "updatedAt": "2026-09-25T11:46:46.284Z",
+  "updatedAt": "2026-09-26T11:20:08.614Z",
   "jobs": [
     {
-      "title": "Postdoctoral Associate- Reproductive Psychiatry",
-      "org": "Baylor College of Medicine · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-25T09:00:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680380/postdoctoral-associate-reproductive-psychiatry/"
-    },
-    {
-      "title": "Immunotherapy of hematologic malignancies",
+      "title": "Bioinformatics",
       "org": "Baylor College of Medicine: Postdoctoral Associate · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-25T09:00:00.000Z",
+      "published": "2026-09-26T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680379/postdoctoral-associate-immunotherapy-of-hematologic-malignancies/"
+      "url": "https://jobs.sciencecareers.org/job/680399/postdoctoral-associate-bioinformatics/"
     },
     {
-      "title": "Electrophysiology",
-      "org": "Baylor College of Medicine: Research Associate · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-25T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680378/research-associate-electrophysiology/"
-    },
-    {
-      "title": "Aortic Imaging & Clinical Research",
-      "org": "Baylor College of Medicine: Postdoctoral Associate · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-25T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680377/postdoctoral-associate-aortic-imaging-and-clinical-research/"
-    },
-    {
-      "title": "Business Analyst",
+      "title": "Bioinformatician",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-25T09:00:00.000Z",
+      "published": "2026-09-26T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680376/business-analyst/"
+      "url": "https://jobs.sciencecareers.org/job/680397/bioinformatician/"
     },
     {
-      "title": "IT Quality Assurance Lead",
+      "title": "Bioinformatics Engineer",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-25T09:00:00.000Z",
+      "published": "2026-09-26T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680375/it-quality-assurance-lead/"
+      "url": "https://jobs.sciencecareers.org/job/680396/bioinformatics-engineer/"
     },
     {
-      "title": "Postdoctoral Fellow (computational & experimental)",
-      "org": "University of Pennsylvania · United States",
-      "role": "postdoc",
+      "title": "Pathogen",
+      "org": "Ellison Institute of Technology: Bioinformatician · United States",
+      "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-25T09:30:05.000Z",
-      "tags": [
-        "Computational",
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680374/postdoctoral-fellow-computational-and-experimental-/"
+      "published": "2026-09-26T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680395/bioinformatician-pathogen/"
     },
     {
-      "title": "Harvard T.H. Chan School of Public Health/Dana-Farber Cancer Institute : Assistant/Associate Professor of Biostatistics and Data Science",
+      "title": "Stanford University: Immunology & Rheumatology: Physician Scientist/Scientist Search",
       "org": "Science Careers · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-24T23:49:00.000Z",
+      "published": "2026-09-26T09:30:07.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680394/immunology-and-rheumatology-physician-scientist-scientist-search/"
+    },
+    {
+      "title": "Weill Cornell Medical College: Assistant Professor, Department of Pharmacology, Weill Cornell Medicine",
+      "org": "Pharmacology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-26T02:43:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680366/assistant-associate-professor-of-biostatistics-and-data-science/"
+      "url": "https://jobs.sciencecareers.org/job/680391/assistant-professor-department-of-pharmacology-weill-cornell-medicine-/"
+    },
+    {
+      "title": "Postdoctoral Scholar",
+      "org": "University of Iowa · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-25T23:40:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680388/postdoctoral-scholar/"
+    },
+    {
+      "title": "Professor (all ranks) in AI/ML in Translational Women's Health",
+      "org": "Arizona State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-25T23:12:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680385/professor-all-ranks-in-ai-ml-in-translational-women-s-health/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
