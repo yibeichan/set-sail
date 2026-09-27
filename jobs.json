@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-26T11:20:08.614Z",
+  "updatedAt": "2026-09-27T11:58:07.834Z",
   "jobs": [
+    {
+      "title": "Aortic Imaging & Clinical Research",
+      "org": "Baylor College of Medicine: Postdoctoral Associate · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-27T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680404/postdoctoral-associate-aortic-imaging-and-clinical-research/"
+    },
+    {
+      "title": "Scientist, Plant Metabolic Engineering - Plant Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-27T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680403/scientist-plant-metabolic-engineering-plant-biology-institute/"
+    },
+    {
+      "title": "Scientist, Photosynthesis Assay Development - Plant Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-27T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680402/scientist-photosynthesis-assay-development-plant-biology-institute/"
+    },
+    {
+      "title": "Laboratory Technician (Plant Cell Culture) - Plant Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-27T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680401/laboratory-technician-plant-cell-culture-plant-biology-institute/"
+    },
+    {
+      "title": "Postdoctoral Research Fellow (Zuercher Lab) - Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-27T09:00:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680400/postdoctoral-research-fellow-zuercher-lab-generative-biology-institute/"
+    },
     {
       "title": "Bioinformatics",
       "org": "Baylor College of Medicine: Postdoctoral Associate · United States",
@@ -30,60 +82,6 @@
       "published": "2026-09-26T09:00:00.000Z",
       "tags": [],
       "url": "https://jobs.sciencecareers.org/job/680396/bioinformatics-engineer/"
-    },
-    {
-      "title": "Pathogen",
-      "org": "Ellison Institute of Technology: Bioinformatician · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-26T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680395/bioinformatician-pathogen/"
-    },
-    {
-      "title": "Stanford University: Immunology & Rheumatology: Physician Scientist/Scientist Search",
-      "org": "Science Careers · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-26T09:30:07.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680394/immunology-and-rheumatology-physician-scientist-scientist-search/"
-    },
-    {
-      "title": "Weill Cornell Medical College: Assistant Professor, Department of Pharmacology, Weill Cornell Medicine",
-      "org": "Pharmacology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-26T02:43:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680391/assistant-professor-department-of-pharmacology-weill-cornell-medicine-/"
-    },
-    {
-      "title": "Postdoctoral Scholar",
-      "org": "University of Iowa · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-25T23:40:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680388/postdoctoral-scholar/"
-    },
-    {
-      "title": "Professor (all ranks) in AI/ML in Translational Women's Health",
-      "org": "Arizona State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-25T23:12:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680385/professor-all-ranks-in-ai-ml-in-translational-women-s-health/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
