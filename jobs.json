@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-27T11:58:07.834Z",
+  "updatedAt": "2026-09-28T13:47:51.566Z",
   "jobs": [
+    {
+      "title": "Director, X-Ray Crystallography Facility",
+      "org": "University of Minnesota Chemistry Department · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-28T17:02:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680406/director-x-ray-crystallography-facility/"
+    },
+    {
+      "title": "Faculty Position in Cancer Immunology",
+      "org": "Mayo · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-28T17:01:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680398/faculty-position-in-cancer-immunology/"
+    },
+    {
+      "title": "Physician-Scientist and Medical Director, OMRF Center for Healthy Aging",
+      "org": "Oklahoma Medical Research Foundation · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-28T17:01:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680390/physician-scientist-and-medical-director-omrf-center-for-healthy-aging/"
+    },
+    {
+      "title": "Vice President for Research and Creative Activity",
+      "org": "North Dakota State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-26T09:30:04.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680393/vice-president-for-research-and-creative-activity/"
+    },
     {
       "title": "Aortic Imaging & Clinical Research",
       "org": "Baylor College of Medicine: Postdoctoral Associate · United States",
@@ -40,48 +82,6 @@
       "published": "2026-09-27T09:00:00.000Z",
       "tags": [],
       "url": "https://jobs.sciencecareers.org/job/680401/laboratory-technician-plant-cell-culture-plant-biology-institute/"
-    },
-    {
-      "title": "Postdoctoral Research Fellow (Zuercher Lab) - Generative Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-27T09:00:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680400/postdoctoral-research-fellow-zuercher-lab-generative-biology-institute/"
-    },
-    {
-      "title": "Bioinformatics",
-      "org": "Baylor College of Medicine: Postdoctoral Associate · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-26T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680399/postdoctoral-associate-bioinformatics/"
-    },
-    {
-      "title": "Bioinformatician",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-26T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680397/bioinformatician/"
-    },
-    {
-      "title": "Bioinformatics Engineer",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-26T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680396/bioinformatics-engineer/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
