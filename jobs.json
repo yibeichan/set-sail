@@ -1,87 +1,97 @@
 {
-  "updatedAt": "2026-09-28T13:47:51.566Z",
+  "updatedAt": "2026-09-29T12:47:32.364Z",
   "jobs": [
     {
-      "title": "Director, X-Ray Crystallography Facility",
-      "org": "University of Minnesota Chemistry Department · United States",
+      "title": "Basic Sciences Faculty Position, Bezos Family Distinguished Scholar",
+      "org": "Fred Hutchinson Cancer Center · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-28T17:02:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680406/director-x-ray-crystallography-facility/"
-    },
-    {
-      "title": "Faculty Position in Cancer Immunology",
-      "org": "Mayo · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-28T17:01:00.000Z",
+      "published": "2026-09-29T04:48:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680398/faculty-position-in-cancer-immunology/"
+      "url": "https://jobs.sciencecareers.org/job/680427/basic-sciences-faculty-position-bezos-family-distinguished-scholar/"
     },
     {
-      "title": "Physician-Scientist and Medical Director, OMRF Center for Healthy Aging",
-      "org": "Oklahoma Medical Research Foundation · United States",
+      "title": "Postdoctoral and Predoctoral Fellow Positions",
+      "org": "Unversity of Illinois at Chicago · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-29T03:28:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680426/postdoctoral-and-predoctoral-fellow-positions/"
+    },
+    {
+      "title": "Assistant Professor of Biochemistry",
+      "org": "Montana State University · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-28T17:01:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680390/physician-scientist-and-medical-director-omrf-center-for-healthy-aging/"
+      "published": "2026-09-29T02:16:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680424/assistant-professor-of-biochemistry/"
     },
     {
-      "title": "Vice President for Research and Creative Activity",
-      "org": "North Dakota State University · United States",
+      "title": "ABCD Study Director",
+      "org": "NIH NIDA · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-26T09:30:04.000Z",
+      "published": "2026-09-29T01:02:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680393/vice-president-for-research-and-creative-activity/"
+      "url": "https://jobs.sciencecareers.org/job/680422/abcd-study-director/"
     },
     {
-      "title": "Aortic Imaging & Clinical Research",
-      "org": "Baylor College of Medicine: Postdoctoral Associate · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-27T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680404/postdoctoral-associate-aortic-imaging-and-clinical-research/"
-    },
-    {
-      "title": "Scientist, Plant Metabolic Engineering - Plant Biology Institute",
+      "title": "Principal Investigators (All Levels) - Generative Biology Institute",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-27T09:00:00.000Z",
+      "published": "2026-09-29T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680403/scientist-plant-metabolic-engineering-plant-biology-institute/"
+      "url": "https://jobs.sciencecareers.org/job/680428/principal-investigators-all-levels-generative-biology-institute/"
     },
     {
-      "title": "Scientist, Photosynthesis Assay Development - Plant Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "Assistant Professor - Emerging Directions in Chemical Engineering",
+      "org": "University of Toronto, Chemical Engineering and Applied Chemistry · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-27T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680402/scientist-photosynthesis-assay-development-plant-biology-institute/"
+      "published": "2026-09-29T00:55:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680421/assistant-professor-emerging-directions-in-chemical-engineering/"
     },
     {
-      "title": "Laboratory Technician (Plant Cell Culture) - Plant Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "Assistant Professor - Electrochemical Engineering",
+      "org": "University of Toronto, Chemical Engineering and Applied Chemistry · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-27T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680401/laboratory-technician-plant-cell-culture-plant-biology-institute/"
+      "published": "2026-09-29T00:52:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680419/assistant-professor-electrochemical-engineering/"
+    },
+    {
+      "title": "Assistant Professor - Biological Engineering",
+      "org": "University of Toronto, Chemical Engineering and Applied Chemistry · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-29T00:40:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680418/assistant-professor-biological-engineering/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
@@ -92,6 +102,42 @@
       "published": "2026-09-08T19:02:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3548577/endowed-nursing-professorship-in-health-well-being-and-chronic-conditions-innovation/"
+    },
+    {
+      "title": "Research Assistant Professor, School of Graduate Studies",
+      "org": "Lingnan University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-09-29T09:52:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3556582/research-assistant-professor-school-of-graduate-studies/"
+    },
+    {
+      "title": "Associate Professor of Teaching / Assistant Professor of Teaching / Senior Lecturer, GS",
+      "org": "Lingnan University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-09-29T09:52:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3556581/associate-professor-of-teaching-assistant-professor-of-teaching-senior-lecturer-gs/"
+    },
+    {
+      "title": "Assistant Professor of English (Teacher Education) - Department of English and Modern Languages",
+      "org": "Bowie State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2023-01-25T10:00:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/2736193/assistant-professor-of-english-teacher-education-department-of-english-and-modern-languages/"
     },
     {
       "title": "Open Rank Professor, Higher Education Administration and Policy",
@@ -136,36 +182,6 @@
       "url": "https://careers.insidehighered.com/job/3550892/multiple-open-rank-tenured-tenure-track-fac-in-lifetime-learning-sys-learning-sci-ai-in-education/"
     },
     {
-      "title": "Assistant, Associate, or Full Professor in Department of Physiology, School of Medicine",
-      "org": "TAIPEI MEDICAL UNIVERSITY (TMU) · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-09-21T16:25:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3553759/assistant-associate-or-full-professor-in-department-of-physiology-school-of-medicine/"
-    },
-    {
-      "title": "Assistant/Associate Academic Specialist of Social Science",
-      "org": "New York University Abu Dhabi · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-09-21T14:16:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3553755/assistant-associate-academic-specialist-of-social-science/"
-    },
-    {
-      "title": "Computer Network Technology Adjunct Instructor",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-07-20T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3374938/computer-network-technology-adjunct-instructor/"
-    },
-    {
       "title": "Tenure-Track Faculty Position in Computational or Theoretical Neuroscience",
       "org": "Duke University Neurobiology Dept · Global",
       "role": "faculty",
@@ -190,19 +206,6 @@
         "Neuroscience"
       ],
       "url": "https://www.nature.com/naturecareers/job/12864966/principal-investigators-in-neuroscience/"
-    },
-    {
-      "title": "Faculty Position in Neuroscience - University of Colorado Anschutz Medical Campus (Pharmacology)",
-      "org": "University of Colorado Anschutz · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-08-28T19:54:00.000Z",
-      "tags": [
-        "Neuroscience",
-        "Faculty"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12863049/faculty-position-in-neuroscience-university-of-colorado-anschutz-medical-campus-pharmacology-/"
     },
     {
       "title": "Faculty position at Chanakya University School of Biosciences",
@@ -265,6 +268,19 @@
         "Faculty"
       ],
       "url": "https://www.nature.com/naturecareers/job/12864291/assistant-professor-in-metabolism-research/"
+    },
+    {
+      "title": "Tenure-Track Assistant Professor Faculty Position",
+      "org": "Vanderbilt University (VU) · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-09-24T18:31:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12865007/tenure-track-assistant-professor-faculty-position/"
     }
   ]
 }
