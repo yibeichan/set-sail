@@ -1,97 +1,95 @@
 {
-  "updatedAt": "2026-09-29T12:47:32.364Z",
+  "updatedAt": "2026-09-30T12:29:28.220Z",
   "jobs": [
     {
-      "title": "Basic Sciences Faculty Position, Bezos Family Distinguished Scholar",
-      "org": "Fred Hutchinson Cancer Center · United States",
+      "title": "caesar (MPINB): Max Planck Research Group Leader (W2) in Neuroethology (m/f/div)",
+      "org": "Max Planck Institute for Neurobiology of Behaviour · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-29T04:48:00.000Z",
+      "published": "2026-09-30T13:29:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680461/max-planck-research-group-leader-w2-in-neuroethology-m-f-div-/"
+    },
+    {
+      "title": "Assistant Professor of Plant Pathology",
+      "org": "University of California, Davis · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-30T09:30:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680427/basic-sciences-faculty-position-bezos-family-distinguished-scholar/"
+      "url": "https://jobs.sciencecareers.org/job/680459/assistant-professor-of-plant-pathology/"
     },
     {
-      "title": "Postdoctoral and Predoctoral Fellow Positions",
-      "org": "Unversity of Illinois at Chicago · United States",
+      "title": "BTS General Faculty Recruitment",
+      "org": "University of California, San Francisco · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-30T09:30:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680458/bts-general-faculty-recruitment/"
+    },
+    {
+      "title": "BTS Biomolecular Engineering Faculty Recruitment",
+      "org": "University of California, San Francisco · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-30T09:30:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680457/bts-biomolecular-engineering-faculty-recruitment/"
+    },
+    {
+      "title": "Quantum Faculty",
+      "org": "University of California, Santa Barbara · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-30T03:39:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680453/quantum-faculty/"
+    },
+    {
+      "title": "Vice President, Research",
+      "org": "University of Calgary · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-30T03:34:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680454/vice-president-research/"
+    },
+    {
+      "title": "Postdoctoral Research Associate",
+      "org": "Texas A&M University College of Pharmacy · United States",
       "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-29T03:28:00.000Z",
+      "published": "2026-09-30T02:14:00.000Z",
       "tags": [
         "Postdoc"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680426/postdoctoral-and-predoctoral-fellow-positions/"
+      "url": "https://jobs.sciencecareers.org/job/680451/postdoctoral-research-associate-/"
     },
     {
-      "title": "Assistant Professor of Biochemistry",
-      "org": "Montana State University · United States",
+      "title": "Head of the Department of Civil and Environmental Engineering",
+      "org": "The Hong Kong University of Science and Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-09-29T02:16:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680424/assistant-professor-of-biochemistry/"
-    },
-    {
-      "title": "ABCD Study Director",
-      "org": "NIH NIDA · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-29T01:02:00.000Z",
+      "published": "2026-09-30T16:12:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680422/abcd-study-director/"
-    },
-    {
-      "title": "Principal Investigators (All Levels) - Generative Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-29T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680428/principal-investigators-all-levels-generative-biology-institute/"
-    },
-    {
-      "title": "Assistant Professor - Emerging Directions in Chemical Engineering",
-      "org": "University of Toronto, Chemical Engineering and Applied Chemistry · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-29T00:55:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680421/assistant-professor-emerging-directions-in-chemical-engineering/"
-    },
-    {
-      "title": "Assistant Professor - Electrochemical Engineering",
-      "org": "University of Toronto, Chemical Engineering and Applied Chemistry · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-29T00:52:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680419/assistant-professor-electrochemical-engineering/"
-    },
-    {
-      "title": "Assistant Professor - Biological Engineering",
-      "org": "University of Toronto, Chemical Engineering and Applied Chemistry · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-29T00:40:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680418/assistant-professor-biological-engineering/"
+      "url": "https://jobs.sciencecareers.org/job/680460/head-of-the-department-of-civil-and-environmental-engineering/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
@@ -102,6 +100,36 @@
       "published": "2026-09-08T19:02:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3548577/endowed-nursing-professorship-in-health-well-being-and-chronic-conditions-innovation/"
+    },
+    {
+      "title": "Business - POOL",
+      "org": "University of West Georgia: Limited Term Instructor · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-07-29T09:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3378456/limited-term-instructor-business-pool/"
+    },
+    {
+      "title": "Education, Wellness, & Sport Management - POOL",
+      "org": "University of West Georgia: Limited Term Instructor · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-07-29T09:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3378455/limited-term-instructor-education-wellness-and-sport-management-pool/"
+    },
+    {
+      "title": "Humanities, Arts, & Social Sciences - POOL",
+      "org": "University of West Georgia: Limited Term Instructor · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-07-29T09:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3378454/limited-term-instructor-humanities-arts-and-social-sciences-pool/"
     },
     {
       "title": "Research Assistant Professor, School of Graduate Studies",
@@ -148,38 +176,6 @@
       "published": "2025-11-22T02:42:27.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3432403/open-rank-professor-higher-education-administration-and-policy/"
-    },
-    {
-      "title": "Assistant / Associate / Full Professor",
-      "org": "University of Florida · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-11-22T02:37:50.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3432154/assistant-associate-full-professor/"
-    },
-    {
-      "title": "Instructors in Education (Learning Behavior Specialist Courses)",
-      "org": "North Central College: Adjunct Pool · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-11-20T10:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3431285/adjunct-pool-instructors-in-education-learning-behavior-specialist-courses-/"
-    },
-    {
-      "title": "Multiple Open Rank Tenured/Tenure-Track Fac in Lifetime Learning Sys, Learning Sci, AI in Education",
-      "org": "Georgia Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-09-14T19:29:00.000Z",
-      "tags": [
-        "Tenure-track"
-      ],
-      "url": "https://careers.insidehighered.com/job/3550892/multiple-open-rank-tenured-tenure-track-fac-in-lifetime-learning-sys-learning-sci-ai-in-education/"
     },
     {
       "title": "Tenure-Track Faculty Position in Computational or Theoretical Neuroscience",
@@ -258,6 +254,16 @@
       "url": "https://www.nature.com/naturecareers/job/12864661/postdoctoral-scholar-in-visual-system-neurobiology-and-multi-omics/"
     },
     {
+      "title": "Chief Executive Officer",
+      "org": "Gloucester Marine Geonomics Institute (GMGI) · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-09-29T15:55:00.000Z",
+      "tags": [],
+      "url": "https://www.nature.com/naturecareers/job/12865154/chief-executive-officer/"
+    },
+    {
       "title": "Assistant Professor in Metabolism Research",
       "org": "Jill Walder · Global",
       "role": "faculty",
@@ -268,19 +274,6 @@
         "Faculty"
       ],
       "url": "https://www.nature.com/naturecareers/job/12864291/assistant-professor-in-metabolism-research/"
-    },
-    {
-      "title": "Tenure-Track Assistant Professor Faculty Position",
-      "org": "Vanderbilt University (VU) · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-09-24T18:31:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12865007/tenure-track-assistant-professor-faculty-position/"
     }
   ]
 }
