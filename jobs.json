@@ -1,97 +1,95 @@
 {
-  "updatedAt": "2026-10-01T13:06:58.561Z",
+  "updatedAt": "2026-10-02T12:28:08.143Z",
   "jobs": [
     {
-      "title": "Professor in Aerodynamics",
-      "org": "TUM (Technical University Munich, Germany) · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-01T17:07:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680430/professor-in-aerodynamics-/"
-    },
-    {
-      "title": "NEXUS Research Academy, Faculty of Health Sciences, Aarhus University: Join the NEXUS Research Academy as Managing Director",
-      "org": "Science Careers · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-01T14:57:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680489/join-the-nexus-research-academy-as-managing-director/"
-    },
-    {
-      "title": "Assistant/Associate Professor, Clinical Data Science, Biomedical Informatics (Tenure-Track)",
-      "org": "SUNY, Stony Brook University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-08T18:30:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680045/assistant-associate-professor-clinical-data-science-biomedical-informatics-tenure-track-/"
-    },
-    {
-      "title": "University of Hawaii John A Burns School of Medicine: Assistant Professor in Tropical Medicine",
-      "org": "Science Careers · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-01T06:53:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680485/assistant-professor-in-tropical-medicine/"
-    },
-    {
-      "title": "Assistant or Associate Professor HS, Department of Biochemistry",
-      "org": "University at Buffalo · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-01T09:30:04.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680486/assistant-or-associate-professor-hs-department-of-biochemistry/"
-    },
-    {
-      "title": "International Max Planck Research School for Ultrafast Imaging and Structural Dynamics: Interdisciplinary doctoral PhD projects in the fields of Ultrafast Science and Quantum Materials",
-      "org": "Science Careers · United States",
+      "title": "PhD Student Positions (f/m/x) – Electron-Light Interaction in Silicon Photonic Nanostructures –",
+      "org": "Max Planck Institute for Multidisciplinary Sciences · United States",
       "role": "phd",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-01T12:52:00.000Z",
+      "published": "2026-10-02T15:20:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680488/interdisciplinary-doctoral-phd-projects-in-the-fields-of-ultrafast-science-and-quantum-materials/"
+      "url": "https://jobs.sciencecareers.org/job/680512/phd-student-positions-f-m-x-electron-light-interaction-in-silicon-photonic-nanostructures-/"
     },
     {
-      "title": "Scientist, Advanced Genome Technologies - Plant Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
+      "title": "Translational Excellence Programme: 14 postdoctoral fellowships to the BRIDGE – Translational Excellence Programme",
+      "org": "BRIDGE · United States",
+      "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-01T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680487/scientist-advanced-genome-technologies-plant-biology-institute/"
-    },
-    {
-      "title": "Tenure-Track Assistant Professor in Plant Sciences",
-      "org": "Purdue University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-01T09:01:00.000Z",
+      "published": "2026-10-02T12:48:00.000Z",
       "tags": [
-        "Tenure-track",
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680508/14-postdoctoral-fellowships-to-the-bridge-translational-excellence-programme/"
+    },
+    {
+      "title": "Geballe Laboratory for Advanced Materials: 2027 GLAM Postdoctoral Fellowship",
+      "org": "Stanford University · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-02T17:01:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680506/2027-glam-postdoctoral-fellowship/"
+    },
+    {
+      "title": "Associate/Assistant Professor of Cancer Biology",
+      "org": "UNT Biology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-02T17:01:00.000Z",
+      "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680484/tenure-track-assistant-professor-in-plant-sciences/"
+      "url": "https://jobs.sciencecareers.org/job/680504/associate-assistant-professor-of-cancer-biology/"
+    },
+    {
+      "title": "Faculty Position in Tribology and Interface Engineering",
+      "org": "Ecole polytechnique fédérale de Lausanne · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-02T17:02:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680515/faculty-position-in-tribology-and-interface-engineering/"
+    },
+    {
+      "title": "Faculty Position in Theory and Simulation of Materials",
+      "org": "Ecole polytechnique fédérale de Lausanne · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-02T16:35:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680514/faculty-position-in-theory-and-simulation-of-materials/"
+    },
+    {
+      "title": "Scientific coordinator within the Cluster of Excellence Balance of the Microverse",
+      "org": "Friedrich-Schiller-Universität Jena · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-02T16:18:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680513/scientific-coordinator-within-the-cluster-of-excellence-balance-of-the-microverse/"
+    },
+    {
+      "title": "Associate Senior Lecturer (SciLifeLab Fellow) in Antimicrobial Resistance",
+      "org": "SciLifeLab · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-02T14:23:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680511/associate-senior-lecturer-scilifelab-fellow-in-antimicrobial-resistance/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
@@ -102,6 +100,18 @@
       "published": "2026-09-08T19:02:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3548577/endowed-nursing-professorship-in-health-well-being-and-chronic-conditions-innovation/"
+    },
+    {
+      "title": "Assistant Professor Disparities and Education Policy Berkeley School of Education",
+      "org": "University of California, Berkeley · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-10-01T06:03:41.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3408300/assistant-professor-disparities-and-education-policy-berkeley-school-of-education/"
     },
     {
       "title": "Associate / Assistant Professor in Product or Graphic Design",
@@ -168,18 +178,6 @@
         "Faculty"
       ],
       "url": "https://careers.insidehighered.com/job/3556581/associate-professor-of-teaching-assistant-professor-of-teaching-senior-lecturer-gs/"
-    },
-    {
-      "title": "Assistant Professor of English (Teacher Education) - Department of English and Modern Languages",
-      "org": "Bowie State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2023-01-25T10:00:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/2736193/assistant-professor-of-english-teacher-education-department-of-english-and-modern-languages/"
     },
     {
       "title": "Tenure-Track Faculty Position in Computational or Theoretical Neuroscience",
