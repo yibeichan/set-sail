@@ -1,87 +1,93 @@
 {
-  "updatedAt": "2026-10-04T12:17:20.732Z",
+  "updatedAt": "2026-10-05T14:30:14.738Z",
   "jobs": [
     {
-      "title": "Postdoctoral Associate- Reproductive Psychiatry",
-      "org": "Baylor College of Medicine · United States",
+      "title": "Assistant Professor of Pharmaceutical Sciences - Drug Delivery",
+      "org": "School of Pharmacy, UW-Madison · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-05T18:59:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680573/assistant-professor-of-pharmaceutical-sciences-drug-delivery/"
+    },
+    {
+      "title": "Department Head, Clinical Sciences",
+      "org": "Colorado State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-05T18:30:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680570/department-head-clinical-sciences/"
+    },
+    {
+      "title": "Basic Medical Sciences: Assistant Professor of Basic Medical Sciences - One Health",
+      "org": "Purdue University College of Veterinary Medicine · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-05T17:16:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680568/assistant-professor-of-basic-medical-sciences-one-health/"
+    },
+    {
+      "title": "Basic Medical Sciences: Assistant Professor of Basic Medical Sciences",
+      "org": "Purdue University College of Veterinary Medicine · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-05T17:32:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680569/assistant-professor-of-basic-medical-sciences/"
+    },
+    {
+      "title": "Director General",
+      "org": "The Extreme Light Infrastructure ERIC · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-05T14:04:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680567/director-general-/"
+    },
+    {
+      "title": "Srinivasan Lab",
+      "org": "Oklahoma Medical Research Foundation: Postdoctoral Scientist · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-24T09:30:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680348/postdoctoral-scientist-srinivasan-lab/"
+    },
+    {
+      "title": "Ast Prof, Asoc Prof & Sr Rsrch Specialist in Radiopharmaceutical Science Cluster",
+      "org": "University of Missouri Dept. of Chemistry · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-03T01:17:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680531/ast-prof-asoc-prof-and-sr-rsrch-specialist-in-radiopharmaceutical-science-cluster/"
+    },
+    {
+      "title": "Postdoctoral Associate - Department of Cellular and Molecular Medicine",
+      "org": "FlU -- Florida International University · United States",
       "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-04T09:00:00.000Z",
+      "published": "2026-10-03T01:26:00.000Z",
       "tags": [
         "Postdoc"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680558/postdoctoral-associate-reproductive-psychiatry/"
-    },
-    {
-      "title": "Chromatin Regulation by Fusion Oncoproteins",
-      "org": "Baylor College of Medicine: Postdoctoral Associate · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-04T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680557/postdoctoral-associate-chromatin-regulation-by-fusion-oncoproteins/"
-    },
-    {
-      "title": "Data Engineer (Autonomous Systems)",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-04T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680556/data-engineer-autonomous-systems-/"
-    },
-    {
-      "title": "Data Engineer (Forward Deployed)",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-04T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680555/data-engineer-forward-deployed-/"
-    },
-    {
-      "title": "Professor (open rank)",
-      "org": "University of Virginia · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-04T01:02:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680554/professor-open-rank-/"
-    },
-    {
-      "title": "Cancer Bioinformatics, Biostatistics, and Multi-Omics",
-      "org": "Baylor College of Medicine: Postdoctoral Associate · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-03T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680552/postdoctoral-associate-cancer-bioinformatics-biostatistics-and-multi-omics/"
-    },
-    {
-      "title": "Clinical Bioinformatics",
-      "org": "Baylor College of Medicine: Postdoctoral Associate · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-03T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680551/postdoctoral-associate-clinical-bioinformatics/"
-    },
-    {
-      "title": "Aortic Imaging & Clinical Research",
-      "org": "Baylor College of Medicine: Postdoctoral Associate · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-03T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680550/postdoctoral-associate-aortic-imaging-and-clinical-research/"
+      "url": "https://jobs.sciencecareers.org/job/680532/postdoctoral-associate-department-of-cellular-and-molecular-medicine/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
@@ -250,16 +256,17 @@
       "url": "https://www.nature.com/naturecareers/job/12865154/chief-executive-officer/"
     },
     {
-      "title": "Assistant Professor in Metabolism Research",
-      "org": "Jill Walder · Global",
+      "title": "Tenure-Track Assistant Professor Faculty Position",
+      "org": "Vanderbilt University (VU) · Global",
       "role": "faculty",
       "region": "global",
       "source": "Nature Careers",
-      "published": "2026-09-04T18:40:00.000Z",
+      "published": "2026-09-24T18:31:00.000Z",
       "tags": [
+        "Tenure-track",
         "Faculty"
       ],
-      "url": "https://www.nature.com/naturecareers/job/12864291/assistant-professor-in-metabolism-research/"
+      "url": "https://www.nature.com/naturecareers/job/12865007/tenure-track-assistant-professor-faculty-position/"
     }
   ]
 }
