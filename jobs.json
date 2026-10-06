@@ -1,93 +1,96 @@
 {
-  "updatedAt": "2026-10-05T14:30:14.738Z",
+  "updatedAt": "2026-10-06T13:15:12.616Z",
   "jobs": [
     {
-      "title": "Assistant Professor of Pharmaceutical Sciences - Drug Delivery",
-      "org": "School of Pharmacy, UW-Madison · United States",
+      "title": "SOM - Genome Sciences: Faculty Positions in Genome Sciences (Open Rank and Assistant Professor)",
+      "org": "University of Washington · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-05T18:59:00.000Z",
+      "published": "2026-10-06T15:00:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680573/assistant-professor-of-pharmaceutical-sciences-drug-delivery/"
+      "url": "https://jobs.sciencecareers.org/job/680583/faculty-positions-in-genome-sciences-open-rank-and-assistant-professor-/"
     },
     {
-      "title": "Department Head, Clinical Sciences",
-      "org": "Colorado State University · United States",
+      "title": "Assistant / Associate Professor ??? Electronic, Functional, and Quantum Materials",
+      "org": "Unversity of California, Berkeley · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-05T18:30:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680570/department-head-clinical-sciences/"
-    },
-    {
-      "title": "Basic Medical Sciences: Assistant Professor of Basic Medical Sciences - One Health",
-      "org": "Purdue University College of Veterinary Medicine · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-05T17:16:00.000Z",
+      "published": "2026-10-06T02:07:20.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680568/assistant-professor-of-basic-medical-sciences-one-health/"
+      "url": "https://jobs.sciencecareers.org/job/680582/assistant-associate-professor-electronic-functional-and-quantum-materials/"
     },
     {
-      "title": "Basic Medical Sciences: Assistant Professor of Basic Medical Sciences",
-      "org": "Purdue University College of Veterinary Medicine · United States",
+      "title": "Faculty Positions in Westlake University",
+      "org": "Westlake University · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-05T17:32:00.000Z",
+      "published": "2026-10-06T06:55:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680569/assistant-professor-of-basic-medical-sciences/"
+      "url": "https://jobs.sciencecareers.org/job/680585/faculty-positions-in-westlake-university/"
     },
     {
-      "title": "Director General",
-      "org": "The Extreme Light Infrastructure ERIC · United States",
+      "title": "Department of Physics - Open Rank Faculty Search",
+      "org": "University of Illinois Urbana-Champaign · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-05T14:04:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680567/director-general-/"
-    },
-    {
-      "title": "Srinivasan Lab",
-      "org": "Oklahoma Medical Research Foundation: Postdoctoral Scientist · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-24T09:30:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680348/postdoctoral-scientist-srinivasan-lab/"
-    },
-    {
-      "title": "Ast Prof, Asoc Prof & Sr Rsrch Specialist in Radiopharmaceutical Science Cluster",
-      "org": "University of Missouri Dept. of Chemistry · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-03T01:17:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680531/ast-prof-asoc-prof-and-sr-rsrch-specialist-in-radiopharmaceutical-science-cluster/"
-    },
-    {
-      "title": "Postdoctoral Associate - Department of Cellular and Molecular Medicine",
-      "org": "FlU -- Florida International University · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-03T01:26:00.000Z",
+      "published": "2026-10-05T23:56:00.000Z",
       "tags": [
-        "Postdoc"
+        "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680532/postdoctoral-associate-department-of-cellular-and-molecular-medicine/"
+      "url": "https://jobs.sciencecareers.org/job/680578/department-of-physics-open-rank-faculty-search/"
+    },
+    {
+      "title": "Tenure-track Assistant Professor",
+      "org": "Wichita State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-05T22:52:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680577/tenure-track-assistant-professor/"
+    },
+    {
+      "title": "Biochemistry & Structural Biology",
+      "org": "SUNY, Stony Brook University: Assistant Professor · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-18T18:30:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680247/assistant-professor-biochemistry-and-structural-biology/"
+    },
+    {
+      "title": "Infectious Disease Physician, Assistant/Associate/Full Professor, Internal Medicine, Infectious Dise",
+      "org": "Stony Brook University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-05T21:22:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680575/infectious-disease-physician-assistant-associate-full-professor-internal-medicine-infectious-dise/"
+    },
+    {
+      "title": "Post Doctoral Associate",
+      "org": "University of Minnesota Center for Drug Design · United States",
+      "role": "phd",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-05T19:13:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680574/post-doctoral-associate/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
@@ -98,6 +101,40 @@
       "published": "2026-09-08T19:02:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3548577/endowed-nursing-professorship-in-health-well-being-and-chronic-conditions-innovation/"
+    },
+    {
+      "title": "Professor (Sheikh Nasser al-Muhammad al-Sabah Chair)",
+      "org": "Durham University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-10-06T14:02:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3559477/professor-sheikh-nasser-al-muhammad-al-sabah-chair-/"
+    },
+    {
+      "title": "Professor/Associate Professor/Assistant Professor - Faculty of Innovation and Design",
+      "org": "CITY UNIVERSITY OF MACAU · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-10-06T11:13:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3559457/professor-associate-professor-assistant-professor-faculty-of-innovation-and-design/"
+    },
+    {
+      "title": "Professor/Associate Professor/Assistant Professor - School of Education",
+      "org": "CITY UNIVERSITY OF MACAU · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-10-06T09:56:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3559450/professor-associate-professor-assistant-professor-school-of-education/"
     },
     {
       "title": "Clinical track, Oral and Maxillofacial Surgeon",
@@ -138,36 +175,6 @@
       "published": "2023-11-30T10:00:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3036960/noncredit-anger-management-and-domestic-violence-instructor-for-rising-scholars-program/"
-    },
-    {
-      "title": "Geography/Geographic Information Systems (GIS) Instructor Applicant Pool",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2023-11-30T10:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3036959/geography-geographic-information-systems-gis-instructor-applicant-pool/"
-    },
-    {
-      "title": "Media Entertainment Arts (Filmmaking) Adjunct Instructor Applicant Pool",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2023-11-30T10:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3036958/media-entertainment-arts-filmmaking-adjunct-instructor-applicant-pool/"
-    },
-    {
-      "title": "German (Foreign Languages) Adjunct Instructor Applicant Pool",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2023-11-30T10:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3036957/german-foreign-languages-adjunct-instructor-applicant-pool/"
     },
     {
       "title": "Tenure-Track Faculty Position in Computational or Theoretical Neuroscience",
