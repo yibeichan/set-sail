@@ -1,96 +1,87 @@
 {
-  "updatedAt": "2026-10-06T13:15:12.616Z",
+  "updatedAt": "2026-10-07T13:16:23.463Z",
   "jobs": [
     {
-      "title": "SOM - Genome Sciences: Faculty Positions in Genome Sciences (Open Rank and Assistant Professor)",
-      "org": "University of Washington · United States",
+      "title": "Virologist",
+      "org": "American University of Beirut · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-06T15:00:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680583/faculty-positions-in-genome-sciences-open-rank-and-assistant-professor-/"
-    },
-    {
-      "title": "Assistant / Associate Professor ??? Electronic, Functional, and Quantum Materials",
-      "org": "Unversity of California, Berkeley · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-06T02:07:20.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680582/assistant-associate-professor-electronic-functional-and-quantum-materials/"
-    },
-    {
-      "title": "Faculty Positions in Westlake University",
-      "org": "Westlake University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-06T06:55:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680585/faculty-positions-in-westlake-university/"
-    },
-    {
-      "title": "Department of Physics - Open Rank Faculty Search",
-      "org": "University of Illinois Urbana-Champaign · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-05T23:56:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680578/department-of-physics-open-rank-faculty-search/"
-    },
-    {
-      "title": "Tenure-track Assistant Professor",
-      "org": "Wichita State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-05T22:52:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680577/tenure-track-assistant-professor/"
-    },
-    {
-      "title": "Biochemistry & Structural Biology",
-      "org": "SUNY, Stony Brook University: Assistant Professor · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-18T18:30:00.000Z",
+      "published": "2026-10-07T13:36:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680247/assistant-professor-biochemistry-and-structural-biology/"
+      "url": "https://jobs.sciencecareers.org/job/680611/virologist/"
     },
     {
-      "title": "Infectious Disease Physician, Assistant/Associate/Full Professor, Internal Medicine, Infectious Dise",
-      "org": "Stony Brook University · United States",
+      "title": "Bioinformatics and Computational Biology Specialist",
+      "org": "American University of Beirut · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-05T21:22:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680575/infectious-disease-physician-assistant-associate-full-professor-internal-medicine-infectious-dise/"
+      "published": "2026-10-07T13:49:00.000Z",
+      "tags": [
+        "Computational"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680612/bioinformatics-and-computational-biology-specialist/"
     },
     {
-      "title": "Post Doctoral Associate",
-      "org": "University of Minnesota Center for Drug Design · United States",
-      "role": "phd",
+      "title": "Biochemistry-Metabolism/Omics Specialist",
+      "org": "American University of Beirut · United States",
+      "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-05T19:13:00.000Z",
+      "published": "2026-10-07T13:52:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680574/post-doctoral-associate/"
+      "url": "https://jobs.sciencecareers.org/job/680613/biochemistry-metabolism-omics-specialist/"
+    },
+    {
+      "title": "Srinivasan Lab",
+      "org": "Oklahoma Medical Research Foundation: Postdoctoral Scientist · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-24T09:30:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680348/postdoctoral-scientist-srinivasan-lab/"
+    },
+    {
+      "title": "AI for Biology",
+      "org": "Unversity of California, Berkeley: Assistant Professor · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-07T09:30:04.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680605/assistant-professor-ai-for-biology/"
+    },
+    {
+      "title": "Basic and Translational Pharmacology and Drug Discovery or Toxicology Specialist",
+      "org": "American University of Beirut · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-07T13:56:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680614/basic-and-translational-pharmacology-and-drug-discovery-or-toxicology-specialist/"
+    },
+    {
+      "title": "Clinical Pharmacology and Pharmacokinetics Specialist",
+      "org": "American University of Beirut · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-07T14:01:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680615/clinical-pharmacology-and-pharmacokinetics-specialist/"
+    },
+    {
+      "title": "Repair and Maintenance Technician",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-07T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680608/repair-and-maintenance-technician/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
@@ -101,6 +92,16 @@
       "published": "2026-09-08T19:02:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3548577/endowed-nursing-professorship-in-health-well-being-and-chronic-conditions-innovation/"
+    },
+    {
+      "title": "Instructor of Industrial Maintenance Technology",
+      "org": "Waubonsee Community College · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-06-05T09:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3356370/instructor-of-industrial-maintenance-technology/"
     },
     {
       "title": "Professor (Sheikh Nasser al-Muhammad al-Sabah Chair)",
@@ -167,16 +168,6 @@
       "url": "https://careers.insidehighered.com/job/3074274/hotel-and-restaurant-management-adjunct-instructor-applicant-pool/"
     },
     {
-      "title": "Anger Management and Domestic Violence Instructor for Rising Scholars Program",
-      "org": "College of the Canyons: Noncredit · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2023-11-30T10:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3036960/noncredit-anger-management-and-domestic-violence-instructor-for-rising-scholars-program/"
-    },
-    {
       "title": "Tenure-Track Faculty Position in Computational or Theoretical Neuroscience",
       "org": "Duke University Neurobiology Dept · Global",
       "role": "faculty",
@@ -213,19 +204,6 @@
         "Faculty"
       ],
       "url": "https://www.nature.com/naturecareers/job/12864539/faculty-position-at-chanakya-university-school-of-biosciences/"
-    },
-    {
-      "title": "Postdoctoral Fellowship in Neural Engineering Section, Behavioral Neuroscience Research Branch",
-      "org": "National Institute on Drug Abuse (NIDA) · Global",
-      "role": "postdoc",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-07-08T14:57:37.000Z",
-      "tags": [
-        "Neuroscience",
-        "Postdoc"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12861495/postdoctoral-fellowship-in-neural-engineering-section-behavioral-neuroscience-research-branch/"
     },
     {
       "title": "Neurosciences: Vice Chair for Neuroscience Research, Department of Neurosurgery - McGovern Medical School",
@@ -274,6 +252,18 @@
         "Faculty"
       ],
       "url": "https://www.nature.com/naturecareers/job/12865007/tenure-track-assistant-professor-faculty-position/"
+    },
+    {
+      "title": "CFO Office: Assistant Professor in Health, Resilience and Adaptation at The Salk Institute",
+      "org": "Salk Institute for Biological Studies · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-10-01T22:18:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12865257/assistant-professor-in-health-resilience-and-adaptation-at-the-salk-institute/"
     }
   ]
 }
