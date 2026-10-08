@@ -1,87 +1,91 @@
 {
-  "updatedAt": "2026-10-07T13:16:23.463Z",
+  "updatedAt": "2026-10-08T13:23:01.770Z",
   "jobs": [
     {
-      "title": "Virologist",
-      "org": "American University of Beirut · United States",
-      "role": "faculty",
+      "title": "Postdoctoral Fellow Position at NIH",
+      "org": "NIA · United States",
+      "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-07T13:36:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680611/virologist/"
-    },
-    {
-      "title": "Bioinformatics and Computational Biology Specialist",
-      "org": "American University of Beirut · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-07T13:49:00.000Z",
+      "published": "2026-10-08T00:15:00.000Z",
       "tags": [
-        "Computational"
+        "Postdoc"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680612/bioinformatics-and-computational-biology-specialist/"
+      "url": "https://jobs.sciencecareers.org/job/680627/postdoctoral-fellow-position-at-nih/"
     },
     {
-      "title": "Biochemistry-Metabolism/Omics Specialist",
-      "org": "American University of Beirut · United States",
+      "title": "Lincoln: Post-Doctoral Research Associate – Cardiometabolic Disease",
+      "org": "the University of Nebraska · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-07T18:38:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680617/post-doctoral-research-associate-cardiometabolic-disease/"
+    },
+    {
+      "title": "Assistant Professor, Center for Pathogen Immunology",
+      "org": "NYU Langone Health · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-07T13:52:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680613/biochemistry-metabolism-omics-specialist/"
+      "published": "2026-10-08T16:28:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680645/assistant-professor-center-for-pathogen-immunology-/"
     },
     {
-      "title": "Srinivasan Lab",
-      "org": "Oklahoma Medical Research Foundation: Postdoctoral Scientist · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-24T09:30:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680348/postdoctoral-scientist-srinivasan-lab/"
-    },
-    {
-      "title": "AI for Biology",
-      "org": "Unversity of California, Berkeley: Assistant Professor · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-07T09:30:04.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680605/assistant-professor-ai-for-biology/"
-    },
-    {
-      "title": "Basic and Translational Pharmacology and Drug Discovery or Toxicology Specialist",
-      "org": "American University of Beirut · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-07T13:56:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680614/basic-and-translational-pharmacology-and-drug-discovery-or-toxicology-specialist/"
-    },
-    {
-      "title": "Clinical Pharmacology and Pharmacokinetics Specialist",
-      "org": "American University of Beirut · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-07T14:01:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680615/clinical-pharmacology-and-pharmacokinetics-specialist/"
-    },
-    {
-      "title": "Repair and Maintenance Technician",
+      "title": "People & Engagement Analyst",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-07T09:00:00.000Z",
+      "published": "2026-10-08T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680608/repair-and-maintenance-technician/"
+      "url": "https://jobs.sciencecareers.org/job/680643/people-and-engagement-analyst/"
+    },
+    {
+      "title": "IT Service Desk Manager",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-08T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680642/it-service-desk-manager/"
+    },
+    {
+      "title": "Senior Group Leader, Industry - Plant Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-08T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680641/senior-group-leader-industry-plant-biology-institute/"
+    },
+    {
+      "title": "Plant Biology Institute",
+      "org": "Ellison Institute of Technology: Vector Design Lead · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-08T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680640/vector-design-lead-plant-biology-institute/"
+    },
+    {
+      "title": "Genotyping and Event Delivery Manager - Plant Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-08T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680639/genotyping-and-event-delivery-manager-plant-biology-institute/"
     },
     {
       "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
@@ -92,6 +96,48 @@
       "published": "2026-09-08T19:02:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3548577/endowed-nursing-professorship-in-health-well-being-and-chronic-conditions-innovation/"
+    },
+    {
+      "title": "Nursing - POOL",
+      "org": "University of West Georgia: Limited Term Instructor · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-07-29T09:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3378453/limited-term-instructor-nursing-pool/"
+    },
+    {
+      "title": "Mathematics, Computig, & Sciences - POOL",
+      "org": "University of West Georgia: Limited Term Instructor · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-07-29T09:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3378452/limited-term-instructor-mathematics-computig-and-sciences-pool/"
+    },
+    {
+      "title": "Chair for Biomedical Sciences & Professor, 12 Month Salaried (Medicine Academic Affairs - Colle...",
+      "org": "Florida State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-01-31T10:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3458945/chair-for-biomedical-sciences-and-professor-12-month-salaried-medicine-academic-affairs-colle-/"
+    },
+    {
+      "title": "Assistant Professor of Human Development and Family Studies - Marriage and Family Therapy",
+      "org": "University of Alabama · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-10-07T22:55:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3560129/assistant-professor-of-human-development-and-family-studies-marriage-and-family-therapy/"
     },
     {
       "title": "Instructor of Industrial Maintenance Technology",
@@ -124,48 +170,6 @@
         "Faculty"
       ],
       "url": "https://careers.insidehighered.com/job/3559457/professor-associate-professor-assistant-professor-faculty-of-innovation-and-design/"
-    },
-    {
-      "title": "Professor/Associate Professor/Assistant Professor - School of Education",
-      "org": "CITY UNIVERSITY OF MACAU · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-10-06T09:56:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3559450/professor-associate-professor-assistant-professor-school-of-education/"
-    },
-    {
-      "title": "Clinical track, Oral and Maxillofacial Surgeon",
-      "org": "The Ohio State University: Assistant/Associate Professor · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2023-08-12T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/2957893/assistant-associate-professor-clinical-track-oral-and-maxillofacial-surgeon/"
-    },
-    {
-      "title": "Manufacturing Technology Adjunct Instructor Applicant Pool",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2024-01-31T10:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3074275/manufacturing-technology-adjunct-instructor-applicant-pool/"
-    },
-    {
-      "title": "Hotel and Restaurant Management Adjunct Instructor Applicant Pool",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2024-01-31T10:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3074274/hotel-and-restaurant-management-adjunct-instructor-applicant-pool/"
     },
     {
       "title": "Tenure-Track Faculty Position in Computational or Theoretical Neuroscience",
