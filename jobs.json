@@ -1,101 +1,89 @@
 {
-  "updatedAt": "2026-10-08T13:23:01.770Z",
+  "updatedAt": "2026-10-09T13:11:33.590Z",
   "jobs": [
     {
-      "title": "Postdoctoral Fellow Position at NIH",
-      "org": "NIA · United States",
+      "title": "PhD Student or Postdoc (f/m/x)",
+      "org": "Max Planck Institute for Multidisciplinary Sciences · United States",
       "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-08T00:15:00.000Z",
+      "published": "2026-10-09T15:29:00.000Z",
       "tags": [
         "Postdoc"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680627/postdoctoral-fellow-position-at-nih/"
+      "url": "https://jobs.sciencecareers.org/job/680679/phd-student-or-postdoc-f-m-x-/"
     },
     {
-      "title": "Lincoln: Post-Doctoral Research Associate – Cardiometabolic Disease",
-      "org": "the University of Nebraska · United States",
-      "role": "postdoc",
+      "title": "Biochemistry and Molecular Biology",
+      "org": "LSU Health Shreveport: Associate Professor · United States",
+      "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-07T18:38:00.000Z",
+      "published": "2026-10-09T15:19:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680678/associate-professor-biochemistry-and-molecular-biology/"
+    },
+    {
+      "title": "Chemistry for Sustainable/Healthy Foods, Tenure-track",
+      "org": "Cornell University: Assistant Professor · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-09T02:55:00.000Z",
       "tags": [
-        "Postdoc"
+        "Tenure-track"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680617/post-doctoral-research-associate-cardiometabolic-disease/"
+      "url": "https://jobs.sciencecareers.org/job/680664/assistant-professor-chemistry-for-sustainable-healthy-foods-tenure-track/"
     },
     {
-      "title": "Assistant Professor, Center for Pathogen Immunology",
-      "org": "NYU Langone Health · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-08T16:28:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680645/assistant-professor-center-for-pathogen-immunology-/"
-    },
-    {
-      "title": "People & Engagement Analyst",
+      "title": "Scientist, Plant Biology and Functional Genomics - Plant Biology Institute",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-08T09:00:00.000Z",
+      "published": "2026-10-09T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680643/people-and-engagement-analyst/"
+      "url": "https://jobs.sciencecareers.org/job/680676/scientist-plant-biology-and-functional-genomics-plant-biology-institute/"
     },
     {
-      "title": "IT Service Desk Manager",
+      "title": "Scientist, Small Molecular Chemist - Plant Biology Institute",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-08T09:00:00.000Z",
+      "published": "2026-10-09T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680642/it-service-desk-manager/"
+      "url": "https://jobs.sciencecareers.org/job/680675/scientist-small-molecular-chemist-plant-biology-institute/"
     },
     {
-      "title": "Senior Group Leader, Industry - Plant Biology Institute",
+      "title": "Senior ML Infrastructure Engineer",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-08T09:00:00.000Z",
+      "published": "2026-10-09T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680641/senior-group-leader-industry-plant-biology-institute/"
+      "url": "https://jobs.sciencecareers.org/job/680674/senior-ml-infrastructure-engineer/"
     },
     {
-      "title": "Plant Biology Institute",
-      "org": "Ellison Institute of Technology: Vector Design Lead · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-08T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680640/vector-design-lead-plant-biology-institute/"
-    },
-    {
-      "title": "Genotyping and Event Delivery Manager - Plant Biology Institute",
+      "title": "Infrastructure Engineer",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-08T09:00:00.000Z",
+      "published": "2026-10-09T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680639/genotyping-and-event-delivery-manager-plant-biology-institute/"
+      "url": "https://jobs.sciencecareers.org/job/680673/infrastructure-engineer/"
     },
     {
-      "title": "Endowed Nursing Professorship in Health, Well-Being, and Chronic Conditions Innovation",
-      "org": "University of Massachusetts Dartmouth · United States",
+      "title": "Multiskilled Maintenance Engineer - Weekend Shift",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-09-08T19:02:00.000Z",
+      "source": "Science Careers",
+      "published": "2026-10-09T09:00:00.000Z",
       "tags": [],
-      "url": "https://careers.insidehighered.com/job/3548577/endowed-nursing-professorship-in-health-well-being-and-chronic-conditions-innovation/"
+      "url": "https://jobs.sciencecareers.org/job/680672/multiskilled-maintenance-engineer-weekend-shift/"
     },
     {
       "title": "Nursing - POOL",
@@ -170,6 +158,18 @@
         "Faculty"
       ],
       "url": "https://careers.insidehighered.com/job/3559457/professor-associate-professor-assistant-professor-faculty-of-innovation-and-design/"
+    },
+    {
+      "title": "Professor/Associate Professor/Assistant Professor - School of Education",
+      "org": "CITY UNIVERSITY OF MACAU · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-10-06T09:56:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3559450/professor-associate-professor-assistant-professor-school-of-education/"
     },
     {
       "title": "Tenure-Track Faculty Position in Computational or Theoretical Neuroscience",
