@@ -1,6 +1,77 @@
 {
-  "updatedAt": "2026-10-09T13:11:33.590Z",
+  "updatedAt": "2026-10-10T12:26:11.798Z",
   "jobs": [
+    {
+      "title": "Computational Biologist",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-10T09:00:00.000Z",
+      "tags": [
+        "Computational"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680693/computational-biologist/"
+    },
+    {
+      "title": "Assistant Professor, Tenure Track",
+      "org": "Scripps Research Institute · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-10T04:36:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680688/assistant-professor-tenure-track/"
+    },
+    {
+      "title": "2026-27 INI Teaching Track and Non-Tenure Track Faculty Positions",
+      "org": "INI Teaching Track and Non-Tenure Track Faculty Position · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-09T22:57:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680682/2026-27-ini-teaching-track-and-non-tenure-track-faculty-positions/"
+    },
+    {
+      "title": "Assistant Professor in Biological Physics (tenure-track)",
+      "org": "SUNY, Stony Brook University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-09T18:30:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680680/assistant-professor-in-biological-physics-tenure-track-/"
+    },
+    {
+      "title": "Biochemistry & Structural Biology",
+      "org": "SUNY, Stony Brook University: Assistant Professor · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-09-18T18:30:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680247/assistant-professor-biochemistry-and-structural-biology/"
+    },
+    {
+      "title": "Assistant, Associate, or Full Professor - Chemical Biologist",
+      "org": "The University of Houston · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-09T22:47:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680681/assistant-associate-or-full-professor-chemical-biologist/"
+    },
     {
       "title": "PhD Student or Postdoc (f/m/x)",
       "org": "Max Planck Institute for Multidisciplinary Sciences · United States",
@@ -24,66 +95,14 @@
       "url": "https://jobs.sciencecareers.org/job/680678/associate-professor-biochemistry-and-molecular-biology/"
     },
     {
-      "title": "Chemistry for Sustainable/Healthy Foods, Tenure-track",
-      "org": "Cornell University: Assistant Professor · United States",
+      "title": "Assistant Teaching Professor for the Ecology and Evolutionary Biology Curriculum",
+      "org": "University of California, Los Angeles · United States",
       "role": "faculty",
       "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-09T02:55:00.000Z",
-      "tags": [
-        "Tenure-track"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680664/assistant-professor-chemistry-for-sustainable-healthy-foods-tenure-track/"
-    },
-    {
-      "title": "Scientist, Plant Biology and Functional Genomics - Plant Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-09T09:00:00.000Z",
+      "source": "Inside Higher Ed",
+      "published": "2024-02-07T02:33:35.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680676/scientist-plant-biology-and-functional-genomics-plant-biology-institute/"
-    },
-    {
-      "title": "Scientist, Small Molecular Chemist - Plant Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-09T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680675/scientist-small-molecular-chemist-plant-biology-institute/"
-    },
-    {
-      "title": "Senior ML Infrastructure Engineer",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-09T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680674/senior-ml-infrastructure-engineer/"
-    },
-    {
-      "title": "Infrastructure Engineer",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-09T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680673/infrastructure-engineer/"
-    },
-    {
-      "title": "Multiskilled Maintenance Engineer - Weekend Shift",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-09T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680672/multiskilled-maintenance-engineer-weekend-shift/"
+      "url": "https://careers.insidehighered.com/job/3078710/assistant-teaching-professor-for-the-ecology-and-evolutionary-biology-curriculum/"
     },
     {
       "title": "Nursing - POOL",
@@ -158,18 +177,6 @@
         "Faculty"
       ],
       "url": "https://careers.insidehighered.com/job/3559457/professor-associate-professor-assistant-professor-faculty-of-innovation-and-design/"
-    },
-    {
-      "title": "Professor/Associate Professor/Assistant Professor - School of Education",
-      "org": "CITY UNIVERSITY OF MACAU · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-10-06T09:56:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3559450/professor-associate-professor-assistant-professor-school-of-education/"
     },
     {
       "title": "Tenure-Track Faculty Position in Computational or Theoretical Neuroscience",
