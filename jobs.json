@@ -1,98 +1,111 @@
 {
-  "updatedAt": "2026-10-11T12:43:55.906Z",
+  "updatedAt": "2026-10-12T15:16:03.404Z",
   "jobs": [
     {
-      "title": "Computational Biologist",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-10T09:00:00.000Z",
-      "tags": [
-        "Computational"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680693/computational-biologist/"
-    },
-    {
-      "title": "Assistant Professor, Tenure Track",
-      "org": "Scripps Research Institute · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-10T04:36:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680688/assistant-professor-tenure-track/"
-    },
-    {
-      "title": "2026-27 INI Teaching Track and Non-Tenure Track Faculty Positions",
-      "org": "INI Teaching Track and Non-Tenure Track Faculty Position · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-09T22:57:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680682/2026-27-ini-teaching-track-and-non-tenure-track-faculty-positions/"
-    },
-    {
-      "title": "Assistant Professor in Biological Physics (tenure-track)",
-      "org": "SUNY, Stony Brook University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-09T18:30:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680680/assistant-professor-in-biological-physics-tenure-track-/"
-    },
-    {
-      "title": "Biochemistry & Structural Biology",
-      "org": "SUNY, Stony Brook University: Assistant Professor · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-09-18T18:30:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680247/assistant-professor-biochemistry-and-structural-biology/"
-    },
-    {
-      "title": "Assistant, Associate, or Full Professor - Chemical Biologist",
-      "org": "The University of Houston · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-09T22:47:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680681/assistant-associate-or-full-professor-chemical-biologist/"
-    },
-    {
-      "title": "PhD Student or Postdoc (f/m/x)",
-      "org": "Max Planck Institute for Multidisciplinary Sciences · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-09T15:29:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680679/phd-student-or-postdoc-f-m-x-/"
-    },
-    {
-      "title": "Biochemistry and Molecular Biology",
-      "org": "LSU Health Shreveport: Associate Professor · United States",
+      "title": "Tenure-Track Faculty Position in Cancer Research and Metabolism",
+      "org": "LSU Health Shreveport · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
       "published": "2026-10-09T15:19:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680678/tenure-track-faculty-position-in-cancer-research-and-metabolism/"
+    },
+    {
+      "title": "Department of Physics - Teaching Assistant Professor",
+      "org": "University of Illinois Urbana-Champaign · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-12T17:26:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680697/department-of-physics-teaching-assistant-professor/"
+    },
+    {
+      "title": "Assistant Professor in CERN-Related Physics and Detector Development",
+      "org": "Department of Physics and Astronomy, Aarhus University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-12T11:38:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680696/assistant-professor-in-cern-related-physics-and-detector-development/"
+    },
+    {
+      "title": "Tenure-Track Assistant Professor Gdcb",
+      "org": "Iowa State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-10T09:30:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680692/tenure-track-assistant-professor-gdcb/"
+    },
+    {
+      "title": "College of Sciences, Neuroscience, Developmental and Regenerative Biology",
+      "org": "The University of Texas at San Antonio: Assistant Professor · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-10T09:30:00.000Z",
+      "tags": [
+        "Neuroscience"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680691/assistant-professor-college-of-sciences-neuroscience-developmental-and-regenerative-biology/"
+    },
+    {
+      "title": "In-Residence Faculty Position ??? Assistant, Associate, or Full Professor",
+      "org": "University of California, San Francisco · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-10T09:30:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680690/in-residence-faculty-position-assistant-associate-or-full-professor/"
+    },
+    {
+      "title": "Associate Center Director of Discovery Science",
+      "org": "Moffitt Cancer Center · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-12T17:01:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680678/associate-professor-biochemistry-and-molecular-biology/"
+      "url": "https://jobs.sciencecareers.org/job/680689/associate-center-director-of-discovery-science/"
+    },
+    {
+      "title": "C.V. Starr Postdoctoral Research Associate",
+      "org": "The Princeton Neuroscience Institute · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-10T02:44:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680687/c-v-starr-postdoctoral-research-associate/"
+    },
+    {
+      "title": "Theatre Adjunct Instructor (Technical Theatre/Costume Design)",
+      "org": "College of the Canyons · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2023-12-09T10:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3042032/theatre-adjunct-instructor-technical-theatre-costume-design-/"
     },
     {
       "title": "Assistant Teaching Professor for the Ecology and Evolutionary Biology Curriculum",
@@ -167,18 +180,6 @@
       "url": "https://careers.insidehighered.com/job/3559477/professor-sheikh-nasser-al-muhammad-al-sabah-chair-/"
     },
     {
-      "title": "Professor/Associate Professor/Assistant Professor - Faculty of Innovation and Design",
-      "org": "CITY UNIVERSITY OF MACAU · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-10-06T11:13:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3559457/professor-associate-professor-assistant-professor-faculty-of-innovation-and-design/"
-    },
-    {
       "title": "Tenure-Track Faculty Position in Computational or Theoretical Neuroscience",
       "org": "Duke University Neurobiology Dept · Global",
       "role": "faculty",
@@ -203,18 +204,6 @@
         "Neuroscience"
       ],
       "url": "https://www.nature.com/naturecareers/job/12864966/principal-investigators-in-neuroscience/"
-    },
-    {
-      "title": "Faculty position at Chanakya University School of Biosciences",
-      "org": "Chanakya University, School of biosciences · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-09-11T09:47:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12864539/faculty-position-at-chanakya-university-school-of-biosciences/"
     },
     {
       "title": "Neurosciences: Vice Chair for Neuroscience Research, Department of Neurosurgery - McGovern Medical School",
@@ -275,6 +264,19 @@
         "Faculty"
       ],
       "url": "https://www.nature.com/naturecareers/job/12865257/assistant-professor-in-health-resilience-and-adaptation-at-the-salk-institute/"
+    },
+    {
+      "title": "Open-Rank Faculty Position in Theoretical Biology",
+      "org": "Vanderbilt University Department of Biological Sciences · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-10-06T19:27:00.000Z",
+      "tags": [
+        "Computational",
+        "Faculty"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12865410/open-rank-faculty-position-in-theoretical-biology/"
     }
   ]
 }
