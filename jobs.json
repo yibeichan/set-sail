@@ -1,55 +1,29 @@
 {
-  "updatedAt": "2026-10-12T15:16:03.404Z",
+  "updatedAt": "2026-10-13T14:06:14.149Z",
   "jobs": [
     {
-      "title": "Tenure-Track Faculty Position in Cancer Research and Metabolism",
-      "org": "LSU Health Shreveport · United States",
+      "title": "Assistant Professor of Food Microbiology",
+      "org": "University of California, Davis · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-09T15:19:00.000Z",
+      "published": "2026-10-13T09:30:00.000Z",
       "tags": [
-        "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680678/tenure-track-faculty-position-in-cancer-research-and-metabolism/"
+      "url": "https://jobs.sciencecareers.org/job/680706/assistant-professor-of-food-microbiology/"
     },
     {
-      "title": "Department of Physics - Teaching Assistant Professor",
-      "org": "University of Illinois Urbana-Champaign · United States",
-      "role": "faculty",
+      "title": "Hoffman Distinguished Postdoctoral Fellow — Nuclear Nonproliferation",
+      "org": "Lawrence Berkeley National Laboratory · United States",
+      "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-12T17:26:00.000Z",
+      "published": "2026-10-13T02:46:00.000Z",
       "tags": [
-        "Faculty"
+        "Postdoc"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680697/department-of-physics-teaching-assistant-professor/"
-    },
-    {
-      "title": "Assistant Professor in CERN-Related Physics and Detector Development",
-      "org": "Department of Physics and Astronomy, Aarhus University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-12T11:38:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680696/assistant-professor-in-cern-related-physics-and-detector-development/"
-    },
-    {
-      "title": "Tenure-Track Assistant Professor Gdcb",
-      "org": "Iowa State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-10T09:30:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680692/tenure-track-assistant-professor-gdcb/"
+      "url": "https://jobs.sciencecareers.org/job/680705/hoffman-distinguished-postdoctoral-fellow-nuclear-nonproliferation/"
     },
     {
       "title": "College of Sciences, Neuroscience, Developmental and Regenerative Biology",
@@ -64,38 +38,83 @@
       "url": "https://jobs.sciencecareers.org/job/680691/assistant-professor-college-of-sciences-neuroscience-developmental-and-regenerative-biology/"
     },
     {
-      "title": "In-Residence Faculty Position ??? Assistant, Associate, or Full Professor",
-      "org": "University of California, San Francisco · United States",
+      "title": "Srinivasan Lab",
+      "org": "Oklahoma Medical Research Foundation: Postdoctoral Scientist · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-10T09:30:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680690/in-residence-faculty-position-assistant-associate-or-full-professor/"
-    },
-    {
-      "title": "Associate Center Director of Discovery Science",
-      "org": "Moffitt Cancer Center · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-12T17:01:00.000Z",
+      "published": "2026-09-24T09:30:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680689/associate-center-director-of-discovery-science/"
+      "url": "https://jobs.sciencecareers.org/job/680348/postdoctoral-scientist-srinivasan-lab/"
     },
     {
-      "title": "C.V. Starr Postdoctoral Research Associate",
-      "org": "The Princeton Neuroscience Institute · United States",
+      "title": "Postdoctoral Research Fellow (Liu Lab) - Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
       "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-10T02:44:00.000Z",
+      "published": "2026-10-13T09:00:00.000Z",
       "tags": [
         "Postdoc"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680687/c-v-starr-postdoctoral-research-associate/"
+      "url": "https://jobs.sciencecareers.org/job/680707/postdoctoral-research-fellow-liu-lab-generative-biology-institute/"
+    },
+    {
+      "title": "Research Assistant Professor of Computer Science - Omics Data Science for Immuno-Engineering",
+      "org": "Oklahoma Center of ImmunoEngineering · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-13T00:42:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680704/research-assistant-professor-of-computer-science-omics-data-science-for-immuno-engineering/"
+    },
+    {
+      "title": "Qatar Biomedical Research Institute: Scientific Director, Neurological Disorder Research Center",
+      "org": "QBRI · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-12T22:10:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680702/scientific-director-neurological-disorder-research-center/"
+    },
+    {
+      "title": "Assistant or untenured Associate Professor",
+      "org": "Stanford University EE · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-12T22:13:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680701/assistant-or-untenured-associate-professor/"
+    },
+    {
+      "title": "Diagnostic Medical Sonography Program Adjunct Instructor",
+      "org": "College of the Canyons · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-04-11T09:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3331371/diagnostic-medical-sonography-program-adjunct-instructor/"
+    },
+    {
+      "title": "Assistant/Associate Professor in Automotive Engineering & Transportation - Tenure/Tenure Track",
+      "org": "Purdue University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-10-12T20:13:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3561967/assistant-associate-professor-in-automotive-engineering-and-transportation-tenure-tenure-track/"
     },
     {
       "title": "Theatre Adjunct Instructor (Technical Theatre/Costume Design)",
@@ -158,26 +177,6 @@
         "Faculty"
       ],
       "url": "https://careers.insidehighered.com/job/3560129/assistant-professor-of-human-development-and-family-studies-marriage-and-family-therapy/"
-    },
-    {
-      "title": "Instructor of Industrial Maintenance Technology",
-      "org": "Waubonsee Community College · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-06-05T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3356370/instructor-of-industrial-maintenance-technology/"
-    },
-    {
-      "title": "Professor (Sheikh Nasser al-Muhammad al-Sabah Chair)",
-      "org": "Durham University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-10-06T14:02:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3559477/professor-sheikh-nasser-al-muhammad-al-sabah-chair-/"
     },
     {
       "title": "Tenure-Track Faculty Position in Computational or Theoretical Neuroscience",
