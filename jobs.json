@@ -1,93 +1,106 @@
 {
-  "updatedAt": "2026-10-14T11:46:39.896Z",
+  "updatedAt": "2026-10-15T11:22:32.627Z",
   "jobs": [
     {
-      "title": "Global Faculty Recruitment 2026 – Tenured/Tenure-Track Positions at All Ranks",
-      "org": "Tsinghua Shenzhen International Graduate School · United States",
+      "title": "Senior Scientific Officer",
+      "org": "AFBI: Senior Grassland and Cereal Agronomist · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-07-28T10:04:00.000Z",
+      "published": "2026-10-15T15:38:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680751/senior-grassland-and-cereal-agronomist-senior-scientific-officer/"
+    },
+    {
+      "title": "Assistant Professor, Experimental Physical Chemistry",
+      "org": "University of Cincinnati · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-15T02:08:00.000Z",
       "tags": [
-        "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/679492/global-faculty-recruitment-2026-tenured-tenure-track-positions-at-all-ranks/"
+      "url": "https://jobs.sciencecareers.org/job/680749/assistant-professor-experimental-physical-chemistry/"
     },
     {
-      "title": "Scientist, Image Based Screening - Plant Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "Department of Biology: Assistant Professor of Biology (Computational/AI)",
+      "org": "New York University Arts and Science · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-14T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680731/scientist-image-based-screening-plant-biology-institute/"
-    },
-    {
-      "title": "Scientist, Plant Biology and Functional Genomics - Plant Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-14T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680730/scientist-plant-biology-and-functional-genomics-plant-biology-institute/"
-    },
-    {
-      "title": "Generative Biology Institute",
-      "org": "Ellison Institute of Technology: Team Coordinator · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-14T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680729/team-coordinator-generative-biology-institute/"
-    },
-    {
-      "title": "Postdoctoral Research Fellow (van Bijsterveldt Lab)-Generative Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-14T09:00:00.000Z",
+      "published": "2026-10-15T01:39:00.000Z",
       "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680728/postdoctoral-research-fellow-van-bijsterveldt-lab-generative-biology-institute/"
-    },
-    {
-      "title": "Process Development Scientist, Principal",
-      "org": "AGC Biologics, Inc. · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-13T23:51:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680724/process-development-scientist-principal/"
-    },
-    {
-      "title": "Professor Canada Impact+ Emerging Leaders in Innovative Materials",
-      "org": "Polytechnique Montréal · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-13T23:34:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680723/professor-canada-impact-emerging-leaders-in-innovative-materials/"
-    },
-    {
-      "title": "Tenure-Track Assistant Professor, West Virginia University",
-      "org": "West Virginia University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-13T23:18:00.000Z",
-      "tags": [
-        "Tenure-track",
+        "Computational",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680721/tenure-track-assistant-professor-west-virginia-university/"
+      "url": "https://jobs.sciencecareers.org/job/680745/assistant-professor-of-biology-computational-ai-/"
+    },
+    {
+      "title": "Open Rank Faculty (All Levels) in Dept of Oncology Science",
+      "org": "University of Oklahoma Health Campus · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-15T00:04:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680744/open-rank-faculty-all-levels-in-dept-of-oncology-science/"
+    },
+    {
+      "title": "Open Rank Faculty-Space Structures and Manufacturing",
+      "org": "Aerospace and Ocean Engineering at Virginia Tech · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-15T00:02:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680743/open-rank-faculty-space-structures-and-manufacturing/"
+    },
+    {
+      "title": "Technology-Driven Integrative Physiology AI-Enabled Cell, Molecular and Genomic Biol Asst/Assoc Prof",
+      "org": "Whitney Laboratory for Marine Bioscience · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-14T23:27:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680742/technology-driven-integrative-physiology-ai-enabled-cell-molecular-and-genomic-biol-asst-assoc-prof/"
+    },
+    {
+      "title": "Assistant or Associate Professor of Ecosystem Ecology",
+      "org": "University of Alaska Fairbanks · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-14T22:57:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680739/assistant-or-associate-professor-of-ecosystem-ecology/"
+    },
+    {
+      "title": "Associate Director, Office of Scientific Resources",
+      "org": "ORS · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-14T21:14:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680625/associate-director-office-of-scientific-resources/"
+    },
+    {
+      "title": "Noncredit Older Adult Art (Watercolor and Drawing) Instructor Adjunct Applicant Pool",
+      "org": "College of the Canyons · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-04-13T09:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3333636/noncredit-older-adult-art-watercolor-and-drawing-instructor-adjunct-applicant-pool/"
     },
     {
       "title": "Professor/Associate Professor/Assistant Professor in Creative Industries, DACI",
@@ -163,16 +176,6 @@
       "published": "2025-07-29T09:00:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3378452/limited-term-instructor-mathematics-computig-and-sciences-pool/"
-    },
-    {
-      "title": "Chair for Biomedical Sciences & Professor, 12 Month Salaried (Medicine Academic Affairs - Colle...",
-      "org": "Florida State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-01-31T10:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3458945/chair-for-biomedical-sciences-and-professor-12-month-salaried-medicine-academic-affairs-colle-/"
     },
     {
       "title": "Tenure-Track Faculty Position in Computational or Theoretical Neuroscience",
