@@ -1,96 +1,113 @@
 {
-  "updatedAt": "2026-10-15T11:22:32.627Z",
+  "updatedAt": "2026-10-16T11:17:26.190Z",
   "jobs": [
     {
-      "title": "Senior Scientific Officer",
-      "org": "AFBI: Senior Grassland and Cereal Agronomist · United States",
+      "title": "Repair and Maintenance Technician",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-15T15:38:00.000Z",
+      "published": "2026-10-16T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680751/senior-grassland-and-cereal-agronomist-senior-scientific-officer/"
+      "url": "https://jobs.sciencecareers.org/job/680775/repair-and-maintenance-technician/"
     },
     {
-      "title": "Assistant Professor, Experimental Physical Chemistry",
-      "org": "University of Cincinnati · United States",
+      "title": "Scientist, Plant Cellular Engineering (Metabolic and Synthetic Biology) - PBI",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-15T02:08:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680749/assistant-professor-experimental-physical-chemistry/"
-    },
-    {
-      "title": "Department of Biology: Assistant Professor of Biology (Computational/AI)",
-      "org": "New York University Arts and Science · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-15T01:39:00.000Z",
-      "tags": [
-        "Computational",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680745/assistant-professor-of-biology-computational-ai-/"
-    },
-    {
-      "title": "Open Rank Faculty (All Levels) in Dept of Oncology Science",
-      "org": "University of Oklahoma Health Campus · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-15T00:04:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680744/open-rank-faculty-all-levels-in-dept-of-oncology-science/"
-    },
-    {
-      "title": "Open Rank Faculty-Space Structures and Manufacturing",
-      "org": "Aerospace and Ocean Engineering at Virginia Tech · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-15T00:02:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680743/open-rank-faculty-space-structures-and-manufacturing/"
-    },
-    {
-      "title": "Technology-Driven Integrative Physiology AI-Enabled Cell, Molecular and Genomic Biol Asst/Assoc Prof",
-      "org": "Whitney Laboratory for Marine Bioscience · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-14T23:27:00.000Z",
+      "published": "2026-10-16T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680742/technology-driven-integrative-physiology-ai-enabled-cell-molecular-and-genomic-biol-asst-assoc-prof/"
+      "url": "https://jobs.sciencecareers.org/job/680774/scientist-plant-cellular-engineering-metabolic-and-synthetic-biology-pbi/"
     },
     {
-      "title": "Assistant or Associate Professor of Ecosystem Ecology",
-      "org": "University of Alaska Fairbanks · United States",
+      "title": "(Senior) Group Leader, Nitrogen Fixation - Plant Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-14T22:57:00.000Z",
+      "published": "2026-10-16T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680773/-senior-group-leader-nitrogen-fixation-plant-biology-institute/"
+    },
+    {
+      "title": "Postdoctoral Research Fellow - Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-16T09:00:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680772/postdoctoral-research-fellow-generative-biology-institute/"
+    },
+    {
+      "title": "Postdoctoral Research Scientists - Materials & Devices for Life Sciences",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-16T09:00:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680771/postdoctoral-research-scientists-materials-and-devices-for-life-sciences/"
+    },
+    {
+      "title": "Associate Professor or Full Professor in Regenerative Design and Construction",
+      "org": "TUM (Technical University Munich, Germany) · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-16T09:00:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680739/assistant-or-associate-professor-of-ecosystem-ecology/"
+      "url": "https://jobs.sciencecareers.org/job/680752/associate-professor-or-full-professor-in-regenerative-design-and-construction-/"
     },
     {
-      "title": "Associate Director, Office of Scientific Resources",
-      "org": "ORS · United States",
+      "title": "Harvard John A. Paulson School of Engineering and Applied Sciences: Lecturer in Mechanical Engineering",
+      "org": "Science Careers · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-14T21:14:00.000Z",
+      "published": "2026-10-16T01:20:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680625/associate-director-office-of-scientific-resources/"
+      "url": "https://jobs.sciencecareers.org/job/680765/lecturer-in-mechanical-engineering/"
+    },
+    {
+      "title": "Harvard John A. Paulson School of Engineering and Applied Sciences: Tenure-Track Professor in Materials Science and Mechanical Engineering",
+      "org": "Science Careers · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-16T01:14:00.000Z",
+      "tags": [
+        "Tenure-track"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680764/tenure-track-professor-in-materials-science-and-mechanical-engineering/"
+    },
+    {
+      "title": "KEAN UNIVERSITY: 2027 Educational Leadership (Ed.D) Assistant/Associate/Full Professors",
+      "org": "WENZHOU · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-10-16T14:28:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3563414/2027-educational-leadership-ed-d-assistant-associate-full-professors/"
+    },
+    {
+      "title": "Chairperson, Department of Special Education",
+      "org": "Illinois State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-10-15T19:30:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3563134/chairperson-department-of-special-education/"
     },
     {
       "title": "Noncredit Older Adult Art (Watercolor and Drawing) Instructor Adjunct Applicant Pool",
@@ -158,40 +175,6 @@
       "url": "https://careers.insidehighered.com/job/3078710/assistant-teaching-professor-for-the-ecology-and-evolutionary-biology-curriculum/"
     },
     {
-      "title": "Nursing - POOL",
-      "org": "University of West Georgia: Limited Term Instructor · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-07-29T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3378453/limited-term-instructor-nursing-pool/"
-    },
-    {
-      "title": "Mathematics, Computig, & Sciences - POOL",
-      "org": "University of West Georgia: Limited Term Instructor · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-07-29T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3378452/limited-term-instructor-mathematics-computig-and-sciences-pool/"
-    },
-    {
-      "title": "Tenure-Track Faculty Position in Computational or Theoretical Neuroscience",
-      "org": "Duke University Neurobiology Dept · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-09-15T17:56:00.000Z",
-      "tags": [
-        "Neuroscience",
-        "Computational",
-        "Tenure-track"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12864649/tenure-track-faculty-position-in-computational-or-theoretical-neuroscience/"
-    },
-    {
       "title": "Principal Investigators in Neuroscience",
       "org": "Chinese Institute for Brain Research, Beijing · Global",
       "role": "faculty",
@@ -202,18 +185,6 @@
         "Neuroscience"
       ],
       "url": "https://www.nature.com/naturecareers/job/12864966/principal-investigators-in-neuroscience/"
-    },
-    {
-      "title": "Neurosciences: Vice Chair for Neuroscience Research, Department of Neurosurgery - McGovern Medical School",
-      "org": "UTHealth Houston · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-09-15T18:43:00.000Z",
-      "tags": [
-        "Neuroscience"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12864653/vice-chair-for-neuroscience-research-department-of-neurosurgery-mcgovern-medical-school/"
     },
     {
       "title": "Postdoctoral Scholar in Visual System Neurobiology & Multi-Omics",
@@ -275,6 +246,28 @@
         "Faculty"
       ],
       "url": "https://www.nature.com/naturecareers/job/12865410/open-rank-faculty-position-in-theoretical-biology/"
+    },
+    {
+      "title": "Genetics and Genomic Sciences: Scientific Program Director (PhD) - Genetics & Genomics Research",
+      "org": "Icahn School of Medicine at Mount Sinai · Global",
+      "role": "phd",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-10-08T14:10:00.000Z",
+      "tags": [],
+      "url": "https://www.nature.com/naturecareers/job/12865514/scientific-program-director-phd-genetics-and-genomics-research/"
+    },
+    {
+      "title": "Faculty Positions in AI for Life Sciences at Westlake University",
+      "org": "Westlake University School of Life Science · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-03-17T00:00:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12856430/faculty-positions-in-ai-for-life-sciences-at-westlake-university/"
     }
   ]
 }
