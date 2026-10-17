@@ -1,93 +1,94 @@
 {
-  "updatedAt": "2026-10-16T11:17:26.190Z",
+  "updatedAt": "2026-10-17T10:37:38.009Z",
   "jobs": [
     {
-      "title": "Repair and Maintenance Technician",
+      "title": "Senior Platform Engineer",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-16T09:00:00.000Z",
+      "published": "2026-10-17T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680775/repair-and-maintenance-technician/"
+      "url": "https://jobs.sciencecareers.org/job/680805/senior-platform-engineer/"
     },
     {
-      "title": "Scientist, Plant Cellular Engineering (Metabolic and Synthetic Biology) - PBI",
+      "title": "Cloud Platform Engineer",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-16T09:00:00.000Z",
+      "published": "2026-10-17T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680774/scientist-plant-cellular-engineering-metabolic-and-synthetic-biology-pbi/"
+      "url": "https://jobs.sciencecareers.org/job/680804/cloud-platform-engineer/"
     },
     {
-      "title": "(Senior) Group Leader, Nitrogen Fixation - Plant Biology Institute",
+      "title": "Senior Scientist, Automated Diagnostic Systems - Pathogen",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-16T09:00:00.000Z",
+      "published": "2026-10-17T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680773/-senior-group-leader-nitrogen-fixation-plant-biology-institute/"
+      "url": "https://jobs.sciencecareers.org/job/680803/senior-scientist-automated-diagnostic-systems-pathogen/"
     },
     {
-      "title": "Postdoctoral Research Fellow - Generative Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "postdoc",
+      "title": "Assistant Professor, Dept. of Biochemistry and Biophysics (Tenure Track)",
+      "org": "Oregon State University: Neuroscience Focus · United States",
+      "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-16T09:00:00.000Z",
+      "published": "2026-10-17T03:22:00.000Z",
       "tags": [
-        "Postdoc"
+        "Tenure-track",
+        "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680772/postdoctoral-research-fellow-generative-biology-institute/"
+      "url": "https://jobs.sciencecareers.org/job/680795/neuroscience-focus-assistant-professor-dept-of-biochemistry-and-biophysics-tenure-track-/"
     },
     {
-      "title": "Postdoctoral Research Scientists - Materials & Devices for Life Sciences",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-16T09:00:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680771/postdoctoral-research-scientists-materials-and-devices-for-life-sciences/"
-    },
-    {
-      "title": "Associate Professor or Full Professor in Regenerative Design and Construction",
-      "org": "TUM (Technical University Munich, Germany) · United States",
+      "title": "Faculty Position in Immunology",
+      "org": "University of Nebraska Medical Center · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-16T09:00:00.000Z",
+      "published": "2026-10-17T01:33:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680752/associate-professor-or-full-professor-in-regenerative-design-and-construction-/"
+      "url": "https://jobs.sciencecareers.org/job/680793/faculty-position-in-immunology/"
     },
     {
-      "title": "Harvard John A. Paulson School of Engineering and Applied Sciences: Lecturer in Mechanical Engineering",
-      "org": "Science Careers · United States",
+      "title": "Applied Insect Chemist",
+      "org": "Cornell University: Assistant Professor · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-16T01:20:00.000Z",
+      "published": "2026-10-17T00:53:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680765/lecturer-in-mechanical-engineering/"
+      "url": "https://jobs.sciencecareers.org/job/680791/assistant-professor-applied-insect-chemist/"
     },
     {
-      "title": "Harvard John A. Paulson School of Engineering and Applied Sciences: Tenure-Track Professor in Materials Science and Mechanical Engineering",
+      "title": "Hoover Institution: Postdoctoral Research Fellowship in Science and Technology Policy",
+      "org": "Stanford University · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-16T23:59:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680789/postdoctoral-research-fellowship-in-science-and-technology-policy/"
+    },
+    {
+      "title": "University of Arizona Dept of Ecology and Evolutionary Biology: Assistant Professor of Quantitative, Population, and Community Ecology (T/TE)",
       "org": "Science Careers · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-16T01:14:00.000Z",
+      "published": "2026-10-16T23:07:00.000Z",
       "tags": [
-        "Tenure-track"
+        "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680764/tenure-track-professor-in-materials-science-and-mechanical-engineering/"
+      "url": "https://jobs.sciencecareers.org/job/680787/assistant-professor-of-quantitative-population-and-community-ecology-t-te-/"
     },
     {
       "title": "KEAN UNIVERSITY: 2027 Educational Leadership (Ed.D) Assistant/Associate/Full Professors",
@@ -187,19 +188,6 @@
       "url": "https://www.nature.com/naturecareers/job/12864966/principal-investigators-in-neuroscience/"
     },
     {
-      "title": "Postdoctoral Scholar in Visual System Neurobiology & Multi-Omics",
-      "org": "University of California Los Angeles · Global",
-      "role": "postdoc",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-09-16T00:17:00.000Z",
-      "tags": [
-        "Neuroscience",
-        "Postdoc"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12864661/postdoctoral-scholar-in-visual-system-neurobiology-and-multi-omics/"
-    },
-    {
       "title": "Chief Executive Officer",
       "org": "Gloucester Marine Geonomics Institute (GMGI) · Global",
       "role": "faculty",
@@ -268,6 +256,18 @@
         "Faculty"
       ],
       "url": "https://www.nature.com/naturecareers/job/12856430/faculty-positions-in-ai-for-life-sciences-at-westlake-university/"
+    },
+    {
+      "title": "Tenure-track Positions at The HIT Center for Life Sciences, China",
+      "org": "The HIT Center for Life Sciences (HCLS) · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2025-05-30T01:40:00.000Z",
+      "tags": [
+        "Tenure-track"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12840025/tenure-track-positions-at-the-hit-center-for-life-sciences-china-/"
     }
   ]
 }
