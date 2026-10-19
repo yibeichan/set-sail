@@ -1,94 +1,119 @@
 {
-  "updatedAt": "2026-10-18T10:58:57.143Z",
+  "updatedAt": "2026-10-19T13:05:11.591Z",
   "jobs": [
     {
-      "title": "Senior Platform Engineer",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "Emerging Scholars Forum 2027 | 19-20 January 2027 | Singapore",
+      "org": "Nanyang Technological University, Singapore · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-17T09:00:00.000Z",
+      "published": "2026-08-27T18:48:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680805/senior-platform-engineer/"
+      "url": "https://jobs.sciencecareers.org/job/679872/emerging-scholars-forum-2027-19-20-january-2027-singapore/"
     },
     {
-      "title": "Cloud Platform Engineer",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "Microelectronics & Nanofabrication",
+      "org": "Lawrence Berkeley National Laboratory: Staff Scientist · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-17T09:00:00.000Z",
+      "published": "2026-10-17T00:52:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680804/cloud-platform-engineer/"
+      "url": "https://jobs.sciencecareers.org/job/680792/staff-scientist-microelectronics-and-nanofabrication/"
     },
     {
-      "title": "Senior Scientist, Automated Diagnostic Systems - Pathogen",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "Multiple Open-Rank Tenure-Track Faculty Positions in Ecology and Coastal Processes",
+      "org": "Georgia Tech College of Sciences · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-17T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680803/senior-scientist-automated-diagnostic-systems-pathogen/"
-    },
-    {
-      "title": "Assistant Professor, Dept. of Biochemistry and Biophysics (Tenure Track)",
-      "org": "Oregon State University: Neuroscience Focus · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-17T03:22:00.000Z",
+      "published": "2026-10-17T03:51:00.000Z",
       "tags": [
         "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680795/neuroscience-focus-assistant-professor-dept-of-biochemistry-and-biophysics-tenure-track-/"
+      "url": "https://jobs.sciencecareers.org/job/680796/multiple-open-rank-tenure-track-faculty-positions-in-ecology-and-coastal-processes/"
     },
     {
-      "title": "Faculty Position in Immunology",
-      "org": "University of Nebraska Medical Center · United States",
+      "title": "Assistant Professor in MIT's Department of Chemistry and the Schwarzman College of Computing",
+      "org": "MIT · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-17T01:33:00.000Z",
+      "published": "2026-10-17T04:00:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680793/faculty-position-in-immunology/"
+      "url": "https://jobs.sciencecareers.org/job/680798/assistant-professor-in-mit-s-department-of-chemistry-and-the-schwarzman-college-of-computing/"
     },
     {
-      "title": "Applied Insect Chemist",
-      "org": "Cornell University: Assistant Professor · United States",
+      "title": "Assistant Professor- Engineering for the Extreme - Fall 2027",
+      "org": "University of Texas at Austin · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-17T00:53:00.000Z",
+      "published": "2026-10-17T09:30:04.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680800/assistant-professor-engineering-for-the-extreme-fall-2027/"
+    },
+    {
+      "title": "Assistant Professor- Hydrologic Systems Engineering -Fall 2027",
+      "org": "University of Texas at Austin · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-17T09:30:06.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680801/assistant-professor-hydrologic-systems-engineering-fall-2027/"
+    },
+    {
+      "title": "Assistant Professor- Advanced Computational Geotechnics- Fall 2027",
+      "org": "University of Texas at Austin · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-17T09:30:00.000Z",
+      "tags": [
+        "Computational",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680802/assistant-professor-advanced-computational-geotechnics-fall-2027/"
+    },
+    {
+      "title": "Brain and Immune Therapeutics | RNA Medicines | AI-Driven Discovery",
+      "org": "University of California, San Diego: Postdoctoral Scholar · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-18T09:42:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680791/assistant-professor-applied-insect-chemist/"
+      "url": "https://jobs.sciencecareers.org/job/680806/postdoctoral-scholar-brain-and-immune-therapeutics-rna-medicines-ai-driven-discovery/"
     },
     {
-      "title": "Hoover Institution: Postdoctoral Research Fellowship in Science and Technology Policy",
-      "org": "Stanford University · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-16T23:59:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680789/postdoctoral-research-fellowship-in-science-and-technology-policy/"
-    },
-    {
-      "title": "University of Arizona Dept of Ecology and Evolutionary Biology: Assistant Professor of Quantitative, Population, and Community Ecology (T/TE)",
-      "org": "Science Careers · United States",
+      "title": "Nutritional Science/Dietetics Instructor Adjunct Pool",
+      "org": "College of the Canyons · United States",
       "role": "faculty",
       "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-16T23:07:00.000Z",
+      "source": "Inside Higher Ed",
+      "published": "2024-04-16T09:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3125430/nutritional-science-dietetics-instructor-adjunct-pool/"
+    },
+    {
+      "title": "Associate Professors in the Area of Physical Education and Science in Sports",
+      "org": "Macao Polytechnic University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-10-15T08:00:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680787/assistant-professor-of-quantitative-population-and-community-ecology-t-te-/"
+      "url": "https://careers.insidehighered.com/job/3564416/associate-professors-in-the-area-of-physical-education-and-science-in-sports/"
     },
     {
       "title": "KEAN UNIVERSITY: 2027 Educational Leadership (Ed.D) Assistant/Associate/Full Professors",
@@ -154,26 +179,6 @@
         "Faculty"
       ],
       "url": "https://careers.insidehighered.com/job/3561967/assistant-associate-professor-in-automotive-engineering-and-transportation-tenure-tenure-track/"
-    },
-    {
-      "title": "Theatre Adjunct Instructor (Technical Theatre/Costume Design)",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2023-12-09T10:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3042032/theatre-adjunct-instructor-technical-theatre-costume-design-/"
-    },
-    {
-      "title": "Assistant Teaching Professor for the Ecology and Evolutionary Biology Curriculum",
-      "org": "University of California, Los Angeles · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2024-02-07T02:33:35.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3078710/assistant-teaching-professor-for-the-ecology-and-evolutionary-biology-curriculum/"
     },
     {
       "title": "Principal Investigators in Neuroscience",
