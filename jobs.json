@@ -1,97 +1,118 @@
 {
-  "updatedAt": "2026-10-19T13:05:11.591Z",
+  "updatedAt": "2026-10-20T11:30:33.113Z",
   "jobs": [
     {
-      "title": "Emerging Scholars Forum 2027 | 19-20 January 2027 | Singapore",
-      "org": "Nanyang Technological University, Singapore · United States",
+      "title": "Covenant HealthCare College of Medicine at Central Michigan University: Biomedical Researcher (Assistant Professor, Tenure Track)",
+      "org": "Science Careers · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-08-27T18:48:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/679872/emerging-scholars-forum-2027-19-20-january-2027-singapore/"
-    },
-    {
-      "title": "Microelectronics & Nanofabrication",
-      "org": "Lawrence Berkeley National Laboratory: Staff Scientist · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-17T00:52:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680792/staff-scientist-microelectronics-and-nanofabrication/"
-    },
-    {
-      "title": "Multiple Open-Rank Tenure-Track Faculty Positions in Ecology and Coastal Processes",
-      "org": "Georgia Tech College of Sciences · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-17T03:51:00.000Z",
+      "published": "2026-10-20T01:40:00.000Z",
       "tags": [
         "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680796/multiple-open-rank-tenure-track-faculty-positions-in-ecology-and-coastal-processes/"
+      "url": "https://jobs.sciencecareers.org/job/680827/biomedical-researcher-assistant-professor-tenure-track-/"
     },
     {
-      "title": "Assistant Professor in MIT's Department of Chemistry and the Schwarzman College of Computing",
-      "org": "MIT · United States",
+      "title": "Cell Biology of Disease - Tenure-Track Faculty Position",
+      "org": "University of California, San Francisco · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-17T04:00:00.000Z",
+      "published": "2026-10-20T09:30:00.000Z",
       "tags": [
+        "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680798/assistant-professor-in-mit-s-department-of-chemistry-and-the-schwarzman-college-of-computing/"
+      "url": "https://jobs.sciencecareers.org/job/680829/cell-biology-of-disease-tenure-track-faculty-position/"
     },
     {
-      "title": "Assistant Professor- Engineering for the Extreme - Fall 2027",
-      "org": "University of Texas at Austin · United States",
+      "title": "Pathogen",
+      "org": "Ellison Institute of Technology: Fluidic System Engineer · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-17T09:30:04.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680800/assistant-professor-engineering-for-the-extreme-fall-2027/"
-    },
-    {
-      "title": "Assistant Professor- Hydrologic Systems Engineering -Fall 2027",
-      "org": "University of Texas at Austin · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-17T09:30:06.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680801/assistant-professor-hydrologic-systems-engineering-fall-2027/"
-    },
-    {
-      "title": "Assistant Professor- Advanced Computational Geotechnics- Fall 2027",
-      "org": "University of Texas at Austin · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-17T09:30:00.000Z",
-      "tags": [
-        "Computational",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680802/assistant-professor-advanced-computational-geotechnics-fall-2027/"
-    },
-    {
-      "title": "Brain and Immune Therapeutics | RNA Medicines | AI-Driven Discovery",
-      "org": "University of California, San Diego: Postdoctoral Scholar · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-18T09:42:00.000Z",
+      "published": "2026-10-20T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680806/postdoctoral-scholar-brain-and-immune-therapeutics-rna-medicines-ai-driven-discovery/"
+      "url": "https://jobs.sciencecareers.org/job/680830/fluidic-system-engineer-pathogen/"
+    },
+    {
+      "title": "Director of Awards/Chief Scientific Officer",
+      "org": "Human Frontier Science Program · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-20T09:01:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680817/director-of-awards-chief-scientific-officer-/"
+    },
+    {
+      "title": "Research Grants",
+      "org": "Human Frontier Science Program: Senior Scientific Officer · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-20T09:01:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680816/senior-scientific-officer-research-grants/"
+    },
+    {
+      "title": "Tenure-track Faculty Positions in School of Physical Science and Technology",
+      "org": "ShanghaiTech University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-20T08:59:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680813/tenure-track-faculty-positions-in-school-of-physical-science-and-technology-/"
+    },
+    {
+      "title": "Faculty Positions (Physical Science and Technology) in ShanghaiTech University",
+      "org": "ShanghaiTech University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-20T08:59:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680812/faculty-positions-physical-science-and-technology-in-shanghaitech-university/"
+    },
+    {
+      "title": "Faculty Positions(Life Science and Technology) in ShanghaiTech University",
+      "org": "ShanghaiTech University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-20T08:59:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680811/faculty-positions-life-science-and-technology-in-shanghaitech-university/"
+    },
+    {
+      "title": "Noncredit Police Defensive Tactics Adjunct Instructor",
+      "org": "College of the Canyons · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-04-18T09:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3335421/noncredit-police-defensive-tactics-adjunct-instructor/"
+    },
+    {
+      "title": "Noncredit Arrest and Control Adjunct Instructor",
+      "org": "College of the Canyons · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-04-18T09:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3335420/noncredit-arrest-and-control-adjunct-instructor/"
     },
     {
       "title": "Nutritional Science/Dietetics Instructor Adjunct Pool",
@@ -156,29 +177,6 @@
         "Faculty"
       ],
       "url": "https://careers.insidehighered.com/job/3562420/professor-associate-professor-assistant-professor-in-creative-industries-daci/"
-    },
-    {
-      "title": "Diagnostic Medical Sonography Program Adjunct Instructor",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-04-11T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3331371/diagnostic-medical-sonography-program-adjunct-instructor/"
-    },
-    {
-      "title": "Assistant/Associate Professor in Automotive Engineering & Transportation - Tenure/Tenure Track",
-      "org": "Purdue University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-10-12T20:13:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3561967/assistant-associate-professor-in-automotive-engineering-and-transportation-tenure-tenure-track/"
     },
     {
       "title": "Principal Investigators in Neuroscience",
