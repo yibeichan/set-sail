@@ -1,98 +1,97 @@
 {
-  "updatedAt": "2026-10-20T11:30:33.113Z",
+  "updatedAt": "2026-10-21T11:42:50.504Z",
   "jobs": [
     {
-      "title": "Covenant HealthCare College of Medicine at Central Michigan University: Biomedical Researcher (Assistant Professor, Tenure Track)",
+      "title": "Senior Scientist",
+      "org": "Hamad Bin Khalifa University (HBKU) · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-21T15:06:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680857/senior-scientist-/"
+    },
+    {
+      "title": "Assistant, Associate or Full In Residence Professor",
+      "org": "University of California, San Francisco: Basic Scientist · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-21T09:30:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680853/basic-scientist-assistant-associate-or-full-in-residence-professor/"
+    },
+    {
+      "title": "College of Sciences, Chemistry",
+      "org": "The University of Texas at San Antonio: Assistant Professor · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-14T18:30:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680734/assistant-professor-college-of-sciences-chemistry/"
+    },
+    {
+      "title": "Assistant or Associate Professor (Commensurate with experience)",
+      "org": "University of Utah · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-03T09:30:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680540/assistant-or-associate-professor-commensurate-with-experience-/"
+    },
+    {
+      "title": "Open Rank Faculty Position (Tenure/Teaching/Research Stream) - School of Science and Engineering",
+      "org": "The Chinese University of Hong Kong, Shenzhen · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-20T13:51:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680832/open-rank-faculty-position-tenure-teaching-research-stream-school-of-science-and-engineering/"
+    },
+    {
+      "title": "Baylor College of Medicine Department of Molecular and Human Genetic: Tenured And Tenure-Track Faculty Positions",
       "org": "Science Careers · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-20T01:40:00.000Z",
+      "published": "2026-10-21T13:05:00.000Z",
       "tags": [
         "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680827/biomedical-researcher-assistant-professor-tenure-track-/"
+      "url": "https://jobs.sciencecareers.org/job/680855/tenured-and-tenure-track-faculty-positions/"
     },
     {
-      "title": "Cell Biology of Disease - Tenure-Track Faculty Position",
-      "org": "University of California, San Francisco · United States",
+      "title": "(Senior) Computational Genomics Scientist, Algorithms & AI/ML",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-20T09:30:00.000Z",
+      "published": "2026-10-21T09:00:00.000Z",
+      "tags": [
+        "Computational"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680854/-senior-computational-genomics-scientist-algorithms-and-ai-ml/"
+    },
+    {
+      "title": "Open Rank Tenure Track Faculty Position - Case Western Reserve University School of Medicine",
+      "org": "Case University Department of Physiology & Biophysics · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-20T23:14:00.000Z",
       "tags": [
         "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680829/cell-biology-of-disease-tenure-track-faculty-position/"
-    },
-    {
-      "title": "Pathogen",
-      "org": "Ellison Institute of Technology: Fluidic System Engineer · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-20T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680830/fluidic-system-engineer-pathogen/"
-    },
-    {
-      "title": "Director of Awards/Chief Scientific Officer",
-      "org": "Human Frontier Science Program · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-20T09:01:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680817/director-of-awards-chief-scientific-officer-/"
-    },
-    {
-      "title": "Research Grants",
-      "org": "Human Frontier Science Program: Senior Scientific Officer · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-20T09:01:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680816/senior-scientific-officer-research-grants/"
-    },
-    {
-      "title": "Tenure-track Faculty Positions in School of Physical Science and Technology",
-      "org": "ShanghaiTech University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-20T08:59:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680813/tenure-track-faculty-positions-in-school-of-physical-science-and-technology-/"
-    },
-    {
-      "title": "Faculty Positions (Physical Science and Technology) in ShanghaiTech University",
-      "org": "ShanghaiTech University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-20T08:59:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680812/faculty-positions-physical-science-and-technology-in-shanghaitech-university/"
-    },
-    {
-      "title": "Faculty Positions(Life Science and Technology) in ShanghaiTech University",
-      "org": "ShanghaiTech University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-20T08:59:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680811/faculty-positions-life-science-and-technology-in-shanghaitech-university/"
+      "url": "https://jobs.sciencecareers.org/job/680847/open-rank-tenure-track-faculty-position-case-western-reserve-university-school-of-medicine/"
     },
     {
       "title": "Noncredit Police Defensive Tactics Adjunct Instructor",
