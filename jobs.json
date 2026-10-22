@@ -1,97 +1,101 @@
 {
-  "updatedAt": "2026-10-21T11:42:50.504Z",
+  "updatedAt": "2026-10-22T11:45:49.013Z",
   "jobs": [
     {
-      "title": "Senior Scientist",
-      "org": "Hamad Bin Khalifa University (HBKU) · United States",
+      "title": "Chair of the Department of Psychology",
+      "org": "University of Alabama at Birmingham · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-21T15:06:00.000Z",
+      "published": "2026-10-22T01:51:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680857/senior-scientist-/"
+      "url": "https://jobs.sciencecareers.org/job/680871/chair-of-the-department-of-psychology/"
     },
     {
-      "title": "Assistant, Associate or Full In Residence Professor",
-      "org": "University of California, San Francisco: Basic Scientist · United States",
+      "title": "College of Sciences, Molecular Microbiology & Immunology",
+      "org": "The University of Texas at San Antonio: Department Chair · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-21T09:30:00.000Z",
+      "published": "2026-10-22T09:30:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680853/basic-scientist-assistant-associate-or-full-in-residence-professor/"
+      "url": "https://jobs.sciencecareers.org/job/680872/department-chair-college-of-sciences-molecular-microbiology-and-immunology/"
     },
     {
-      "title": "College of Sciences, Chemistry",
-      "org": "The University of Texas at San Antonio: Assistant Professor · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-14T18:30:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680734/assistant-professor-college-of-sciences-chemistry/"
-    },
-    {
-      "title": "Assistant or Associate Professor (Commensurate with experience)",
-      "org": "University of Utah · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-03T09:30:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680540/assistant-or-associate-professor-commensurate-with-experience-/"
-    },
-    {
-      "title": "Open Rank Faculty Position (Tenure/Teaching/Research Stream) - School of Science and Engineering",
-      "org": "The Chinese University of Hong Kong, Shenzhen · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-20T13:51:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680832/open-rank-faculty-position-tenure-teaching-research-stream-school-of-science-and-engineering/"
-    },
-    {
-      "title": "Baylor College of Medicine Department of Molecular and Human Genetic: Tenured And Tenure-Track Faculty Positions",
-      "org": "Science Careers · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-21T13:05:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680855/tenured-and-tenure-track-faculty-positions/"
-    },
-    {
-      "title": "(Senior) Computational Genomics Scientist, Algorithms & AI/ML",
+      "title": "People & Engagement Analyst",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-21T09:00:00.000Z",
-      "tags": [
-        "Computational"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680854/-senior-computational-genomics-scientist-algorithms-and-ai-ml/"
+      "published": "2026-10-22T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680875/people-and-engagement-analyst/"
     },
     {
-      "title": "Open Rank Tenure Track Faculty Position - Case Western Reserve University School of Medicine",
-      "org": "Case University Department of Physiology & Biophysics · United States",
+      "title": "IT Service Desk Manager",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-20T23:14:00.000Z",
+      "published": "2026-10-22T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680874/it-service-desk-manager/"
+    },
+    {
+      "title": "Repair and Maintenance Technician",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-22T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680873/repair-and-maintenance-technician/"
+    },
+    {
+      "title": "Growing Our Engineering Faculty",
+      "org": "Case Western Reserve University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-22T09:01:00.000Z",
       "tags": [
-        "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680847/open-rank-tenure-track-faculty-position-case-western-reserve-university-school-of-medicine/"
+      "url": "https://jobs.sciencecareers.org/job/680685/growing-our-engineering-faculty/"
+    },
+    {
+      "title": "Computational Biologist - Gillani Lab",
+      "org": "Dana-Farber Cancer Institute: Postdoctoral Research Fellow · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-22T01:34:00.000Z",
+      "tags": [
+        "Computational"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680870/postdoctoral-research-fellow-computational-biologist-gillani-lab/"
+    },
+    {
+      "title": "Western University, Schulich School of Medicine & Dentistry, Department of Biochemistry: Assistant Professor Position in Neuroinfectious Diseases",
+      "org": "Science Careers · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-22T00:56:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680869/assistant-professor-position-in-neuroinfectious-diseases/"
+    },
+    {
+      "title": "Philosophy Instructor Adjunct Applicant Pool",
+      "org": "College of the Canyons · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2024-10-19T09:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3245533/philosophy-instructor-adjunct-applicant-pool/"
     },
     {
       "title": "Noncredit Police Defensive Tactics Adjunct Instructor",
@@ -164,18 +168,6 @@
       "published": "2025-04-13T09:00:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3333636/noncredit-older-adult-art-watercolor-and-drawing-instructor-adjunct-applicant-pool/"
-    },
-    {
-      "title": "Professor/Associate Professor/Assistant Professor in Creative Industries, DACI",
-      "org": "Lingnan University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-10-14T14:18:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3562420/professor-associate-professor-assistant-professor-in-creative-industries-daci/"
     },
     {
       "title": "Principal Investigators in Neuroscience",
