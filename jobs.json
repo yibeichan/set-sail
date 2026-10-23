@@ -1,91 +1,98 @@
 {
-  "updatedAt": "2026-10-22T11:45:49.013Z",
+  "updatedAt": "2026-10-23T11:33:04.116Z",
   "jobs": [
     {
-      "title": "Chair of the Department of Psychology",
-      "org": "University of Alabama at Birmingham · United States",
+      "title": "Professor/Associate Professor/Assistant Professor",
+      "org": "The University of Hong Kong · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-22T01:51:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680871/chair-of-the-department-of-psychology/"
-    },
-    {
-      "title": "College of Sciences, Molecular Microbiology & Immunology",
-      "org": "The University of Texas at San Antonio: Department Chair · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-22T09:30:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680872/department-chair-college-of-sciences-molecular-microbiology-and-immunology/"
-    },
-    {
-      "title": "People & Engagement Analyst",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-22T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680875/people-and-engagement-analyst/"
-    },
-    {
-      "title": "IT Service Desk Manager",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-22T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680874/it-service-desk-manager/"
-    },
-    {
-      "title": "Repair and Maintenance Technician",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-22T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680873/repair-and-maintenance-technician/"
-    },
-    {
-      "title": "Growing Our Engineering Faculty",
-      "org": "Case Western Reserve University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-22T09:01:00.000Z",
+      "published": "2026-10-23T14:25:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680685/growing-our-engineering-faculty/"
+      "url": "https://jobs.sciencecareers.org/job/680899/professor-associate-professor-assistant-professor/"
     },
     {
-      "title": "Computational Biologist - Gillani Lab",
-      "org": "Dana-Farber Cancer Institute: Postdoctoral Research Fellow · United States",
+      "title": "Department of Biological Sciences",
+      "org": "Carnegie Mellon University: Tenure Track Position · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-22T01:34:00.000Z",
-      "tags": [
-        "Computational"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680870/postdoctoral-research-fellow-computational-biologist-gillani-lab/"
+      "published": "2026-10-23T00:41:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680893/tenure-track-position-department-of-biological-sciences/"
     },
     {
-      "title": "Western University, Schulich School of Medicine & Dentistry, Department of Biochemistry: Assistant Professor Position in Neuroinfectious Diseases",
+      "title": "Assistant Professor position in Cellular and Molecular Systems",
+      "org": "Duke University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-23T09:30:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680895/assistant-professor-position-in-cellular-and-molecular-systems/"
+    },
+    {
+      "title": "Assistant Professor of Analytical Chemistry",
+      "org": "The University of Texas at San Antonio · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-23T09:30:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680896/assistant-professor-of-analytical-chemistry/"
+    },
+    {
+      "title": "The College of Saint Benedict and Saint John's University: Assistant Professor of Biology (tenure-track)",
       "org": "Science Careers · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-22T00:56:00.000Z",
+      "published": "2026-10-22T21:28:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680884/assistant-professor-of-biology-tenure-track-/"
+    },
+    {
+      "title": "Downers Grove: Assistant Professor- AZ- Microbiology & Immunology",
+      "org": "Midwestern University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-23T08:59:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680869/assistant-professor-position-in-neuroinfectious-diseases/"
+      "url": "https://jobs.sciencecareers.org/job/680851/assistant-professor-az-microbiology-and-immunology/"
+    },
+    {
+      "title": "Downers Grove: Assistant Professor- IL- Nurse Anesthesia Program",
+      "org": "Midwestern University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-23T08:59:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680850/assistant-professor-il-nurse-anesthesia-program/"
+    },
+    {
+      "title": "Downers Grove: Post Doctoral Fellow, Neuropharmacology- IL- Precision Medicine Program",
+      "org": "Midwestern University · United States",
+      "role": "phd",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-23T08:59:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680848/-post-doctoral-fellow-neuropharmacology-il-precision-medicine-program/"
     },
     {
       "title": "Philosophy Instructor Adjunct Applicant Pool",
@@ -170,6 +177,19 @@
       "url": "https://careers.insidehighered.com/job/3333636/noncredit-older-adult-art-watercolor-and-drawing-instructor-adjunct-applicant-pool/"
     },
     {
+      "title": "University of Oklahoma Health Campus: Postdoctoral Research Fellow: Cancer Neuroscience and Intercellular Mitochondria Transfer",
+      "org": "Nature Careers · Global",
+      "role": "postdoc",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-10-22T17:16:00.000Z",
+      "tags": [
+        "Neuroscience",
+        "Postdoc"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12865993/postdoctoral-research-fellow-cancer-neuroscience-and-intercellular-mitochondria-transfer/"
+    },
+    {
       "title": "Principal Investigators in Neuroscience",
       "org": "Chinese Institute for Brain Research, Beijing · Global",
       "role": "faculty",
@@ -250,18 +270,6 @@
         "Faculty"
       ],
       "url": "https://www.nature.com/naturecareers/job/12856430/faculty-positions-in-ai-for-life-sciences-at-westlake-university/"
-    },
-    {
-      "title": "Tenure-track Positions at The HIT Center for Life Sciences, China",
-      "org": "The HIT Center for Life Sciences (HCLS) · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2025-05-30T01:40:00.000Z",
-      "tags": [
-        "Tenure-track"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12840025/tenure-track-positions-at-the-hit-center-for-life-sciences-china-/"
     }
   ]
 }
