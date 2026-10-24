@@ -1,98 +1,127 @@
 {
-  "updatedAt": "2026-10-23T11:33:04.116Z",
+  "updatedAt": "2026-10-24T10:53:00.538Z",
   "jobs": [
     {
-      "title": "Professor/Associate Professor/Assistant Professor",
-      "org": "The University of Hong Kong · United States",
+      "title": "Student Engagement Administrator - 12 month Fixed Term Contract",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-23T14:25:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680899/professor-associate-professor-assistant-professor/"
-    },
-    {
-      "title": "Department of Biological Sciences",
-      "org": "Carnegie Mellon University: Tenure Track Position · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-23T00:41:00.000Z",
+      "published": "2026-10-24T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680893/tenure-track-position-department-of-biological-sciences/"
+      "url": "https://jobs.sciencecareers.org/job/680912/student-engagement-administrator-12-month-fixed-term-contract/"
     },
     {
-      "title": "Assistant Professor position in Cellular and Molecular Systems",
-      "org": "Duke University · United States",
+      "title": "Professor in Minimally Invasive Interfaces between Engineered Systems and the Human Body",
+      "org": "Arizona State University’s Biodesign Institute · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-23T09:30:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680895/assistant-professor-position-in-cellular-and-molecular-systems/"
-    },
-    {
-      "title": "Assistant Professor of Analytical Chemistry",
-      "org": "The University of Texas at San Antonio · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-23T09:30:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680896/assistant-professor-of-analytical-chemistry/"
-    },
-    {
-      "title": "The College of Saint Benedict and Saint John's University: Assistant Professor of Biology (tenure-track)",
-      "org": "Science Careers · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-22T21:28:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680884/assistant-professor-of-biology-tenure-track-/"
-    },
-    {
-      "title": "Downers Grove: Assistant Professor- AZ- Microbiology & Immunology",
-      "org": "Midwestern University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-23T08:59:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680851/assistant-professor-az-microbiology-and-immunology/"
-    },
-    {
-      "title": "Downers Grove: Assistant Professor- IL- Nurse Anesthesia Program",
-      "org": "Midwestern University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-23T08:59:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680850/assistant-professor-il-nurse-anesthesia-program/"
-    },
-    {
-      "title": "Downers Grove: Post Doctoral Fellow, Neuropharmacology- IL- Precision Medicine Program",
-      "org": "Midwestern University · United States",
-      "role": "phd",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-23T08:59:00.000Z",
+      "published": "2026-10-24T02:42:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680848/-post-doctoral-fellow-neuropharmacology-il-precision-medicine-program/"
+      "url": "https://jobs.sciencecareers.org/job/680911/-professor-in-minimally-invasive-interfaces-between-engineered-systems-and-the-human-body/"
+    },
+    {
+      "title": "Assistant Professor in Organic Chemistry",
+      "org": "University of Pennsylvania, Chemistry · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-24T02:32:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680910/assistant-professor-in-organic-chemistry/"
+    },
+    {
+      "title": "Assistant Professor of Chemistry",
+      "org": "University of Pennsylvania, Chemistry · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-24T02:25:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680909/assistant-professor-of-chemistry/"
+    },
+    {
+      "title": "Professor (all ranks) Microbiome and Human Health",
+      "org": "Arizona State University’s Biodesign Institute · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-24T00:16:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680908/professor-all-ranks-microbiome-and-human-health/"
+    },
+    {
+      "title": "Laser and Radiation Effects on Microelectronics, Onsite",
+      "org": "recruitingads@sandia.gov: Postdoctoral Appointee · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-23T19:32:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680902/postdoctoral-appointee-laser-and-radiation-effects-on-microelectronics-onsite/"
+    },
+    {
+      "title": "Harnessing the Power of Synthetic Biology, Tenure-track",
+      "org": "Cornell University: Assistant Professor · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-23T20:03:00.000Z",
+      "tags": [
+        "Tenure-track"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680903/assistant-professor-harnessing-the-power-of-synthetic-biology-tenure-track/"
+    },
+    {
+      "title": "Archaeal Biology, Tenure-track",
+      "org": "Cornell University: Assistant Professor · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-23T20:08:00.000Z",
+      "tags": [
+        "Tenure-track"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680904/assistant-professor-archaeal-biology-tenure-track/"
+    },
+    {
+      "title": "Assistant or Associate Professor in Geriatric Medicine",
+      "org": "University of Virginia · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-02-20T10:00:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3306789/assistant-or-associate-professor-in-geriatric-medicine/"
+    },
+    {
+      "title": "Assistant/Associate/Full Professor",
+      "org": "University of Florida · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-12-22T19:36:46.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3445402/assistant-associate-full-professor/"
+    },
+    {
+      "title": "Assistant Professor of Reading",
+      "org": "Fort Valley State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-12-20T10:00:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3444916/assistant-professor-of-reading/"
     },
     {
       "title": "Philosophy Instructor Adjunct Applicant Pool",
@@ -145,36 +174,6 @@
         "Faculty"
       ],
       "url": "https://careers.insidehighered.com/job/3564416/associate-professors-in-the-area-of-physical-education-and-science-in-sports/"
-    },
-    {
-      "title": "KEAN UNIVERSITY: 2027 Educational Leadership (Ed.D) Assistant/Associate/Full Professors",
-      "org": "WENZHOU · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-10-16T14:28:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3563414/2027-educational-leadership-ed-d-assistant-associate-full-professors/"
-    },
-    {
-      "title": "Chairperson, Department of Special Education",
-      "org": "Illinois State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-10-15T19:30:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3563134/chairperson-department-of-special-education/"
-    },
-    {
-      "title": "Noncredit Older Adult Art (Watercolor and Drawing) Instructor Adjunct Applicant Pool",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-04-13T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3333636/noncredit-older-adult-art-watercolor-and-drawing-instructor-adjunct-applicant-pool/"
     },
     {
       "title": "University of Oklahoma Health Campus: Postdoctoral Research Fellow: Cancer Neuroscience and Intercellular Mitochondria Transfer",
