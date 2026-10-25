@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T10:53:00.538Z",
+  "updatedAt": "2026-10-25T11:19:34.746Z",
   "jobs": [
     {
       "title": "Student Engagement Administrator - 12 month Fixed Term Contract",
@@ -90,6 +90,16 @@
       "url": "https://jobs.sciencecareers.org/job/680904/assistant-professor-archaeal-biology-tenure-track/"
     },
     {
+      "title": "Asst. Professor Social Work/Director MSW Prog/Online MSW Coord",
+      "org": "Kentucky State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-10-23T09:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3418890/asst-professor-social-work-director-msw-prog-online-msw-coord/"
+    },
+    {
       "title": "Assistant or Associate Professor in Geriatric Medicine",
       "org": "University of Virginia · United States",
       "role": "faculty",
@@ -164,18 +174,6 @@
       "url": "https://careers.insidehighered.com/job/3125430/nutritional-science-dietetics-instructor-adjunct-pool/"
     },
     {
-      "title": "Associate Professors in the Area of Physical Education and Science in Sports",
-      "org": "Macao Polytechnic University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-10-15T08:00:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3564416/associate-professors-in-the-area-of-physical-education-and-science-in-sports/"
-    },
-    {
       "title": "University of Oklahoma Health Campus: Postdoctoral Research Fellow: Cancer Neuroscience and Intercellular Mitochondria Transfer",
       "org": "Nature Careers · Global",
       "role": "postdoc",
@@ -189,18 +187,6 @@
       "url": "https://www.nature.com/naturecareers/job/12865993/postdoctoral-research-fellow-cancer-neuroscience-and-intercellular-mitochondria-transfer/"
     },
     {
-      "title": "Principal Investigators in Neuroscience",
-      "org": "Chinese Institute for Brain Research, Beijing · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-09-24T02:11:00.000Z",
-      "tags": [
-        "Neuroscience"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12864966/principal-investigators-in-neuroscience/"
-    },
-    {
       "title": "Chief Executive Officer",
       "org": "Gloucester Marine Geonomics Institute (GMGI) · Global",
       "role": "faculty",
@@ -209,19 +195,6 @@
       "published": "2026-09-29T15:55:00.000Z",
       "tags": [],
       "url": "https://www.nature.com/naturecareers/job/12865154/chief-executive-officer/"
-    },
-    {
-      "title": "Tenure-Track Assistant Professor Faculty Position",
-      "org": "Vanderbilt University (VU) · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-09-24T18:31:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12865007/tenure-track-assistant-professor-faculty-position/"
     },
     {
       "title": "CFO Office: Assistant Professor in Health, Resilience and Adaptation at The Salk Institute",
@@ -269,6 +242,31 @@
         "Faculty"
       ],
       "url": "https://www.nature.com/naturecareers/job/12856430/faculty-positions-in-ai-for-life-sciences-at-westlake-university/"
+    },
+    {
+      "title": "Tenure-track Positions at The HIT Center for Life Sciences, China",
+      "org": "The HIT Center for Life Sciences (HCLS) · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2025-05-30T01:40:00.000Z",
+      "tags": [
+        "Tenure-track"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12840025/tenure-track-positions-at-the-hit-center-for-life-sciences-china-/"
+    },
+    {
+      "title": "Assistant Professor, Tenure Track",
+      "org": "Scripps Research Institute · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-10-09T23:44:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12865575/assistant-professor-tenure-track/"
     }
   ]
 }
