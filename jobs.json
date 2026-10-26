@@ -1,93 +1,100 @@
 {
-  "updatedAt": "2026-10-25T11:19:34.746Z",
+  "updatedAt": "2026-10-26T12:53:54.847Z",
   "jobs": [
     {
-      "title": "Student Engagement Administrator - 12 month Fixed Term Contract",
+      "title": "Professor of Paediatric Haematology and Oncology",
+      "org": "University of Basel · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-26T17:34:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680913/professor-of-paediatric-haematology-and-oncology/"
+    },
+    {
+      "title": "Cracan Lab",
+      "org": "Scintillon Institute: Postdoctoral Associate · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-26T11:17:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680921/postdoctoral-associate-cracan-lab-/"
+    },
+    {
+      "title": "Tenure-Track Associate Professor/Assistant Professor",
+      "org": "The University of Hong Kong · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-26T14:34:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680922/tenure-track-associate-professor-assistant-professor/"
+    },
+    {
+      "title": "Scientist, Plant Metabolic Engineering - Plant Biology Institute",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-24T09:00:00.000Z",
+      "published": "2026-10-26T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680912/student-engagement-administrator-12-month-fixed-term-contract/"
+      "url": "https://jobs.sciencecareers.org/job/680919/scientist-plant-metabolic-engineering-plant-biology-institute/"
     },
     {
-      "title": "Professor in Minimally Invasive Interfaces between Engineered Systems and the Human Body",
-      "org": "Arizona State University’s Biodesign Institute · United States",
+      "title": "Scientist, Photosynthesis Assay Development - Plant Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-24T02:42:00.000Z",
+      "published": "2026-10-26T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680911/-professor-in-minimally-invasive-interfaces-between-engineered-systems-and-the-human-body/"
+      "url": "https://jobs.sciencecareers.org/job/680918/scientist-photosynthesis-assay-development-plant-biology-institute/"
     },
     {
-      "title": "Assistant Professor in Organic Chemistry",
-      "org": "University of Pennsylvania, Chemistry · United States",
+      "title": "Bioinformatician",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-24T02:32:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680910/assistant-professor-in-organic-chemistry/"
-    },
-    {
-      "title": "Assistant Professor of Chemistry",
-      "org": "University of Pennsylvania, Chemistry · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-24T02:25:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680909/assistant-professor-of-chemistry/"
-    },
-    {
-      "title": "Professor (all ranks) Microbiome and Human Health",
-      "org": "Arizona State University’s Biodesign Institute · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-24T00:16:00.000Z",
+      "published": "2026-10-26T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680908/professor-all-ranks-microbiome-and-human-health/"
+      "url": "https://jobs.sciencecareers.org/job/680917/bioinformatician/"
     },
     {
-      "title": "Laser and Radiation Effects on Microelectronics, Onsite",
-      "org": "recruitingads@sandia.gov: Postdoctoral Appointee · United States",
+      "title": "Pathogen",
+      "org": "Ellison Institute of Technology: Bioinformatician · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-23T19:32:00.000Z",
+      "published": "2026-10-26T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680902/postdoctoral-appointee-laser-and-radiation-effects-on-microelectronics-onsite/"
+      "url": "https://jobs.sciencecareers.org/job/680916/bioinformatician-pathogen/"
     },
     {
-      "title": "Harnessing the Power of Synthetic Biology, Tenure-track",
-      "org": "Cornell University: Assistant Professor · United States",
-      "role": "faculty",
+      "title": "Postdoctoral Research Fellow (Zuercher Lab) - Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-23T20:03:00.000Z",
+      "published": "2026-10-26T09:00:00.000Z",
       "tags": [
-        "Tenure-track"
+        "Postdoc"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680903/assistant-professor-harnessing-the-power-of-synthetic-biology-tenure-track/"
+      "url": "https://jobs.sciencecareers.org/job/680915/postdoctoral-research-fellow-zuercher-lab-generative-biology-institute/"
     },
     {
-      "title": "Archaeal Biology, Tenure-track",
-      "org": "Cornell University: Assistant Professor · United States",
+      "title": "Associate/Full Professor in Educational Leadership (Dissertation and Research)",
+      "org": "Texas A&M University-San Antonio · United States",
       "role": "faculty",
       "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-23T20:08:00.000Z",
-      "tags": [
-        "Tenure-track"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680904/assistant-professor-archaeal-biology-tenure-track/"
+      "source": "Inside Higher Ed",
+      "published": "2026-03-07T10:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3474564/associate-full-professor-in-educational-leadership-dissertation-and-research-/"
     },
     {
       "title": "Asst. Professor Social Work/Director MSW Prog/Online MSW Coord",
@@ -164,16 +171,6 @@
       "url": "https://careers.insidehighered.com/job/3335420/noncredit-arrest-and-control-adjunct-instructor/"
     },
     {
-      "title": "Nutritional Science/Dietetics Instructor Adjunct Pool",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2024-04-16T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3125430/nutritional-science-dietetics-instructor-adjunct-pool/"
-    },
-    {
       "title": "University of Oklahoma Health Campus: Postdoctoral Research Fellow: Cancer Neuroscience and Intercellular Mitochondria Transfer",
       "org": "Nature Careers · Global",
       "role": "postdoc",
@@ -222,16 +219,6 @@
       "url": "https://www.nature.com/naturecareers/job/12865410/open-rank-faculty-position-in-theoretical-biology/"
     },
     {
-      "title": "Genetics and Genomic Sciences: Scientific Program Director (PhD) - Genetics & Genomics Research",
-      "org": "Icahn School of Medicine at Mount Sinai · Global",
-      "role": "phd",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-10-08T14:10:00.000Z",
-      "tags": [],
-      "url": "https://www.nature.com/naturecareers/job/12865514/scientific-program-director-phd-genetics-and-genomics-research/"
-    },
-    {
       "title": "Faculty Positions in AI for Life Sciences at Westlake University",
       "org": "Westlake University School of Life Science · Global",
       "role": "faculty",
@@ -254,6 +241,16 @@
         "Tenure-track"
       ],
       "url": "https://www.nature.com/naturecareers/job/12840025/tenure-track-positions-at-the-hit-center-for-life-sciences-china-/"
+    },
+    {
+      "title": "Genetics and Genomic Sciences: Scientific Program Director (PhD) - Genetics & Genomics Research",
+      "org": "Icahn School of Medicine at Mount Sinai · Global",
+      "role": "phd",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-10-08T14:10:00.000Z",
+      "tags": [],
+      "url": "https://www.nature.com/naturecareers/job/12865514/scientific-program-director-phd-genetics-and-genomics-research/"
     },
     {
       "title": "Assistant Professor, Tenure Track",
