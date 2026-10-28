@@ -1,95 +1,104 @@
 {
-  "updatedAt": "2026-10-27T12:04:53.092Z",
+  "updatedAt": "2026-10-28T12:46:26.313Z",
   "jobs": [
     {
-      "title": "Asset Manager",
+      "title": "Beverly Petterson Bishop Associate Prof or Professor in Neuroscience",
+      "org": "Syracuse University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-28T09:30:00.000Z",
+      "tags": [
+        "Neuroscience"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680983/beverly-petterson-bishop-associate-prof-or-professor-in-neuroscience/"
+    },
+    {
+      "title": "POSTDOCTORAL RESEARCHER (CARDIOVASCULAR) – ID# 226671",
+      "org": "RCUH Human Resources · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-28T02:17:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680982/postdoctoral-researcher-cardiovascular-id-226671/"
+    },
+    {
+      "title": "Laboratory Technician",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-27T09:00:00.000Z",
+      "published": "2026-10-28T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680962/asset-manager/"
+      "url": "https://jobs.sciencecareers.org/job/680986/laboratory-technician/"
     },
     {
-      "title": "Emerging Scholars Forum 2027 | 19-20 January 2027 | Singapore",
-      "org": "Nanyang Technological University, Singapore · United States",
+      "title": "Plant Biology Institute",
+      "org": "Ellison Institute of Technology: Computational Biologist · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-27T09:58:00.000Z",
+      "published": "2026-10-28T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680924/emerging-scholars-forum-2027-19-20-january-2027-singapore-/"
+      "url": "https://jobs.sciencecareers.org/job/680985/computational-biologist-plant-biology-institute/"
     },
     {
-      "title": "Assistant Professor of Chemistry",
-      "org": "CU Boulder Chemistry Department · United States",
+      "title": "Principal Investigators (All Levels) - Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-27T00:41:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680954/assistant-professor-of-chemistry/"
-    },
-    {
-      "title": "Assistant/Associate Professor of Infectious Disease",
-      "org": "Cummings School of Veterinary Medicine at Tufts University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-27T00:49:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680957/assistant-associate-professor-of-infectious-disease-/"
-    },
-    {
-      "title": "Department of Chemistry: Assistant Professor - Rare Earths and Critical Minerals",
-      "org": "North Carolina State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-27T00:53:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680953/assistant-professor-rare-earths-and-critical-minerals/"
-    },
-    {
-      "title": "Department of Chemistry: Assistant Professor - Molecular Materials and Machines",
-      "org": "North Carolina State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-27T00:32:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680949/assistant-professor-molecular-materials-and-machines/"
-    },
-    {
-      "title": "Assistant / Associate Professor in Cancer Immunology",
-      "org": "Emory University, Microbiology & Immunology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-27T00:25:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680946/assistant-associate-professor-in-cancer-immunology-/"
-    },
-    {
-      "title": "Dean, Feik School of Pharmacy",
-      "org": "University of the Incarnate Word · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-26T21:57:11.000Z",
+      "published": "2026-10-28T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680939/dean-feik-school-of-pharmacy/"
+      "url": "https://jobs.sciencecareers.org/job/680984/principal-investigators-all-levels-generative-biology-institute/"
+    },
+    {
+      "title": "Professor of Building Physics and Indoor Climate / Institute Director at Fraunhofer IBP",
+      "org": "TUM (Technical University Munich, Germany) · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-28T02:59:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680973/professor-of-building-physics-and-indoor-climate-institute-director-at-fraunhofer-ibp/"
+    },
+    {
+      "title": "Georgia Southern University, College of Science and Mathematics faculty: Assistant Professor Biomedical Sciences",
+      "org": "Science Careers · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-28T01:11:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680956/assistant-professor-biomedical-sciences/"
+    },
+    {
+      "title": "Assistant Professor, Tenure Track",
+      "org": "Massachusetts Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-28T00:23:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680981/assistant-professor-tenure-track/"
+    },
+    {
+      "title": "Veterinary Curriculum Instructors",
+      "org": "The Ohio State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-10-26T09:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3420637/veterinary-curriculum-instructors/"
     },
     {
       "title": "Associate/Full Professor in Educational Leadership (Dissertation and Research)",
@@ -166,16 +175,6 @@
       "url": "https://careers.insidehighered.com/job/3335421/noncredit-police-defensive-tactics-adjunct-instructor/"
     },
     {
-      "title": "Noncredit Arrest and Control Adjunct Instructor",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-04-18T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3335420/noncredit-arrest-and-control-adjunct-instructor/"
-    },
-    {
       "title": "University of Oklahoma Health Campus: Postdoctoral Research Fellow: Cancer Neuroscience and Intercellular Mitochondria Transfer",
       "org": "Nature Careers · Global",
       "role": "postdoc",
@@ -211,6 +210,18 @@
       "url": "https://www.nature.com/naturecareers/job/12865257/assistant-professor-in-health-resilience-and-adaptation-at-the-salk-institute/"
     },
     {
+      "title": "St. Louis: Assistant Professor",
+      "org": "Washington University School of Medicine · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-10-27T00:00:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12866129/assistant-professor/"
+    },
+    {
       "title": "Open-Rank Faculty Position in Theoretical Biology",
       "org": "Vanderbilt University Department of Biological Sciences · Global",
       "role": "faculty",
@@ -222,6 +233,16 @@
         "Faculty"
       ],
       "url": "https://www.nature.com/naturecareers/job/12865410/open-rank-faculty-position-in-theoretical-biology/"
+    },
+    {
+      "title": "Associate or Senior Editor, Communications AI & Computing",
+      "org": "Springer Nature Ltd · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-10-28T11:26:00.000Z",
+      "tags": [],
+      "url": "https://www.nature.com/naturecareers/job/12866153/associate-or-senior-editor-communications-ai-and-computing/"
     },
     {
       "title": "Genetics and Genomic Sciences: Scientific Program Director (PhD) - Genetics & Genomics Research",
@@ -244,31 +265,6 @@
         "Faculty"
       ],
       "url": "https://www.nature.com/naturecareers/job/12856430/faculty-positions-in-ai-for-life-sciences-at-westlake-university/"
-    },
-    {
-      "title": "Tenure-track Positions at The HIT Center for Life Sciences, China",
-      "org": "The HIT Center for Life Sciences (HCLS) · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2025-05-30T01:40:00.000Z",
-      "tags": [
-        "Tenure-track"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12840025/tenure-track-positions-at-the-hit-center-for-life-sciences-china-/"
-    },
-    {
-      "title": "Assistant Professor, Tenure Track",
-      "org": "Scripps Research Institute · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-10-09T23:44:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12865575/assistant-professor-tenure-track/"
     }
   ]
 }
