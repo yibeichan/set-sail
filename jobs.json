@@ -1,94 +1,106 @@
 {
-  "updatedAt": "2026-10-28T12:46:26.313Z",
+  "updatedAt": "2026-10-29T12:54:36.725Z",
   "jobs": [
     {
-      "title": "Beverly Petterson Bishop Associate Prof or Professor in Neuroscience",
-      "org": "Syracuse University · United States",
+      "title": "Professorship (W3) for Informatics with a Focus on Societal Communication",
+      "org": "Universität Hamburg · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-28T09:30:00.000Z",
+      "published": "2026-10-29T12:44:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681011/professorship-w3-for-informatics-with-a-focus-on-societal-communication/"
+    },
+    {
+      "title": "Assistant Professor",
+      "org": "East Carolina University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-29T09:30:09.000Z",
       "tags": [
-        "Neuroscience"
+        "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680983/beverly-petterson-bishop-associate-prof-or-professor-in-neuroscience/"
+      "url": "https://jobs.sciencecareers.org/job/681005/assistant-professor/"
     },
     {
-      "title": "POSTDOCTORAL RESEARCHER (CARDIOVASCULAR) – ID# 226671",
-      "org": "RCUH Human Resources · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-28T02:17:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680982/postdoctoral-researcher-cardiovascular-id-226671/"
-    },
-    {
-      "title": "Laboratory Technician",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-28T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680986/laboratory-technician/"
-    },
-    {
-      "title": "Plant Biology Institute",
-      "org": "Ellison Institute of Technology: Computational Biologist · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-28T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680985/computational-biologist-plant-biology-institute/"
-    },
-    {
-      "title": "Principal Investigators (All Levels) - Generative Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-28T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680984/principal-investigators-all-levels-generative-biology-institute/"
-    },
-    {
-      "title": "Professor of Building Physics and Indoor Climate / Institute Director at Fraunhofer IBP",
-      "org": "TUM (Technical University Munich, Germany) · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-28T02:59:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680973/professor-of-building-physics-and-indoor-climate-institute-director-at-fraunhofer-ibp/"
-    },
-    {
-      "title": "Georgia Southern University, College of Science and Mathematics faculty: Assistant Professor Biomedical Sciences",
+      "title": "Colorado State University: Assistant Professor: Genotypes to Phenotypes",
       "org": "Science Careers · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-28T01:11:00.000Z",
+      "published": "2026-10-29T03:29:15.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680956/assistant-professor-biomedical-sciences/"
+      "url": "https://jobs.sciencecareers.org/job/681001/assistant-professor-genotypes-to-phenotypes/"
     },
     {
-      "title": "Assistant Professor, Tenure Track",
-      "org": "Massachusetts Institute of Technology · United States",
+      "title": "Tenure Track Faculty Positions",
+      "org": "WashU Medicine · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-28T00:23:00.000Z",
+      "published": "2026-10-29T02:26:00.000Z",
       "tags": [
         "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680981/assistant-professor-tenure-track/"
+      "url": "https://jobs.sciencecareers.org/job/681000/tenure-track-faculty-positions/"
+    },
+    {
+      "title": "Business Analyst",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-29T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681010/business-analyst/"
+    },
+    {
+      "title": "HR Advisor",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-29T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681009/hr-advisor/"
+    },
+    {
+      "title": "Plant Biology Institute",
+      "org": "Ellison Institute of Technology: Vector Design Lead · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-29T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681008/vector-design-lead-plant-biology-institute/"
+    },
+    {
+      "title": "Postdoctoral Research Fellow (Pellock Lab) - Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-29T09:00:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681007/postdoctoral-research-fellow-pellock-lab-generative-biology-institute/"
+    },
+    {
+      "title": "KEAN UNIVERSITY: 2027 Special Education Assistant/Associate Professors of Applied Behavior Analysis (M.A.)",
+      "org": "WENZHOU · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-10-29T16:13:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3567829/2027-special-education-assistant-associate-professors-of-applied-behavior-analysis-m-a-/"
     },
     {
       "title": "Veterinary Curriculum Instructors",
@@ -165,16 +177,6 @@
       "url": "https://careers.insidehighered.com/job/3245533/philosophy-instructor-adjunct-applicant-pool/"
     },
     {
-      "title": "Noncredit Police Defensive Tactics Adjunct Instructor",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-04-18T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3335421/noncredit-police-defensive-tactics-adjunct-instructor/"
-    },
-    {
       "title": "University of Oklahoma Health Campus: Postdoctoral Research Fellow: Cancer Neuroscience and Intercellular Mitochondria Transfer",
       "org": "Nature Careers · Global",
       "role": "postdoc",
@@ -210,7 +212,7 @@
       "url": "https://www.nature.com/naturecareers/job/12865257/assistant-professor-in-health-resilience-and-adaptation-at-the-salk-institute/"
     },
     {
-      "title": "St. Louis: Assistant Professor",
+      "title": "St. Louis: Assistant Professor, Brain Immunology & Glia (BIG) Center",
       "org": "Washington University School of Medicine · Global",
       "role": "faculty",
       "region": "global",
@@ -219,7 +221,7 @@
       "tags": [
         "Faculty"
       ],
-      "url": "https://www.nature.com/naturecareers/job/12866129/assistant-professor/"
+      "url": "https://www.nature.com/naturecareers/job/12866129/assistant-professor-brain-immunology-and-glia-big-center/"
     },
     {
       "title": "Open-Rank Faculty Position in Theoretical Biology",
