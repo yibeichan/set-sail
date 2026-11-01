@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-31T12:19:19.082Z",
+  "updatedAt": "2026-11-01T13:15:12.287Z",
   "jobs": [
+    {
+      "title": "Independent Investigator Fellowship Program",
+      "org": "National Institute of Biological Science, Beijing · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-01T11:27:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680920/independent-investigator-fellowship-program/"
+    },
+    {
+      "title": "Tenure-Track Faculty Position, Institute of Biomedical Sciences, Academia Sinica, Taiwan",
+      "org": "Institute of Biomedical Sciences, Academia Sinica · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-01T09:00:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680609/tenure-track-faculty-position-institute-of-biomedical-sciences-academia-sinica-taiwan/"
+    },
     {
       "title": "Scientist, Advanced Genome Technologies - Plant Biology Institute",
       "org": "Ellison Institute of Technology · United States",
@@ -65,30 +90,6 @@
       "published": "2026-10-22T19:16:00.000Z",
       "tags": [],
       "url": "https://jobs.sciencecareers.org/job/680877/lecturer-biology/"
-    },
-    {
-      "title": "Assistant Professor",
-      "org": "University of Arizona- College of Pharmacy · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-30T22:31:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681047/assistant-professor/"
-    },
-    {
-      "title": "Assistant Professor",
-      "org": "University of Colorado Boulder · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-30T20:56:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681045/assistant-professor/"
     },
     {
       "title": "Associate / Assistant Professor in Product or Graphic Design",
@@ -202,6 +203,19 @@
       "url": "https://www.nature.com/naturecareers/job/12865257/assistant-professor-in-health-resilience-and-adaptation-at-the-salk-institute/"
     },
     {
+      "title": "Tenure-Track Faculty Position, Institute of Biomedical Sciences, Academia Sinica, Taiwan",
+      "org": "The Institute of Biomedical Sciences, Academia Sinica · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-11-01T00:00:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12865430/tenure-track-faculty-position-institute-of-biomedical-sciences-academia-sinica-taiwan/"
+    },
+    {
       "title": "St. Louis: Assistant Professor, Brain Immunology & Glia (BIG) Center",
       "org": "Washington University School of Medicine · Global",
       "role": "faculty",
@@ -255,18 +269,6 @@
       "published": "2026-10-08T14:10:00.000Z",
       "tags": [],
       "url": "https://www.nature.com/naturecareers/job/12865514/scientific-program-director-phd-genetics-and-genomics-research/"
-    },
-    {
-      "title": "Faculty Positions in AI for Life Sciences at Westlake University",
-      "org": "Westlake University School of Life Science · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-03-17T00:00:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12856430/faculty-positions-in-ai-for-life-sciences-at-westlake-university/"
     }
   ]
 }
