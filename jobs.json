@@ -1,95 +1,108 @@
 {
-  "updatedAt": "2026-11-01T13:15:12.287Z",
+  "updatedAt": "2026-11-02T15:41:42.916Z",
   "jobs": [
     {
-      "title": "Independent Investigator Fellowship Program",
-      "org": "National Institute of Biological Science, Beijing · United States",
+      "title": "Tenure-Track Professor in Quantum Science and Engineering",
+      "org": "Harvard Quantum Initiative · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-02T17:48:00.000Z",
+      "tags": [
+        "Tenure-track"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681070/tenure-track-professor-in-quantum-science-and-engineering/"
+    },
+    {
+      "title": "College of Physics and Optoelectronic Engineering, Guangdong University of Technology: Assistant, Associate & Full Professors and Postdoctoral Researchers",
+      "org": "Science Careers · United States",
       "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-01T11:27:00.000Z",
+      "published": "2026-10-31T13:04:00.000Z",
       "tags": [
         "Postdoc"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680920/independent-investigator-fellowship-program/"
+      "url": "https://jobs.sciencecareers.org/job/681059/assistant-associate-and-full-professors-and-postdoctoral-researchers/"
     },
     {
-      "title": "Tenure-Track Faculty Position, Institute of Biomedical Sciences, Academia Sinica, Taiwan",
-      "org": "Institute of Biomedical Sciences, Academia Sinica · United States",
+      "title": "Director and Professor for Genetics Research",
+      "org": "Folkhälsan Research Center · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-02T15:19:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681069/director-and-professor-for-genetics-research/"
+    },
+    {
+      "title": "Clinical Bioinformatics",
+      "org": "Baylor College of Medicine: Postdoctoral Associate · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-02T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681068/postdoctoral-associate-clinical-bioinformatics/"
+    },
+    {
+      "title": "Assistant Professor",
+      "org": "Colorado State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-02T04:23:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681061/assistant-professor/"
+    },
+    {
+      "title": "Border Biomedical Research Center (BBRC) at UTEP",
+      "org": "Border Biomedical Research Center (BBRC): Director · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
       "published": "2026-11-01T09:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681055/director-border-biomedical-research-center-bbrc-at-utep/"
+    },
+    {
+      "title": "Assistant or Associate Professor, Chemical Ecologist- College of Sciences, Biology, Health",
+      "org": "The University of Texas at San Antonio · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-31T09:30:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681057/assistant-or-associate-professor-chemical-ecologist-college-of-sciences-biology-health/"
+    },
+    {
+      "title": "Assistant Professor, Quantum Materials Chemistry",
+      "org": "Boston University Department of Chemistry · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-31T02:18:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681054/assistant-professor-quantum-materials-chemistry/"
+    },
+    {
+      "title": "Tenure Track Assistant/Associate Professor, Graphic Design Program",
+      "org": "Auburn University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-10-31T02:38:00.000Z",
       "tags": [
         "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/680609/tenure-track-faculty-position-institute-of-biomedical-sciences-academia-sinica-taiwan/"
-    },
-    {
-      "title": "Scientist, Advanced Genome Technologies - Plant Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-31T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681058/scientist-advanced-genome-technologies-plant-biology-institute/"
-    },
-    {
-      "title": "Postdoctoral Position in Retinal Ganglion Cell Neuroprotection and Axon Regeneration",
-      "org": "National Eye Institute, NIH · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-31T01:23:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681053/postdoctoral-position-in-retinal-ganglion-cell-neuroprotection-and-axon-regeneration/"
-    },
-    {
-      "title": "Assistant Professor Behavioral Neuroscience",
-      "org": "University of Massachusetts Amherst · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-31T00:53:00.000Z",
-      "tags": [
-        "Neuroscience",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681052/assistant-professor-behavioral-neuroscience/"
-    },
-    {
-      "title": "Associate Director for Extramural Science Programs (Senior Executive)",
-      "org": "NIH NIBIB · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-31T00:52:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681051/associate-director-for-extramural-science-programs-senior-executive-/"
-    },
-    {
-      "title": "Director, Sea-Level Investigation and Management (SLIM)",
-      "org": "Harvard University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-30T23:47:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681049/director-sea-level-investigation-and-management-slim-/"
-    },
-    {
-      "title": "Lecturer, Biology",
-      "org": "Marist University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-22T19:16:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680877/lecturer-biology/"
+      "url": "https://careers.insidehighered.com/job/3568786/tenure-track-assistant-associate-professor-graphic-design-program/"
     },
     {
       "title": "Associate / Assistant Professor in Product or Graphic Design",
@@ -168,16 +181,6 @@
       "url": "https://careers.insidehighered.com/job/3306789/assistant-or-associate-professor-in-geriatric-medicine/"
     },
     {
-      "title": "Assistant/Associate/Full Professor",
-      "org": "University of Florida · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-12-22T19:36:46.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3445402/assistant-associate-full-professor/"
-    },
-    {
       "title": "University of Oklahoma Health Campus: Postdoctoral Research Fellow: Cancer Neuroscience and Intercellular Mitochondria Transfer",
       "org": "Nature Careers · Global",
       "role": "postdoc",
@@ -189,18 +192,6 @@
         "Postdoc"
       ],
       "url": "https://www.nature.com/naturecareers/job/12865993/postdoctoral-research-fellow-cancer-neuroscience-and-intercellular-mitochondria-transfer/"
-    },
-    {
-      "title": "CFO Office: Assistant Professor in Health, Resilience and Adaptation at The Salk Institute",
-      "org": "Salk Institute for Biological Studies · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-10-01T22:18:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12865257/assistant-professor-in-health-resilience-and-adaptation-at-the-salk-institute/"
     },
     {
       "title": "Tenure-Track Faculty Position, Institute of Biomedical Sciences, Academia Sinica, Taiwan",
@@ -251,6 +242,30 @@
       "url": "https://www.nature.com/naturecareers/job/12866170/fully-funded-phd-positions-in-astronomy-biology-computer-science-chemistry-and-materials-data-scie/"
     },
     {
+      "title": "Faculty Positions in AI for Life Sciences at Westlake University",
+      "org": "Westlake University School of Life Science · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-03-17T00:00:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12856430/faculty-positions-in-ai-for-life-sciences-at-westlake-university/"
+    },
+    {
+      "title": "Tenure-track Positions at The HIT Center for Life Sciences, China",
+      "org": "The HIT Center for Life Sciences (HCLS) · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2025-05-30T01:40:00.000Z",
+      "tags": [
+        "Tenure-track"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12840025/tenure-track-positions-at-the-hit-center-for-life-sciences-china-/"
+    },
+    {
       "title": "Associate or Senior Editor, Communications AI & Computing",
       "org": "Springer Nature Ltd · Global",
       "role": "faculty",
@@ -259,16 +274,6 @@
       "published": "2026-10-28T11:26:00.000Z",
       "tags": [],
       "url": "https://www.nature.com/naturecareers/job/12866153/associate-or-senior-editor-communications-ai-and-computing/"
-    },
-    {
-      "title": "Genetics and Genomic Sciences: Scientific Program Director (PhD) - Genetics & Genomics Research",
-      "org": "Icahn School of Medicine at Mount Sinai · Global",
-      "role": "phd",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-10-08T14:10:00.000Z",
-      "tags": [],
-      "url": "https://www.nature.com/naturecareers/job/12865514/scientific-program-director-phd-genetics-and-genomics-research/"
     }
   ]
 }
