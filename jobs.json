@@ -1,95 +1,89 @@
 {
-  "updatedAt": "2026-11-02T15:41:42.916Z",
+  "updatedAt": "2026-11-03T14:05:38.264Z",
   "jobs": [
     {
-      "title": "Tenure-Track Professor in Quantum Science and Engineering",
-      "org": "Harvard Quantum Initiative · United States",
+      "title": "Assistant Professor of Precision Livestock Management",
+      "org": "University of California, Davis · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-02T17:48:00.000Z",
+      "published": "2026-11-03T10:30:00.000Z",
       "tags": [
-        "Tenure-track"
+        "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681070/tenure-track-professor-in-quantum-science-and-engineering/"
+      "url": "https://jobs.sciencecareers.org/job/681095/assistant-professor-of-precision-livestock-management/"
     },
     {
-      "title": "College of Physics and Optoelectronic Engineering, Guangdong University of Technology: Assistant, Associate & Full Professors and Postdoctoral Researchers",
-      "org": "Science Careers · United States",
+      "title": "Professor in Artificial Intelligence",
+      "org": "Webrecruit · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-03T16:20:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681103/professor-in-artificial-intelligence/"
+    },
+    {
+      "title": "Repair and Maintenance Technician",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-03T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681101/repair-and-maintenance-technician/"
+    },
+    {
+      "title": "Data Engineer (Autonomous Systems)",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-03T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681100/data-engineer-autonomous-systems-/"
+    },
+    {
+      "title": "Data Engineer (Forward Deployed)",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-03T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681099/data-engineer-forward-deployed-/"
+    },
+    {
+      "title": "Senior Laboratory Technician (Transformation) - Plant Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-03T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681098/senior-laboratory-technician-transformation-plant-biology-institute/"
+    },
+    {
+      "title": "Postdoctoral Research Fellow (Rehm Lab) - Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
       "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-31T13:04:00.000Z",
+      "published": "2026-11-03T10:00:00.000Z",
       "tags": [
         "Postdoc"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681059/assistant-associate-and-full-professors-and-postdoctoral-researchers/"
+      "url": "https://jobs.sciencecareers.org/job/681097/postdoctoral-research-fellow-rehm-lab-generative-biology-institute/"
     },
     {
-      "title": "Director and Professor for Genetics Research",
-      "org": "Folkhälsan Research Center · United States",
+      "title": "(Senior) Group Leader, Advanced Genome Technologies - Plant Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-02T15:19:00.000Z",
+      "published": "2026-11-03T10:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681069/director-and-professor-for-genetics-research/"
-    },
-    {
-      "title": "Clinical Bioinformatics",
-      "org": "Baylor College of Medicine: Postdoctoral Associate · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-02T10:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681068/postdoctoral-associate-clinical-bioinformatics/"
-    },
-    {
-      "title": "Assistant Professor",
-      "org": "Colorado State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-02T04:23:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681061/assistant-professor/"
-    },
-    {
-      "title": "Border Biomedical Research Center (BBRC) at UTEP",
-      "org": "Border Biomedical Research Center (BBRC): Director · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-01T09:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681055/director-border-biomedical-research-center-bbrc-at-utep/"
-    },
-    {
-      "title": "Assistant or Associate Professor, Chemical Ecologist- College of Sciences, Biology, Health",
-      "org": "The University of Texas at San Antonio · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-31T09:30:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681057/assistant-or-associate-professor-chemical-ecologist-college-of-sciences-biology-health/"
-    },
-    {
-      "title": "Assistant Professor, Quantum Materials Chemistry",
-      "org": "Boston University Department of Chemistry · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-31T02:18:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681054/assistant-professor-quantum-materials-chemistry/"
+      "url": "https://jobs.sciencecareers.org/job/681096/-senior-group-leader-advanced-genome-technologies-plant-biology-institute/"
     },
     {
       "title": "Tenure Track Assistant/Associate Professor, Graphic Design Program",
