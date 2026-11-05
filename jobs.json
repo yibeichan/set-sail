@@ -1,94 +1,124 @@
 {
-  "updatedAt": "2026-11-04T14:26:08.837Z",
+  "updatedAt": "2026-11-05T14:33:45.419Z",
   "jobs": [
     {
-      "title": "Department of Forensic Medicine, Faculty of Health Sciences, Aarhus University : Associate Professor of Molecular Bone Histology and Forensic Anthropology",
-      "org": "Science Careers · United States",
+      "title": "Postdoctoral Fellow - Junjie Chen Lab",
+      "org": "University of Texas MD Anderson Cancer Center · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-05T18:57:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681131/postdoctoral-fellow-junjie-chen-lab/"
+    },
+    {
+      "title": "Associate/Full Professor of Tree Breeding and Genetics",
+      "org": "University of California, Davis · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-04T14:52:00.000Z",
+      "published": "2026-11-05T10:30:07.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681129/associate-full-professor-of-tree-breeding-and-genetics/"
+    },
+    {
+      "title": "Assistant Professor of Postharvest Horticulture",
+      "org": "University of California, Davis · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-05T10:30:04.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681117/associate-professor-of-molecular-bone-histology-and-forensic-anthropology-/"
+      "url": "https://jobs.sciencecareers.org/job/681128/assistant-professor-of-postharvest-horticulture/"
     },
     {
-      "title": "Director of Brain and Behavior Institute",
-      "org": "University of Maryland, College Park · United States",
+      "title": "Plant Biology Institute",
+      "org": "Ellison Institute of Technology: Computational Biologist · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-04T05:17:07.000Z",
+      "published": "2026-11-05T10:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681114/director-of-brain-and-behavior-institute/"
+      "url": "https://jobs.sciencecareers.org/job/681130/computational-biologist-plant-biology-institute/"
     },
     {
-      "title": "Assistant Professor (Tenure Track)",
-      "org": "University of Colorado Boulder · United States",
-      "role": "faculty",
+      "title": "Associate Research Scientist - Digestive and Liver Diseases",
+      "org": "Division of Digestive & Liver Diseases CUIMC · United States",
+      "role": "research",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-04T03:47:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681112/assistant-professor-tenure-track-/"
-    },
-    {
-      "title": "Immunology",
-      "org": "Arizona State University: Assistant Professor · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-04T02:48:00.000Z",
+      "published": "2026-11-05T02:59:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681111/assistant-professor-immunology/"
+      "url": "https://jobs.sciencecareers.org/job/681126/associate-research-scientist-digestive-and-liver-diseases/"
     },
     {
-      "title": "People & Engagement Associate",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "Bothell: Assistant Professor in Chemistry – Physical Sciences",
+      "org": "University of Washington · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-04T10:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681116/people-and-engagement-associate/"
-    },
-    {
-      "title": "IT Service Desk Manager",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-04T10:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681115/it-service-desk-manager/"
-    },
-    {
-      "title": "Psychiatry & Behavioral Neuroscience",
-      "org": "University of Chicago: Research Assistant Professor · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-04T00:25:00.000Z",
-      "tags": [
-        "Neuroscience"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681110/research-assistant-professor-psychiatry-and-behavioral-neuroscience/"
-    },
-    {
-      "title": "Senior Faculty Position in Cancer Research #537724",
-      "org": "Virginia Tech · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-03T23:52:00.000Z",
+      "published": "2026-11-04T23:07:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681109/senior-faculty-position-in-cancer-research-537724/"
+      "url": "https://jobs.sciencecareers.org/job/681124/assistant-professor-in-chemistry-physical-sciences/"
+    },
+    {
+      "title": "Tenured Associate/Full Professor of Biology",
+      "org": "Johns Hopkins University, Department of Biology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-04T23:30:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681125/tenured-associate-full-professor-of-biology/"
+    },
+    {
+      "title": "Faculty Position in Computational Chemistry / AI-Driven Drug Discovery (Open Rank)",
+      "org": "University of Virginia · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-04T23:06:00.000Z",
+      "tags": [
+        "Computational",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681123/faculty-position-in-computational-chemistry-ai-driven-drug-discovery-open-rank-/"
+    },
+    {
+      "title": "Interior Design Adjunct Instructor",
+      "org": "College of the Canyons · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2024-03-03T10:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3096882/interior-design-adjunct-instructor/"
+    },
+    {
+      "title": "Physical Therapy Assistant Instructor Adjunct",
+      "org": "College of the Canyons · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2024-03-03T10:00:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3096879/physical-therapy-assistant-instructor-adjunct/"
+    },
+    {
+      "title": "Director, School of Teaching and Learning",
+      "org": "Illinois State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-11-05T01:03:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3570880/director-school-of-teaching-and-learning/"
     },
     {
       "title": "Associate Professor, School of Graduate Studies",
@@ -146,38 +176,6 @@
       "published": "2025-08-28T09:00:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3392546/assistant-associate-or-professor-in-endocrinology/"
-    },
-    {
-      "title": "KEAN UNIVERSITY: 2027 Special Education Assistant/Associate Professors of Applied Behavior Analysis (M.A.)",
-      "org": "WENZHOU · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-10-29T16:13:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3567829/2027-special-education-assistant-associate-professors-of-applied-behavior-analysis-m-a-/"
-    },
-    {
-      "title": "Veterinary Curriculum Instructors",
-      "org": "The Ohio State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-10-26T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3420637/veterinary-curriculum-instructors/"
-    },
-    {
-      "title": "Associate/Full Professor in Educational Leadership (Dissertation and Research)",
-      "org": "Texas A&M University-San Antonio · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-03-07T10:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3474564/associate-full-professor-in-educational-leadership-dissertation-and-research-/"
     },
     {
       "title": "University of Oklahoma Health Campus: Postdoctoral Research Fellow: Cancer Neuroscience and Intercellular Mitochondria Transfer",
