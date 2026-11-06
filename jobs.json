@@ -1,94 +1,97 @@
 {
-  "updatedAt": "2026-11-05T14:33:45.419Z",
+  "updatedAt": "2026-11-06T14:11:19.259Z",
   "jobs": [
     {
-      "title": "Postdoctoral Fellow - Junjie Chen Lab",
-      "org": "University of Texas MD Anderson Cancer Center · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-05T18:57:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681131/postdoctoral-fellow-junjie-chen-lab/"
-    },
-    {
-      "title": "Associate/Full Professor of Tree Breeding and Genetics",
-      "org": "University of California, Davis · United States",
+      "title": "Department of Biomedical Sciences: Hosting SNSF Starting Grant Applicants",
+      "org": "University of Lausanne · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-05T10:30:07.000Z",
+      "published": "2026-11-06T15:02:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681129/associate-full-professor-of-tree-breeding-and-genetics/"
+      "url": "https://jobs.sciencecareers.org/job/681157/hosting-snsf-starting-grant-applicants/"
     },
     {
-      "title": "Assistant Professor of Postharvest Horticulture",
-      "org": "University of California, Davis · United States",
+      "title": "Bakar Research Investigator in Computational Biomedicine",
+      "org": "University of California, San Francisco · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-05T10:30:04.000Z",
+      "published": "2026-11-06T10:30:06.000Z",
       "tags": [
-        "Faculty"
+        "Computational"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681128/assistant-professor-of-postharvest-horticulture/"
+      "url": "https://jobs.sciencecareers.org/job/681146/bakar-research-investigator-in-computational-biomedicine/"
     },
     {
-      "title": "Plant Biology Institute",
-      "org": "Ellison Institute of Technology: Computational Biologist · United States",
+      "title": "Dean of the College of Science",
+      "org": "San Jose State University · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-05T10:00:00.000Z",
+      "published": "2026-11-06T02:11:34.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681130/computational-biologist-plant-biology-institute/"
+      "url": "https://jobs.sciencecareers.org/job/681143/dean-of-the-college-of-science/"
     },
     {
-      "title": "Associate Research Scientist - Digestive and Liver Diseases",
-      "org": "Division of Digestive & Liver Diseases CUIMC · United States",
-      "role": "research",
+      "title": "Cancer Center Director",
+      "org": "Cold Spring Harbor Laboratory · United States",
+      "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-05T02:59:00.000Z",
+      "published": "2026-11-06T01:38:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681126/associate-research-scientist-digestive-and-liver-diseases/"
+      "url": "https://jobs.sciencecareers.org/job/681142/cancer-center-director/"
     },
     {
-      "title": "Bothell: Assistant Professor in Chemistry – Physical Sciences",
-      "org": "University of Washington · United States",
+      "title": "International Institute of Molecular and Cell Biology in Warsaw: GROUP LEADER Principal Investigator Position",
+      "org": "Science Careers · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-04T23:07:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681124/assistant-professor-in-chemistry-physical-sciences/"
-    },
-    {
-      "title": "Tenured Associate/Full Professor of Biology",
-      "org": "Johns Hopkins University, Department of Biology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-04T23:30:00.000Z",
+      "published": "2026-11-06T12:33:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681125/tenured-associate-full-professor-of-biology/"
+      "url": "https://jobs.sciencecareers.org/job/681156/-group-leader-principal-investigator-position/"
     },
     {
-      "title": "Faculty Position in Computational Chemistry / AI-Driven Drug Discovery (Open Rank)",
-      "org": "University of Virginia · United States",
+      "title": "Pathogen",
+      "org": "Ellison Institute of Technology: Research Assistant · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-04T23:06:00.000Z",
-      "tags": [
-        "Computational",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681123/faculty-position-in-computational-chemistry-ai-driven-drug-discovery-open-rank-/"
+      "published": "2026-11-06T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681154/research-assistant-pathogen/"
+    },
+    {
+      "title": "Head of Molecular Engineering, Plant Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-06T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681153/head-of-molecular-engineering-plant-biology-institute/"
+    },
+    {
+      "title": "Senior Group Leader, Industry - Plant Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-06T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681152/senior-group-leader-industry-plant-biology-institute/"
+    },
+    {
+      "title": "Professor (Sheikh Nasser al-Muhammad al-Sabah Chair) in International Relations",
+      "org": "Durham University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-11-06T11:01:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3571452/professor-sheikh-nasser-al-muhammad-al-sabah-chair-in-international-relations/"
     },
     {
       "title": "Interior Design Adjunct Instructor",
@@ -166,16 +169,6 @@
         "Faculty"
       ],
       "url": "https://careers.insidehighered.com/job/3568377/associate-assistant-professor-in-product-or-graphic-design/"
-    },
-    {
-      "title": "Assistant, Associate, or Professor in Endocrinology",
-      "org": "University of Kentucky · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-08-28T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3392546/assistant-associate-or-professor-in-endocrinology/"
     },
     {
       "title": "University of Oklahoma Health Campus: Postdoctoral Research Fellow: Cancer Neuroscience and Intercellular Mitochondria Transfer",
