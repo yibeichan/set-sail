@@ -1,87 +1,111 @@
 {
-  "updatedAt": "2026-11-06T14:11:19.259Z",
+  "updatedAt": "2026-11-07T12:54:34.507Z",
   "jobs": [
     {
-      "title": "Department of Biomedical Sciences: Hosting SNSF Starting Grant Applicants",
-      "org": "University of Lausanne · United States",
+      "title": "People & Engagement Associate",
+      "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-06T15:02:00.000Z",
+      "published": "2026-11-07T10:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681157/hosting-snsf-starting-grant-applicants/"
+      "url": "https://jobs.sciencecareers.org/job/681168/people-and-engagement-associate/"
     },
     {
-      "title": "Bakar Research Investigator in Computational Biomedicine",
-      "org": "University of California, San Francisco · United States",
+      "title": "Full/Associate/Assistant Professor in AI at Institute of Automation Chinese Academy of Sciences",
+      "org": "Institute of Automation, Chinese Academy of Sciences · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-06T10:30:06.000Z",
+      "published": "2026-11-06T11:26:00.000Z",
       "tags": [
-        "Computational"
+        "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681146/bakar-research-investigator-in-computational-biomedicine/"
+      "url": "https://jobs.sciencecareers.org/job/681155/full-associate-assistant-professor-in-ai-at-institute-of-automation-chinese-academy-of-sciences/"
     },
     {
-      "title": "Dean of the College of Science",
-      "org": "San Jose State University · United States",
+      "title": "OPEN RANK FACULTY Position in Environmental Health Science at Penn State's College of HHD",
+      "org": "Pennsylvania State University · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-06T02:11:34.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681143/dean-of-the-college-of-science/"
+      "published": "2026-11-06T23:57:10.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681165/open-rank-faculty-position-in-environmental-health-science-at-penn-state-s-college-of-hhd/"
     },
     {
-      "title": "Cancer Center Director",
-      "org": "Cold Spring Harbor Laboratory · United States",
+      "title": "Assistant Professor in Biological Physics (tenure-track)",
+      "org": "SUNY, Stony Brook University · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-06T01:38:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681142/cancer-center-director/"
+      "published": "2026-10-09T18:30:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/680680/assistant-professor-in-biological-physics-tenure-track-/"
     },
     {
-      "title": "International Institute of Molecular and Cell Biology in Warsaw: GROUP LEADER Principal Investigator Position",
-      "org": "Science Careers · United States",
+      "title": "Open Rank, Tenured/Tenure-track Faculty Position in Environmental Fate and Effects of Microplastics",
+      "org": "Indiana University Bloomington Faculty and Academic Affairs · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-06T12:33:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681156/-group-leader-principal-investigator-position/"
+      "published": "2026-11-06T22:55:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681164/open-rank-tenured-tenure-track-faculty-position-in-environmental-fate-and-effects-of-microplastics-/"
     },
     {
-      "title": "Pathogen",
-      "org": "Ellison Institute of Technology: Research Assistant · United States",
+      "title": "Open Rank Faculty",
+      "org": "Texas Tech University HSC: Biochemistry/ Genetics · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-06T10:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681154/research-assistant-pathogen/"
+      "published": "2026-11-06T21:52:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681163/biochemistry-genetics-open-rank-faculty/"
     },
     {
-      "title": "Head of Molecular Engineering, Plant Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "Asst. Professor or Higher-Physiology (Open Rank Faculty)",
+      "org": "Texas Tech University HSC · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-06T10:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681153/head-of-molecular-engineering-plant-biology-institute/"
+      "published": "2026-11-06T21:33:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681160/asst-professor-or-higher-physiology-open-rank-faculty-/"
     },
     {
-      "title": "Senior Group Leader, Industry - Plant Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "Beamline Scientist for the Time-Resolved Ultrasmall-Angle Scattering Beamline ID02",
+      "org": "ESRF · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-06T10:00:00.000Z",
+      "published": "2026-11-06T21:09:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681152/senior-group-leader-industry-plant-biology-institute/"
+      "url": "https://jobs.sciencecareers.org/job/681159/beamline-scientist-for-the-time-resolved-ultrasmall-angle-scattering-beamline-id02/"
+    },
+    {
+      "title": "Associate Professor in Educational Leadership (Research Methodology)",
+      "org": "Texas A&M University-San Antonio · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-03-07T10:00:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://careers.insidehighered.com/job/3474563/associate-professor-in-educational-leadership-research-methodology-/"
     },
     {
       "title": "Professor (Sheikh Nasser al-Muhammad al-Sabah Chair) in International Relations",
@@ -159,18 +183,6 @@
       "url": "https://careers.insidehighered.com/job/3568786/tenure-track-assistant-associate-professor-graphic-design-program/"
     },
     {
-      "title": "Associate / Assistant Professor in Product or Graphic Design",
-      "org": "Wenzhou Business College · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-10-30T12:00:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3568377/associate-assistant-professor-in-product-or-graphic-design/"
-    },
-    {
       "title": "University of Oklahoma Health Campus: Postdoctoral Research Fellow: Cancer Neuroscience and Intercellular Mitochondria Transfer",
       "org": "Nature Careers · Global",
       "role": "postdoc",
@@ -209,19 +221,6 @@
       "url": "https://www.nature.com/naturecareers/job/12866129/assistant-professor-brain-immunology-and-glia-big-center/"
     },
     {
-      "title": "Open-Rank Faculty Position in Theoretical Biology",
-      "org": "Vanderbilt University Department of Biological Sciences · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-10-06T19:27:00.000Z",
-      "tags": [
-        "Computational",
-        "Faculty"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12865410/open-rank-faculty-position-in-theoretical-biology/"
-    },
-    {
       "title": "Fully Funded PhD Positions in Astronomy, Biology, Computer Science, Chemistry & Materials, Data Scie",
       "org": "Institute of Science and Technology Austria (ISTA) · Global",
       "role": "phd",
@@ -230,6 +229,30 @@
       "published": "2026-10-30T16:51:00.000Z",
       "tags": [],
       "url": "https://www.nature.com/naturecareers/job/12866170/fully-funded-phd-positions-in-astronomy-biology-computer-science-chemistry-and-materials-data-scie/"
+    },
+    {
+      "title": "Faculty Positions in AI for Life Sciences at Westlake University",
+      "org": "Westlake University School of Life Science · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-03-17T00:00:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12856430/faculty-positions-in-ai-for-life-sciences-at-westlake-university/"
+    },
+    {
+      "title": "Tenure-track Positions at The HIT Center for Life Sciences, China",
+      "org": "The HIT Center for Life Sciences (HCLS) · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2025-05-30T01:40:00.000Z",
+      "tags": [
+        "Tenure-track"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12840025/tenure-track-positions-at-the-hit-center-for-life-sciences-china-/"
     },
     {
       "title": "Associate or Senior Editor, Communications AI & Computing",
@@ -250,18 +273,6 @@
       "published": "2026-10-08T14:10:00.000Z",
       "tags": [],
       "url": "https://www.nature.com/naturecareers/job/12865514/scientific-program-director-phd-genetics-and-genomics-research/"
-    },
-    {
-      "title": "Faculty Positions in AI for Life Sciences at Westlake University",
-      "org": "Westlake University School of Life Science · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-03-17T00:00:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12856430/faculty-positions-in-ai-for-life-sciences-at-westlake-university/"
     }
   ]
 }
