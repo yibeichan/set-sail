@@ -1,6 +1,80 @@
 {
-  "updatedAt": "2026-11-07T12:54:34.507Z",
+  "updatedAt": "2026-11-08T13:17:10.586Z",
   "jobs": [
+    {
+      "title": "Scientist, Small Molecule Chemist - Plant Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-08T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681175/scientist-small-molecule-chemist-plant-biology-institute/"
+    },
+    {
+      "title": "Senior ML Infrastructure Engineer",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-08T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681174/senior-ml-infrastructure-engineer/"
+    },
+    {
+      "title": "Multiskilled Maintenance Engineer",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-08T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681173/multiskilled-maintenance-engineer/"
+    },
+    {
+      "title": "Bio-ML Scientist (Metabolic Modelling) - Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-08T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681172/bio-ml-scientist-metabolic-modelling-generative-biology-institute/"
+    },
+    {
+      "title": "Postdoctoral Research Fellow (Chin Lab) - Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-08T10:00:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681171/postdoctoral-research-fellow-chin-lab-generative-biology-institute/"
+    },
+    {
+      "title": "Eagle & Child Pub",
+      "org": "Ellison Institute of Technology: General Manager · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-08T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681170/general-manager-eagle-and-child-pub/"
+    },
+    {
+      "title": "Postdoctoral Research Fellow (Jamali Lab) - Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-08T10:00:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681169/postdoctoral-research-fellow-jamali-lab-generative-biology-institute/"
+    },
     {
       "title": "People & Engagement Associate",
       "org": "Ellison Institute of Technology · United States",
@@ -10,90 +84,6 @@
       "published": "2026-11-07T10:00:00.000Z",
       "tags": [],
       "url": "https://jobs.sciencecareers.org/job/681168/people-and-engagement-associate/"
-    },
-    {
-      "title": "Full/Associate/Assistant Professor in AI at Institute of Automation Chinese Academy of Sciences",
-      "org": "Institute of Automation, Chinese Academy of Sciences · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-06T11:26:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681155/full-associate-assistant-professor-in-ai-at-institute-of-automation-chinese-academy-of-sciences/"
-    },
-    {
-      "title": "OPEN RANK FACULTY Position in Environmental Health Science at Penn State's College of HHD",
-      "org": "Pennsylvania State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-06T23:57:10.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681165/open-rank-faculty-position-in-environmental-health-science-at-penn-state-s-college-of-hhd/"
-    },
-    {
-      "title": "Assistant Professor in Biological Physics (tenure-track)",
-      "org": "SUNY, Stony Brook University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-09T18:30:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/680680/assistant-professor-in-biological-physics-tenure-track-/"
-    },
-    {
-      "title": "Open Rank, Tenured/Tenure-track Faculty Position in Environmental Fate and Effects of Microplastics",
-      "org": "Indiana University Bloomington Faculty and Academic Affairs · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-06T22:55:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681164/open-rank-tenured-tenure-track-faculty-position-in-environmental-fate-and-effects-of-microplastics-/"
-    },
-    {
-      "title": "Open Rank Faculty",
-      "org": "Texas Tech University HSC: Biochemistry/ Genetics · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-06T21:52:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681163/biochemistry-genetics-open-rank-faculty/"
-    },
-    {
-      "title": "Asst. Professor or Higher-Physiology (Open Rank Faculty)",
-      "org": "Texas Tech University HSC · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-06T21:33:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681160/asst-professor-or-higher-physiology-open-rank-faculty-/"
-    },
-    {
-      "title": "Beamline Scientist for the Time-Resolved Ultrasmall-Angle Scattering Beamline ID02",
-      "org": "ESRF · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-06T21:09:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681159/beamline-scientist-for-the-time-resolved-ultrasmall-angle-scattering-beamline-id02/"
     },
     {
       "title": "Associate Professor in Educational Leadership (Research Methodology)",
@@ -196,19 +186,6 @@
       "url": "https://www.nature.com/naturecareers/job/12865993/postdoctoral-research-fellow-cancer-neuroscience-and-intercellular-mitochondria-transfer/"
     },
     {
-      "title": "Tenure-Track Faculty Position, Institute of Biomedical Sciences, Academia Sinica, Taiwan",
-      "org": "The Institute of Biomedical Sciences, Academia Sinica · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-11-01T00:00:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12865430/tenure-track-faculty-position-institute-of-biomedical-sciences-academia-sinica-taiwan/"
-    },
-    {
       "title": "St. Louis: Assistant Professor, Brain Immunology & Glia (BIG) Center",
       "org": "Washington University School of Medicine · Global",
       "role": "faculty",
@@ -273,6 +250,16 @@
       "published": "2026-10-08T14:10:00.000Z",
       "tags": [],
       "url": "https://www.nature.com/naturecareers/job/12865514/scientific-program-director-phd-genetics-and-genomics-research/"
+    },
+    {
+      "title": "Professorship (W3-level) for Psychiatry and Psychotherapy (with leadership function)",
+      "org": "University of Münster · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-11-04T17:20:00.000Z",
+      "tags": [],
+      "url": "https://www.nature.com/naturecareers/job/12866423/professorship-w3-level-for-psychiatry-and-psychotherapy-with-leadership-function-/"
     }
   ]
 }
