@@ -1,96 +1,103 @@
 {
-  "updatedAt": "2026-11-09T16:08:34.795Z",
+  "updatedAt": "2026-11-10T14:47:51.018Z",
   "jobs": [
     {
-      "title": "Computational Biology Department: Tenure-track faculty",
-      "org": "Carnegie Mellon University · United States",
+      "title": "Mass Spectrometry Scientist / Postdoctoral Researcher – Zhou Lab",
+      "org": "The Buck Institute · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-10T19:41:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681203/mass-spectrometry-scientist-postdoctoral-researcher-zhou-lab/"
+    },
+    {
+      "title": "Supervisory Research Geneticist (Plants) / Plant Pathologist Research Leader",
+      "org": "USDA · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-09T19:28:00.000Z",
+      "published": "2026-11-10T01:58:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681198/supervisory-research-geneticist-plants-plant-pathologist-research-leader/"
+    },
+    {
+      "title": "Laboratory Technician",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-10T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681201/laboratory-technician/"
+    },
+    {
+      "title": "Asset Manager",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-10T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681200/asset-manager/"
+    },
+    {
+      "title": "Teaching Professor, Neuroscience, University of San Francisco",
+      "org": "University of San Francisco · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-10T01:01:20.000Z",
       "tags": [
-        "Computational",
-        "Tenure-track",
+        "Neuroscience"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681197/teaching-professor-neuroscience-university-of-san-francisco/"
+    },
+    {
+      "title": "University of British Columbia. Department is Physics and Astronomy: Full-time Assistant Professor of Teaching Position",
+      "org": "Science Careers · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-10T00:28:00.000Z",
+      "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681181/tenure-track-faculty-/"
+      "url": "https://jobs.sciencecareers.org/job/681194/full-time-assistant-professor-of-teaching-position/"
     },
     {
-      "title": "Structural Studies - Dr Suyang Zhang - LMB 3065",
-      "org": "MRC Laboratory of Molecular Biology.: Postdoctoral Scientist · United States",
+      "title": "Stress Diagnostics for Microelectronics Packaging, Onsite",
+      "org": "Sandia National Laboratories: Postdoctoral Appointee · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-09T19:26:00.000Z",
+      "published": "2026-10-28T21:37:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681180/postdoctoral-scientist-structural-studies-dr-suyang-zhang-lmb-3065/"
+      "url": "https://jobs.sciencecareers.org/job/680990/postdoctoral-appointee-stress-diagnostics-for-microelectronics-packaging-onsite/"
     },
     {
-      "title": "Associate Research Scientist, Initiative for Computational Catalysis",
-      "org": "Simons Foundation · United States",
-      "role": "research",
+      "title": "GenAI / Materials Lifecycle Management, Onsite",
+      "org": "Sandia National Laboratories: Postdoctoral Appointee · United States",
+      "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-09T10:30:13.000Z",
+      "published": "2026-10-28T21:52:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680991/postdoctoral-appointee-genai-materials-lifecycle-management-onsite/"
+    },
+    {
+      "title": "Tenure-Track Professors of Biology (2 positions)",
+      "org": "Washington & Jefferson College · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-11-10T19:09:00.000Z",
       "tags": [
-        "Computational"
+        "Tenure-track"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681177/associate-research-scientist-initiative-for-computational-catalysis/"
-    },
-    {
-      "title": "Assistant Professor (Tenure Track), Hydrodynamic Modeling",
-      "org": "SUNY, Stony Brook University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-09T10:30:07.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681176/assistant-professor-tenure-track-hydrodynamic-modeling/"
-    },
-    {
-      "title": "Computational Biologist",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-09T10:00:00.000Z",
-      "tags": [
-        "Computational"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681178/computational-biologist/"
-    },
-    {
-      "title": "Executive Director, Burke Museum of Natural History and Culture",
-      "org": "Burke Museum of Natural History and Culture · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-07T06:57:55.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681167/executive-director-burke-museum-of-natural-history-and-culture/"
-    },
-    {
-      "title": "Scientist, Small Molecule Chemist - Plant Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-08T10:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681175/scientist-small-molecule-chemist-plant-biology-institute/"
-    },
-    {
-      "title": "Senior ML Infrastructure Engineer",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-08T10:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681174/senior-ml-infrastructure-engineer/"
+      "url": "https://careers.insidehighered.com/job/3572565/tenure-track-professors-of-biology-2-positions-/"
     },
     {
       "title": "Associate Professor in Educational Leadership (Research Methodology)",
@@ -165,19 +172,6 @@
       "published": "2025-05-03T09:00:00.000Z",
       "tags": [],
       "url": "https://careers.insidehighered.com/job/3342810/clinical-site-coordinator-non-instructional-adjunct-applicant-pool-pharmacy-technician-program-/"
-    },
-    {
-      "title": "Tenure Track Assistant/Associate Professor, Graphic Design Program",
-      "org": "Auburn University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-10-31T02:38:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3568786/tenure-track-assistant-associate-professor-graphic-design-program/"
     },
     {
       "title": "University of Oklahoma Health Campus: Postdoctoral Research Fellow: Cancer Neuroscience and Intercellular Mitochondria Transfer",
