@@ -1,6 +1,80 @@
 {
-  "updatedAt": "2026-11-10T14:47:51.018Z",
+  "updatedAt": "2026-11-11T14:12:43.033Z",
   "jobs": [
+    {
+      "title": "Business Analyst",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-11T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681213/business-analyst/"
+    },
+    {
+      "title": "Faculty Positions in Systems Hub, HKUST (GZ)",
+      "org": "Hong Kong University of Science and Technology -Guangzhou · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-11T09:59:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681179/faculty-positions-in-systems-hub-hkust-gz-/"
+    },
+    {
+      "title": "Assistant Professor, Cellular/Molecular Neuroscience",
+      "org": "Dept of Biological Science, Florida State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-11T00:48:00.000Z",
+      "tags": [
+        "Neuroscience",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/669844/assistant-professor-cellular-molecular-neuroscience/"
+    },
+    {
+      "title": "Canada Impact+ Emerging Leader in Translational Health Technologies, Assistant Professor",
+      "org": "University of Waterloo · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-10T23:16:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681209/canada-impact-emerging-leader-in-translational-health-technologies-assistant-professor/"
+    },
+    {
+      "title": "University of Memphis-Biology Department: Assistant Professor (Tenure-Track): Biological Sciences, The University of Memphis",
+      "org": "Science Careers · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-10T23:06:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681207/assistant-professor-tenure-track-biological-sciences-the-university-of-memphis/"
+    },
+    {
+      "title": "Tenure Track Assistant or Associate Professor of Computational Astrophysics",
+      "org": "University of Georgia Department of Physics and Astronomy · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-10T20:19:00.000Z",
+      "tags": [
+        "Computational",
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681205/tenure-track-assistant-or-associate-professor-of-computational-astrophysics/"
+    },
     {
       "title": "Mass Spectrometry Scientist / Postdoctoral Researcher – Zhou Lab",
       "org": "The Buck Institute · United States",
@@ -22,70 +96,6 @@
       "published": "2026-11-10T01:58:00.000Z",
       "tags": [],
       "url": "https://jobs.sciencecareers.org/job/681198/supervisory-research-geneticist-plants-plant-pathologist-research-leader/"
-    },
-    {
-      "title": "Laboratory Technician",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-10T10:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681201/laboratory-technician/"
-    },
-    {
-      "title": "Asset Manager",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-10T10:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681200/asset-manager/"
-    },
-    {
-      "title": "Teaching Professor, Neuroscience, University of San Francisco",
-      "org": "University of San Francisco · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-10T01:01:20.000Z",
-      "tags": [
-        "Neuroscience"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681197/teaching-professor-neuroscience-university-of-san-francisco/"
-    },
-    {
-      "title": "University of British Columbia. Department is Physics and Astronomy: Full-time Assistant Professor of Teaching Position",
-      "org": "Science Careers · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-10T00:28:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681194/full-time-assistant-professor-of-teaching-position/"
-    },
-    {
-      "title": "Stress Diagnostics for Microelectronics Packaging, Onsite",
-      "org": "Sandia National Laboratories: Postdoctoral Appointee · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-28T21:37:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680990/postdoctoral-appointee-stress-diagnostics-for-microelectronics-packaging-onsite/"
-    },
-    {
-      "title": "GenAI / Materials Lifecycle Management, Onsite",
-      "org": "Sandia National Laboratories: Postdoctoral Appointee · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-28T21:52:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680991/postdoctoral-appointee-genai-materials-lifecycle-management-onsite/"
     },
     {
       "title": "Tenure-Track Professors of Biology (2 positions)",
@@ -187,6 +197,18 @@
       "url": "https://www.nature.com/naturecareers/job/12865993/postdoctoral-research-fellow-cancer-neuroscience-and-intercellular-mitochondria-transfer/"
     },
     {
+      "title": "Anesthesiology : Open-Rank Faculty Position in Basic Biomedical Research",
+      "org": "WashU Medicine · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-11-10T15:53:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://www.nature.com/naturecareers/job/12866631/open-rank-faculty-position-in-basic-biomedical-research/"
+    },
+    {
       "title": "St. Louis: Assistant Professor, Brain Immunology & Glia (BIG) Center",
       "org": "Washington University School of Medicine · Global",
       "role": "faculty",
@@ -207,16 +229,6 @@
       "published": "2026-10-30T16:51:00.000Z",
       "tags": [],
       "url": "https://www.nature.com/naturecareers/job/12866170/fully-funded-phd-positions-in-astronomy-biology-computer-science-chemistry-and-materials-data-scie/"
-    },
-    {
-      "title": "Associate or Senior Editor, Communications AI & Computing",
-      "org": "Springer Nature Ltd · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-10-28T11:26:00.000Z",
-      "tags": [],
-      "url": "https://www.nature.com/naturecareers/job/12866153/associate-or-senior-editor-communications-ai-and-computing/"
     },
     {
       "title": "Faculty Positions in AI for Life Sciences at Westlake University",
@@ -243,6 +255,16 @@
       "url": "https://www.nature.com/naturecareers/job/12840025/tenure-track-positions-at-the-hit-center-for-life-sciences-china-/"
     },
     {
+      "title": "Associate or Senior Editor, Communications AI & Computing",
+      "org": "Springer Nature Ltd · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-10-28T11:26:00.000Z",
+      "tags": [],
+      "url": "https://www.nature.com/naturecareers/job/12866153/associate-or-senior-editor-communications-ai-and-computing/"
+    },
+    {
       "title": "Professorship (W3-level) for Psychiatry and Psychotherapy (with leadership function)",
       "org": "University of Münster · Global",
       "role": "faculty",
@@ -251,18 +273,6 @@
       "published": "2026-11-04T17:20:00.000Z",
       "tags": [],
       "url": "https://www.nature.com/naturecareers/job/12866423/professorship-w3-level-for-psychiatry-and-psychotherapy-with-leadership-function-/"
-    },
-    {
-      "title": "Postdoctoral researchers and Junior group leaders",
-      "org": "University of Turku · Global",
-      "role": "postdoc",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-11-02T14:19:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://www.nature.com/naturecareers/job/12866312/postdoctoral-researchers-and-junior-group-leaders-/"
     }
   ]
 }
