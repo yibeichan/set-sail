@@ -1,101 +1,105 @@
 {
-  "updatedAt": "2026-11-12T15:05:53.485Z",
+  "updatedAt": "2026-11-13T14:29:37.101Z",
   "jobs": [
     {
-      "title": "Computational Biologist / Postdoctoral Fellow – Single-Molecule Epigenomics & 3D Genome Biology",
-      "org": "NYU Langone Health · United States",
+      "title": "Department of Biomedical and Clinical Sciences: Four Postdoctoral Fellowships for Future Research Leaders in Neuroscience",
+      "org": "Linköping University · United States",
       "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-12T01:06:00.000Z",
+      "published": "2026-11-13T18:30:00.000Z",
       "tags": [
-        "Computational",
+        "Neuroscience",
         "Postdoc"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681219/computational-biologist-postdoctoral-fellow-single-molecule-epigenomics-and-3d-genome-biology/"
+      "url": "https://jobs.sciencecareers.org/job/681238/four-postdoctoral-fellowships-for-future-research-leaders-in-neuroscience/"
     },
     {
-      "title": "Open Search for Physician-Scientists in Pediatric and Women's Health Research - Tenure track faculty",
-      "org": "Texas Children's Hospital · United States",
+      "title": "Assistant/Associate/Professor of Mucosal Immunology",
+      "org": "Pennsylvania State University · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-11T23:11:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681218/open-search-for-physician-scientists-in-pediatric-and-women-s-health-research-tenure-track-faculty/"
-    },
-    {
-      "title": "Vice President, Bay Science",
-      "org": "Buzzards Bay Coalition · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-11T22:40:00.000Z",
+      "published": "2026-11-13T10:30:05.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681217/vice-president-bay-science/"
+      "url": "https://jobs.sciencecareers.org/job/681233/assistant-associate-professor-of-mucosal-immunology/"
     },
     {
-      "title": "IT Quality Assurance Lead",
+      "title": "Department Head- Biology",
+      "org": "Pennsylvania State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-13T02:56:25.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681229/department-head-biology/"
+    },
+    {
+      "title": "Scientist, Image Based Screening - Plant Biology Institute",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-12T10:00:00.000Z",
+      "published": "2026-11-13T10:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681221/it-quality-assurance-lead/"
+      "url": "https://jobs.sciencecareers.org/job/681236/scientist-image-based-screening-plant-biology-institute/"
     },
     {
-      "title": "Postdoctoral Research Fellow (Liu Lab) - Generative Biology Institute",
+      "title": "Postdoctoral Research Fellow (van Bijsterveldt Lab)-Generative Biology Institute",
       "org": "Ellison Institute of Technology · United States",
       "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-12T10:00:00.000Z",
+      "published": "2026-11-13T10:00:00.000Z",
       "tags": [
         "Postdoc"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681220/postdoctoral-research-fellow-liu-lab-generative-biology-institute/"
+      "url": "https://jobs.sciencecareers.org/job/681235/postdoctoral-research-fellow-van-bijsterveldt-lab-generative-biology-institute/"
     },
     {
-      "title": "Assistant Professor, Tenure Track, Basic and Translational Cancer Research",
-      "org": "UNC Lineberger Comprehensive Cancer Center · United States",
+      "title": "Plant Biology Institute",
+      "org": "Ellison Institute of Technology: Laboratory Technician · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-12T00:06:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681210/assistant-professor-tenure-track-basic-and-translational-cancer-research/"
+      "published": "2026-11-13T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681234/laboratory-technician-plant-biology-institute/"
     },
     {
-      "title": "Tenure-Track Assistant Professor Aquatic Disease Virology/Microbiology",
-      "org": "University of Maryland Baltimore County · United States",
+      "title": "Assistant Professor, F.M. Kirby Neurobiology Center, Boston Children's Hospital",
+      "org": "Boston Children's Hospital -Kirby Neurobiology Center · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-11T21:48:00.000Z",
+      "published": "2026-11-13T02:56:00.000Z",
       "tags": [
-        "Tenure-track",
+        "Neuroscience",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681216/tenure-track-assistant-professor-aquatic-disease-virology-microbiology/"
+      "url": "https://jobs.sciencecareers.org/job/681230/assistant-professor-f-m-kirby-neurobiology-center-boston-children-s-hospital/"
     },
     {
-      "title": "Assistant Professor Biology",
-      "org": "University of Detroit Mercy · United States",
+      "title": "Assistant Professor (cryo-EM) Biochemistry, Microbiology and Immunology",
+      "org": "University of Saskatchewan · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-11T19:30:00.000Z",
+      "published": "2026-11-13T01:58:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681215/assistant-professor-biology/"
+      "url": "https://jobs.sciencecareers.org/job/681228/assistant-professor-cryo-em-biochemistry-microbiology-and-immunology/"
+    },
+    {
+      "title": "Lecturer/Senior Lecturer, Professional Experience and Maths",
+      "org": "RMIT University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2026-11-13T15:34:00.000Z",
+      "tags": [],
+      "url": "https://careers.insidehighered.com/job/3574632/lecturer-senior-lecturer-professional-experience-and-maths/"
     },
     {
       "title": "Tenure-Track Professors of Biology (2 positions)",
@@ -172,16 +176,6 @@
         "Faculty"
       ],
       "url": "https://careers.insidehighered.com/job/3570576/associate-professor-school-of-graduate-studies/"
-    },
-    {
-      "title": "Clinical Site Coordinator/Non-Instructional Adjunct Applicant Pool (Pharmacy Technician Program)",
-      "org": "College of the Canyons · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-05-03T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3342810/clinical-site-coordinator-non-instructional-adjunct-applicant-pool-pharmacy-technician-program-/"
     },
     {
       "title": "University of Oklahoma Health Campus: Postdoctoral Research Fellow: Cancer Neuroscience and Intercellular Mitochondria Transfer",
