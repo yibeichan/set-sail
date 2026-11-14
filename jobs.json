@@ -1,6 +1,73 @@
 {
-  "updatedAt": "2026-11-13T14:29:37.101Z",
+  "updatedAt": "2026-11-14T13:26:38.618Z",
   "jobs": [
+    {
+      "title": "Tenure-Track Faculty Positions at the Institute for Fluid Science",
+      "org": "Tohoku University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-14T10:00:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681212/tenure-track-faculty-positions-at-the-institute-for-fluid-science/"
+    },
+    {
+      "title": "Rashidian Lab",
+      "org": "Dana-Farber Cancer Institute: Postdoctoral Research Fellow · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-14T01:45:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681247/postdoctoral-research-fellow-rashidian-lab/"
+    },
+    {
+      "title": "Radiation Oncologist, Hybrid Staff",
+      "org": "Dana-Farber Cancer Institute · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-14T00:21:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681245/radiation-oncologist-hybrid-staff/"
+    },
+    {
+      "title": "Faculty Position, Center of Excellence in Neuro-Oncology Sciences (CENOS)",
+      "org": "St. Jude Children's Research Hospital · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-13T23:38:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681244/faculty-position-center-of-excellence-in-neuro-oncology-sciences-cenos-/"
+    },
+    {
+      "title": "Department of Biological Sciences: Assistant Professor of Anatomy",
+      "org": "Southern Illinois University Edwardsville · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-13T21:50:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681243/assistant-professor-of-anatomy/"
+    },
+    {
+      "title": "Scientific Software Engineer",
+      "org": "ESRF · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-13T20:37:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681242/scientific-software-engineer/"
+    },
     {
       "title": "Department of Biomedical and Clinical Sciences: Four Postdoctoral Fellowships for Future Research Leaders in Neuroscience",
       "org": "Linköping University · United States",
@@ -15,81 +82,16 @@
       "url": "https://jobs.sciencecareers.org/job/681238/four-postdoctoral-fellowships-for-future-research-leaders-in-neuroscience/"
     },
     {
-      "title": "Assistant/Associate/Professor of Mucosal Immunology",
-      "org": "Pennsylvania State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-13T10:30:05.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681233/assistant-associate-professor-of-mucosal-immunology/"
-    },
-    {
-      "title": "Department Head- Biology",
-      "org": "Pennsylvania State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-13T02:56:25.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681229/department-head-biology/"
-    },
-    {
-      "title": "Scientist, Image Based Screening - Plant Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-13T10:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681236/scientist-image-based-screening-plant-biology-institute/"
-    },
-    {
-      "title": "Postdoctoral Research Fellow (van Bijsterveldt Lab)-Generative Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "The Scripps Research Institute: Postdoctoral Position: Translational Control and Metabolic Stress in Pancreatic β-Cells",
+      "org": "Science Careers · United States",
       "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-13T10:00:00.000Z",
+      "published": "2026-11-13T18:20:00.000Z",
       "tags": [
         "Postdoc"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681235/postdoctoral-research-fellow-van-bijsterveldt-lab-generative-biology-institute/"
-    },
-    {
-      "title": "Plant Biology Institute",
-      "org": "Ellison Institute of Technology: Laboratory Technician · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-13T10:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681234/laboratory-technician-plant-biology-institute/"
-    },
-    {
-      "title": "Assistant Professor, F.M. Kirby Neurobiology Center, Boston Children's Hospital",
-      "org": "Boston Children's Hospital -Kirby Neurobiology Center · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-13T02:56:00.000Z",
-      "tags": [
-        "Neuroscience",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681230/assistant-professor-f-m-kirby-neurobiology-center-boston-children-s-hospital/"
-    },
-    {
-      "title": "Assistant Professor (cryo-EM) Biochemistry, Microbiology and Immunology",
-      "org": "University of Saskatchewan · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-13T01:58:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681228/assistant-professor-cryo-em-biochemistry-microbiology-and-immunology/"
+      "url": "https://jobs.sciencecareers.org/job/681232/postdoctoral-position-translational-control-and-metabolic-stress-in-pancreatic-β-cells/"
     },
     {
       "title": "Lecturer/Senior Lecturer, Professional Experience and Maths",
@@ -225,6 +227,16 @@
       "url": "https://www.nature.com/naturecareers/job/12866170/fully-funded-phd-positions-in-astronomy-biology-computer-science-chemistry-and-materials-data-scie/"
     },
     {
+      "title": "Associate or Senior Editor, Communications AI & Computing",
+      "org": "Springer Nature Ltd · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-11-12T03:49:00.000Z",
+      "tags": [],
+      "url": "https://www.nature.com/naturecareers/job/12866701/associate-or-senior-editor-communications-ai-and-computing/"
+    },
+    {
       "title": "Faculty Positions in AI for Life Sciences at Westlake University",
       "org": "Westlake University School of Life Science · Global",
       "role": "faculty",
@@ -247,16 +259,6 @@
         "Tenure-track"
       ],
       "url": "https://www.nature.com/naturecareers/job/12840025/tenure-track-positions-at-the-hit-center-for-life-sciences-china-/"
-    },
-    {
-      "title": "Associate or Senior Editor, Communications AI & Computing",
-      "org": "Springer Nature Ltd · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-11-12T03:49:00.000Z",
-      "tags": [],
-      "url": "https://www.nature.com/naturecareers/job/12866701/associate-or-senior-editor-communications-ai-and-computing/"
     },
     {
       "title": "Long-Read Genomics, Pangenomics and Precision Medicine",
