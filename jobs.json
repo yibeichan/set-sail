@@ -1,6 +1,82 @@
 {
-  "updatedAt": "2026-11-14T13:26:38.618Z",
+  "updatedAt": "2026-11-15T13:52:23.053Z",
   "jobs": [
+    {
+      "title": "Data and Insights Lead",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-15T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681257/data-and-insights-lead/"
+    },
+    {
+      "title": "Scientist, Plant Cellular Engineering (Metabolic and Synthetic Biology) - PBI",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-15T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681256/scientist-plant-cellular-engineering-metabolic-and-synthetic-biology-pbi/"
+    },
+    {
+      "title": "Senior Platform Engineer",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-15T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681255/senior-platform-engineer/"
+    },
+    {
+      "title": "(Senior) Group Leader, Nitrogen Fixation - Plant Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-15T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681254/-senior-group-leader-nitrogen-fixation-plant-biology-institute/"
+    },
+    {
+      "title": "Postdoctoral Research Fellow - Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-15T10:00:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681253/postdoctoral-research-fellow-generative-biology-institute/"
+    },
+    {
+      "title": "Postdoctoral Research Scientists - Materials & Devices for Life Sciences",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-15T10:00:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681252/postdoctoral-research-scientists-materials-and-devices-for-life-sciences/"
+    },
+    {
+      "title": "National Cancer Institute (NCI), National Institutes of Health (NIH): Postdoctoral position using X-ray crystallography and cryo-EM to investigate Polo kinase and disease",
+      "org": "Science Careers · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-15T05:06:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681251/postdoctoral-position-using-x-ray-crystallography-and-cryo-em-to-investigate-polo-kinase-and-disease/"
+    },
     {
       "title": "Tenure-Track Faculty Positions at the Institute for Fluid Science",
       "org": "Tohoku University · United States",
@@ -15,83 +91,14 @@
       "url": "https://jobs.sciencecareers.org/job/681212/tenure-track-faculty-positions-at-the-institute-for-fluid-science/"
     },
     {
-      "title": "Rashidian Lab",
-      "org": "Dana-Farber Cancer Institute: Postdoctoral Research Fellow · United States",
+      "title": "Linguistics (Modern Languages) Adjunct Instructor",
+      "org": "College of the Canyons · United States",
       "role": "faculty",
       "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-14T01:45:00.000Z",
+      "source": "Inside Higher Ed",
+      "published": "2025-09-13T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681247/postdoctoral-research-fellow-rashidian-lab/"
-    },
-    {
-      "title": "Radiation Oncologist, Hybrid Staff",
-      "org": "Dana-Farber Cancer Institute · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-14T00:21:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681245/radiation-oncologist-hybrid-staff/"
-    },
-    {
-      "title": "Faculty Position, Center of Excellence in Neuro-Oncology Sciences (CENOS)",
-      "org": "St. Jude Children's Research Hospital · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-13T23:38:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681244/faculty-position-center-of-excellence-in-neuro-oncology-sciences-cenos-/"
-    },
-    {
-      "title": "Department of Biological Sciences: Assistant Professor of Anatomy",
-      "org": "Southern Illinois University Edwardsville · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-13T21:50:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681243/assistant-professor-of-anatomy/"
-    },
-    {
-      "title": "Scientific Software Engineer",
-      "org": "ESRF · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-13T20:37:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681242/scientific-software-engineer/"
-    },
-    {
-      "title": "Department of Biomedical and Clinical Sciences: Four Postdoctoral Fellowships for Future Research Leaders in Neuroscience",
-      "org": "Linköping University · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-13T18:30:00.000Z",
-      "tags": [
-        "Neuroscience",
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681238/four-postdoctoral-fellowships-for-future-research-leaders-in-neuroscience/"
-    },
-    {
-      "title": "The Scripps Research Institute: Postdoctoral Position: Translational Control and Metabolic Stress in Pancreatic β-Cells",
-      "org": "Science Careers · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-13T18:20:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681232/postdoctoral-position-translational-control-and-metabolic-stress-in-pancreatic-β-cells/"
+      "url": "https://careers.insidehighered.com/job/3400593/linguistics-modern-languages-adjunct-instructor/"
     },
     {
       "title": "Lecturer/Senior Lecturer, Professional Experience and Maths",
@@ -168,18 +175,6 @@
       "url": "https://careers.insidehighered.com/job/3570880/director-school-of-teaching-and-learning/"
     },
     {
-      "title": "Associate Professor, School of Graduate Studies",
-      "org": "Lingnan University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-11-04T16:49:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://careers.insidehighered.com/job/3570576/associate-professor-school-of-graduate-studies/"
-    },
-    {
       "title": "University of Oklahoma Health Campus: Postdoctoral Research Fellow: Cancer Neuroscience and Intercellular Mitochondria Transfer",
       "org": "Nature Careers · Global",
       "role": "postdoc",
@@ -227,16 +222,6 @@
       "url": "https://www.nature.com/naturecareers/job/12866170/fully-funded-phd-positions-in-astronomy-biology-computer-science-chemistry-and-materials-data-scie/"
     },
     {
-      "title": "Associate or Senior Editor, Communications AI & Computing",
-      "org": "Springer Nature Ltd · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-11-12T03:49:00.000Z",
-      "tags": [],
-      "url": "https://www.nature.com/naturecareers/job/12866701/associate-or-senior-editor-communications-ai-and-computing/"
-    },
-    {
       "title": "Faculty Positions in AI for Life Sciences at Westlake University",
       "org": "Westlake University School of Life Science · Global",
       "role": "faculty",
@@ -247,6 +232,16 @@
         "Faculty"
       ],
       "url": "https://www.nature.com/naturecareers/job/12856430/faculty-positions-in-ai-for-life-sciences-at-westlake-university/"
+    },
+    {
+      "title": "Associate or Senior Editor, Communications AI & Computing",
+      "org": "Springer Nature Ltd · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-11-12T03:49:00.000Z",
+      "tags": [],
+      "url": "https://www.nature.com/naturecareers/job/12866701/associate-or-senior-editor-communications-ai-and-computing/"
     },
     {
       "title": "Tenure-track Positions at The HIT Center for Life Sciences, China",
