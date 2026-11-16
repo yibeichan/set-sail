@@ -1,94 +1,96 @@
 {
-  "updatedAt": "2026-11-15T13:52:23.053Z",
+  "updatedAt": "2026-11-16T15:36:37.420Z",
   "jobs": [
     {
-      "title": "Data and Insights Lead",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "A Junior Research Group Leader Position within the Cluster of Excellence “Balance of the Microverse”",
+      "org": "Friedrich Schiller University Jena · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-15T10:00:00.000Z",
+      "published": "2026-11-16T18:52:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681257/data-and-insights-lead/"
+      "url": "https://jobs.sciencecareers.org/job/681263/a-junior-research-group-leader-position-within-the-cluster-of-excellence-balance-of-the-microverse-/"
     },
     {
-      "title": "Scientist, Plant Cellular Engineering (Metabolic and Synthetic Biology) - PBI",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "Canada Research Chair (Tier II) Climate-Resilient Agroecosystems, Assistant Professor tenure-track",
+      "org": "University of British Columbia Okanagan · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-15T10:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681256/scientist-plant-cellular-engineering-metabolic-and-synthetic-biology-pbi/"
-    },
-    {
-      "title": "Senior Platform Engineer",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-15T10:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681255/senior-platform-engineer/"
-    },
-    {
-      "title": "(Senior) Group Leader, Nitrogen Fixation - Plant Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-15T10:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681254/-senior-group-leader-nitrogen-fixation-plant-biology-institute/"
-    },
-    {
-      "title": "Postdoctoral Research Fellow - Generative Biology Institute",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-15T10:00:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681253/postdoctoral-research-fellow-generative-biology-institute/"
-    },
-    {
-      "title": "Postdoctoral Research Scientists - Materials & Devices for Life Sciences",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-15T10:00:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681252/postdoctoral-research-scientists-materials-and-devices-for-life-sciences/"
-    },
-    {
-      "title": "National Cancer Institute (NCI), National Institutes of Health (NIH): Postdoctoral position using X-ray crystallography and cryo-EM to investigate Polo kinase and disease",
-      "org": "Science Careers · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-15T05:06:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681251/postdoctoral-position-using-x-ray-crystallography-and-cryo-em-to-investigate-polo-kinase-and-disease/"
-    },
-    {
-      "title": "Tenure-Track Faculty Positions at the Institute for Fluid Science",
-      "org": "Tohoku University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-14T10:00:00.000Z",
+      "published": "2026-11-14T02:10:00.000Z",
       "tags": [
         "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681212/tenure-track-faculty-positions-at-the-institute-for-fluid-science/"
+      "url": "https://jobs.sciencecareers.org/job/681248/canada-research-chair-tier-ii-climate-resilient-agroecosystems-assistant-professor-tenure-track/"
+    },
+    {
+      "title": "Computational Genomics-Sleep Autism",
+      "org": "Mayo: Postdoctoral Research Fellow · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-14T05:58:00.000Z",
+      "tags": [
+        "Computational"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681249/postdoctoral-research-fellow-computational-genomics-sleep-autism/"
+    },
+    {
+      "title": "Assistant Professor",
+      "org": "University of Tennessee Health Science Center · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-14T07:31:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681250/assistant-professor/"
+    },
+    {
+      "title": "Invitation for Faculty Positions",
+      "org": "Unversity of California, Berkeley · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-16T10:30:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681258/invitation-for-faculty-positions/"
+    },
+    {
+      "title": "Chemical Biologist, Hit Finding",
+      "org": "Orion Pharma · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-16T16:09:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681260/chemical-biologist-hit-finding/"
+    },
+    {
+      "title": "Postdoctoral Research Fellow (van Bijsterveldt Lab)-Generative Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-16T10:00:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681259/postdoctoral-research-fellow-van-bijsterveldt-lab-generative-biology-institute/"
+    },
+    {
+      "title": "Professor in Aerospace Policy, Governance and Regulatory Systems",
+      "org": "TUM (Technical University Munich, Germany) · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-16T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681224/-professor-in-aerospace-policy-governance-and-regulatory-systems/"
     },
     {
       "title": "Linguistics (Modern Languages) Adjunct Instructor",
