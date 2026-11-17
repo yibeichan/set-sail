@@ -1,96 +1,97 @@
 {
-  "updatedAt": "2026-11-16T15:36:37.420Z",
+  "updatedAt": "2026-11-17T15:55:31.236Z",
   "jobs": [
     {
-      "title": "A Junior Research Group Leader Position within the Cluster of Excellence “Balance of the Microverse”",
-      "org": "Friedrich Schiller University Jena · United States",
+      "title": "Assistant Professor (Tenure Track) of AI for Cybersecurity",
+      "org": "ETH Zurich · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-16T18:52:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681263/a-junior-research-group-leader-position-within-the-cluster-of-excellence-balance-of-the-microverse-/"
-    },
-    {
-      "title": "Canada Research Chair (Tier II) Climate-Resilient Agroecosystems, Assistant Professor tenure-track",
-      "org": "University of British Columbia Okanagan · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-14T02:10:00.000Z",
+      "published": "2026-11-17T20:37:00.000Z",
       "tags": [
         "Tenure-track",
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681248/canada-research-chair-tier-ii-climate-resilient-agroecosystems-assistant-professor-tenure-track/"
+      "url": "https://jobs.sciencecareers.org/job/681280/assistant-professor-tenure-track-of-ai-for-cybersecurity/"
     },
     {
-      "title": "Computational Genomics-Sleep Autism",
-      "org": "Mayo: Postdoctoral Research Fellow · United States",
+      "title": "Department of Neurosciences, Case Western Reserve University School of Medicine: Assistant / Associate Professor, Neurosciences",
+      "org": "Science Careers · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-14T05:58:00.000Z",
+      "published": "2026-11-17T02:57:00.000Z",
       "tags": [
-        "Computational"
+        "Neuroscience",
+        "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681249/postdoctoral-research-fellow-computational-genomics-sleep-autism/"
+      "url": "https://jobs.sciencecareers.org/job/681271/assistant-associate-professor-neurosciences/"
     },
     {
       "title": "Assistant Professor",
-      "org": "University of Tennessee Health Science Center · United States",
+      "org": "Louisiana State University · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-14T07:31:00.000Z",
+      "published": "2026-11-17T10:30:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681250/assistant-professor/"
+      "url": "https://jobs.sciencecareers.org/job/681274/assistant-professor/"
     },
     {
-      "title": "Invitation for Faculty Positions",
-      "org": "Unversity of California, Berkeley · United States",
+      "title": "Permanent Scientific Positions",
+      "org": "BRIC-Translational Health Science and Technology Institute · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-16T10:30:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681258/invitation-for-faculty-positions/"
-    },
-    {
-      "title": "Chemical Biologist, Hit Finding",
-      "org": "Orion Pharma · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-16T16:09:00.000Z",
+      "published": "2026-11-17T10:01:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681260/chemical-biologist-hit-finding/"
+      "url": "https://jobs.sciencecareers.org/job/681261/permanent-scientific-positions/"
     },
     {
-      "title": "Postdoctoral Research Fellow (van Bijsterveldt Lab)-Generative Biology Institute",
+      "title": "Senior Software Engineer",
       "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-17T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681276/senior-software-engineer/"
+    },
+    {
+      "title": "(Senior) Group Leader, Advanced Genome Technologies - Plant Biology Institute",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-17T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681275/-senior-group-leader-advanced-genome-technologies-plant-biology-institute/"
+    },
+    {
+      "title": "Postdoctoral Associate, Department of Cellular and Molecular Medicine",
+      "org": "Florida International University · United States",
       "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-16T10:00:00.000Z",
+      "published": "2026-11-17T01:17:00.000Z",
       "tags": [
         "Postdoc"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681259/postdoctoral-research-fellow-van-bijsterveldt-lab-generative-biology-institute/"
+      "url": "https://jobs.sciencecareers.org/job/681268/postdoctoral-associate-department-of-cellular-and-molecular-medicine/"
     },
     {
-      "title": "Professor in Aerospace Policy, Governance and Regulatory Systems",
-      "org": "TUM (Technical University Munich, Germany) · United States",
-      "role": "faculty",
+      "title": "Postdoctoral Fellow",
+      "org": "University of Memphis · United States",
+      "role": "postdoc",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-16T10:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681224/-professor-in-aerospace-policy-governance-and-regulatory-systems/"
+      "published": "2026-11-17T00:05:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681267/postdoctoral-fellow/"
     },
     {
       "title": "Linguistics (Modern Languages) Adjunct Instructor",
