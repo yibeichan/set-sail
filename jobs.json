@@ -1,97 +1,89 @@
 {
-  "updatedAt": "2026-11-17T15:55:31.236Z",
+  "updatedAt": "2026-11-18T15:34:09.715Z",
   "jobs": [
     {
-      "title": "Assistant Professor (Tenure Track) of AI for Cybersecurity",
-      "org": "ETH Zurich · United States",
+      "title": "Science Research Curriculum Integration Specialist",
+      "org": "Riverdale Country School · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-17T20:37:00.000Z",
-      "tags": [
-        "Tenure-track",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681280/assistant-professor-tenure-track-of-ai-for-cybersecurity/"
-    },
-    {
-      "title": "Department of Neurosciences, Case Western Reserve University School of Medicine: Assistant / Associate Professor, Neurosciences",
-      "org": "Science Careers · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-17T02:57:00.000Z",
-      "tags": [
-        "Neuroscience",
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681271/assistant-associate-professor-neurosciences/"
-    },
-    {
-      "title": "Assistant Professor",
-      "org": "Louisiana State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-17T10:30:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681274/assistant-professor/"
-    },
-    {
-      "title": "Permanent Scientific Positions",
-      "org": "BRIC-Translational Health Science and Technology Institute · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-17T10:01:00.000Z",
+      "published": "2026-11-18T18:05:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681261/permanent-scientific-positions/"
+      "url": "https://jobs.sciencecareers.org/job/681303/science-research-curriculum-integration-specialist/"
     },
     {
-      "title": "Senior Software Engineer",
+      "title": "Faculty Vacancy Announcement of Vanke School of Public Health, Tsinghua University",
+      "org": "Vanke School of Public Health, Tsinghua University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-18T16:46:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681302/faculty-vacancy-announcement-of-vanke-school-of-public-health-tsinghua-university/"
+    },
+    {
+      "title": "Postdoctoral Research Fellow",
+      "org": "University of Michigan · United States",
+      "role": "postdoc",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-18T02:02:00.000Z",
+      "tags": [
+        "Postdoc"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681295/postdoctoral-research-fellow/"
+    },
+    {
+      "title": "Senior Electronics R&D Engineer - Pathogen",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-17T10:00:00.000Z",
+      "published": "2026-11-18T10:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681276/senior-software-engineer/"
+      "url": "https://jobs.sciencecareers.org/job/681301/senior-electronics-r-and-d-engineer-pathogen/"
     },
     {
-      "title": "(Senior) Group Leader, Advanced Genome Technologies - Plant Biology Institute",
+      "title": "Oracle Test and Release Manager",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-17T10:00:00.000Z",
+      "published": "2026-11-18T10:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681275/-senior-group-leader-advanced-genome-technologies-plant-biology-institute/"
+      "url": "https://jobs.sciencecareers.org/job/681300/oracle-test-and-release-manager/"
     },
     {
-      "title": "Postdoctoral Associate, Department of Cellular and Molecular Medicine",
-      "org": "Florida International University · United States",
-      "role": "postdoc",
+      "title": "Data and Insights Lead",
+      "org": "Ellison Institute of Technology · United States",
+      "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-17T01:17:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681268/postdoctoral-associate-department-of-cellular-and-molecular-medicine/"
+      "published": "2026-11-18T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681299/data-and-insights-lead/"
     },
     {
-      "title": "Postdoctoral Fellow",
-      "org": "University of Memphis · United States",
-      "role": "postdoc",
+      "title": "Pathogen",
+      "org": "Ellison Institute of Technology: Fluidic System Engineer · United States",
+      "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-17T00:05:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681267/postdoctoral-fellow/"
+      "published": "2026-11-18T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681298/fluidic-system-engineer-pathogen/"
+    },
+    {
+      "title": "Founding Director, Kummer Institute Center for BioInnovation and Medical Engineering",
+      "org": "Missouri University of Science & Technology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-10-16T22:03:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/680785/founding-director-kummer-institute-center-for-bioinnovation-and-medical-engineering/"
     },
     {
       "title": "Linguistics (Modern Languages) Adjunct Instructor",
@@ -237,16 +229,6 @@
       "url": "https://www.nature.com/naturecareers/job/12856430/faculty-positions-in-ai-for-life-sciences-at-westlake-university/"
     },
     {
-      "title": "Associate or Senior Editor, Communications AI & Computing",
-      "org": "Springer Nature Ltd · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-11-12T03:49:00.000Z",
-      "tags": [],
-      "url": "https://www.nature.com/naturecareers/job/12866701/associate-or-senior-editor-communications-ai-and-computing/"
-    },
-    {
       "title": "Tenure-track Positions at The HIT Center for Life Sciences, China",
       "org": "The HIT Center for Life Sciences (HCLS) · Global",
       "role": "faculty",
@@ -257,6 +239,16 @@
         "Tenure-track"
       ],
       "url": "https://www.nature.com/naturecareers/job/12840025/tenure-track-positions-at-the-hit-center-for-life-sciences-china-/"
+    },
+    {
+      "title": "Associate or Senior Editor, Communications AI & Computing",
+      "org": "Springer Nature Ltd · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-11-12T03:49:00.000Z",
+      "tags": [],
+      "url": "https://www.nature.com/naturecareers/job/12866701/associate-or-senior-editor-communications-ai-and-computing/"
     },
     {
       "title": "Long-Read Genomics, Pangenomics and Precision Medicine",
