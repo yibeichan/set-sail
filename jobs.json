@@ -1,89 +1,104 @@
 {
-  "updatedAt": "2026-11-18T15:34:09.715Z",
+  "updatedAt": "2026-11-19T15:40:12.523Z",
   "jobs": [
     {
-      "title": "Science Research Curriculum Integration Specialist",
-      "org": "Riverdale Country School · United States",
+      "title": "Faculty of Medicine: Full or Associate Professor, Head of Haematology Division",
+      "org": "University of Geneva · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-18T18:05:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681303/science-research-curriculum-integration-specialist/"
-    },
-    {
-      "title": "Faculty Vacancy Announcement of Vanke School of Public Health, Tsinghua University",
-      "org": "Vanke School of Public Health, Tsinghua University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-18T16:46:00.000Z",
+      "published": "2026-10-16T09:01:00.000Z",
       "tags": [
         "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681302/faculty-vacancy-announcement-of-vanke-school-of-public-health-tsinghua-university/"
+      "url": "https://jobs.sciencecareers.org/job/680776/full-or-associate-professor-head-of-haematology-division/"
     },
     {
-      "title": "Postdoctoral Research Fellow",
-      "org": "University of Michigan · United States",
-      "role": "postdoc",
+      "title": "Tenure-Track Faculty Position in Biomedical Sciences",
+      "org": "Georgia State University · United States",
+      "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-18T02:02:00.000Z",
+      "published": "2026-11-19T15:17:00.000Z",
       "tags": [
-        "Postdoc"
+        "Tenure-track",
+        "Faculty"
       ],
-      "url": "https://jobs.sciencecareers.org/job/681295/postdoctoral-research-fellow/"
+      "url": "https://jobs.sciencecareers.org/job/681325/tenure-track-faculty-position-in-biomedical-sciences/"
     },
     {
-      "title": "Senior Electronics R&D Engineer - Pathogen",
+      "title": "Scientist, Small Molecule Chemist - Plant Biology Institute",
       "org": "Ellison Institute of Technology · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-18T10:00:00.000Z",
+      "published": "2026-11-19T10:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681301/senior-electronics-r-and-d-engineer-pathogen/"
+      "url": "https://jobs.sciencecareers.org/job/681324/scientist-small-molecule-chemist-plant-biology-institute/"
     },
     {
-      "title": "Oracle Test and Release Manager",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "Executive Director",
+      "org": "Vermont Center for Ecostudies · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-18T10:00:00.000Z",
+      "published": "2026-11-19T10:30:05.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681300/oracle-test-and-release-manager/"
+      "url": "https://jobs.sciencecareers.org/job/681323/executive-director/"
     },
     {
-      "title": "Data and Insights Lead",
-      "org": "Ellison Institute of Technology · United States",
+      "title": "Professor Canada Impact+ Emerging Leader in Hyperconnected Supply Chains and Logistic Systems",
+      "org": "Polytechnique Montréal · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-18T10:00:00.000Z",
+      "published": "2026-11-19T10:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681299/data-and-insights-lead/"
+      "url": "https://jobs.sciencecareers.org/job/681312/professor-canada-impact-emerging-leader-in-hyperconnected-supply-chains-and-logistic-systems/"
     },
     {
-      "title": "Pathogen",
-      "org": "Ellison Institute of Technology: Fluidic System Engineer · United States",
+      "title": "Professorship in Biochemistry (open-rank)",
+      "org": "University of Basel · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-11-18T10:00:00.000Z",
+      "published": "2026-11-19T04:51:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681298/fluidic-system-engineer-pathogen/"
+      "url": "https://jobs.sciencecareers.org/job/681296/professorship-in-biochemistry-open-rank-/"
     },
     {
-      "title": "Founding Director, Kummer Institute Center for BioInnovation and Medical Engineering",
-      "org": "Missouri University of Science & Technology · United States",
+      "title": "Faculty Position in Quantum Information Science (Open Rank)",
+      "org": "University of Miami, Physics · United States",
       "role": "faculty",
       "region": "us",
       "source": "Science Careers",
-      "published": "2026-10-16T22:03:00.000Z",
+      "published": "2026-11-19T03:00:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681322/faculty-position-in-quantum-information-science-open-rank-/"
+    },
+    {
+      "title": "Department of Molecular Microbiology : Assistant Professor, Molecular Microbiology, WUSM",
+      "org": "Washington University School of Medicine · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-19T02:34:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681321/assistant-professor-molecular-microbiology-wusm/"
+    },
+    {
+      "title": "First Year English and Mathematics - POOL",
+      "org": "University of West Georgia: Limited Term Instructor · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Inside Higher Ed",
+      "published": "2025-07-10T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680785/founding-director-kummer-institute-center-for-bioinnovation-and-medical-engineering/"
+      "url": "https://careers.insidehighered.com/job/3370914/limited-term-instructor-first-year-english-and-mathematics-pool/"
     },
     {
       "title": "Linguistics (Modern Languages) Adjunct Instructor",
@@ -160,16 +175,6 @@
       "url": "https://careers.insidehighered.com/job/3096879/physical-therapy-assistant-instructor-adjunct/"
     },
     {
-      "title": "Director, School of Teaching and Learning",
-      "org": "Illinois State University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2026-11-05T01:03:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3570880/director-school-of-teaching-and-learning/"
-    },
-    {
       "title": "University of Oklahoma Health Campus: Postdoctoral Research Fellow: Cancer Neuroscience and Intercellular Mitochondria Transfer",
       "org": "Nature Careers · Global",
       "role": "postdoc",
@@ -241,16 +246,6 @@
       "url": "https://www.nature.com/naturecareers/job/12840025/tenure-track-positions-at-the-hit-center-for-life-sciences-china-/"
     },
     {
-      "title": "Associate or Senior Editor, Communications AI & Computing",
-      "org": "Springer Nature Ltd · Global",
-      "role": "faculty",
-      "region": "global",
-      "source": "Nature Careers",
-      "published": "2026-11-12T03:49:00.000Z",
-      "tags": [],
-      "url": "https://www.nature.com/naturecareers/job/12866701/associate-or-senior-editor-communications-ai-and-computing/"
-    },
-    {
       "title": "Long-Read Genomics, Pangenomics and Precision Medicine",
       "org": "Sidra Medicine Qatar: Bioinformatician · Global",
       "role": "faculty",
@@ -259,6 +254,16 @@
       "published": "2026-11-12T09:13:00.000Z",
       "tags": [],
       "url": "https://www.nature.com/naturecareers/job/12866718/bioinformatician-long-read-genomics-pangenomics-and-precision-medicine/"
+    },
+    {
+      "title": "Professorship (W3-level) for Psychiatry and Psychotherapy (with leadership function)",
+      "org": "University of Münster · Global",
+      "role": "faculty",
+      "region": "global",
+      "source": "Nature Careers",
+      "published": "2026-11-04T17:20:00.000Z",
+      "tags": [],
+      "url": "https://www.nature.com/naturecareers/job/12866423/professorship-w3-level-for-psychiatry-and-psychotherapy-with-leadership-function-/"
     }
   ]
 }
