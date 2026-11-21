@@ -1,6 +1,74 @@
 {
-  "updatedAt": "2026-11-20T15:22:12.441Z",
+  "updatedAt": "2026-11-21T14:35:00.374Z",
   "jobs": [
+    {
+      "title": "Program Leader, Agronomy",
+      "org": "Department of Primary Industries and Regions · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-21T18:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681272/program-leader-agronomy/"
+    },
+    {
+      "title": "Plant Biology Institute",
+      "org": "Ellison Institute of Technology: Scientist, Enzymology · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-21T10:00:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681351/scientist-enzymology-plant-biology-institute/"
+    },
+    {
+      "title": "Assistant Professor of Neuroscience",
+      "org": "North Carolina State University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-21T10:30:09.000Z",
+      "tags": [
+        "Neuroscience",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681349/assistant-professor-of-neuroscience/"
+    },
+    {
+      "title": "Assistant Professor of Biomedical Research/Artificial Intelligence (tenure track)",
+      "org": "UCI, Microbiology & Molecular Genetics · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-20T23:42:00.000Z",
+      "tags": [
+        "Tenure-track",
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681345/assistant-professor-of-biomedical-research-artificial-intelligence-tenure-track-/"
+    },
+    {
+      "title": "Downers Grove: Assistant Professor- AZ- Pharmacology",
+      "org": "Midwestern University · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-20T21:52:00.000Z",
+      "tags": [
+        "Faculty"
+      ],
+      "url": "https://jobs.sciencecareers.org/job/681341/assistant-professor-az-pharmacology/"
+    },
+    {
+      "title": "The Liechtenstein School of Architecture (LSA) at the University of Liechtenstein : Professor of Architecture and Society 50% (m/f/d)",
+      "org": "Science Careers · United States",
+      "role": "faculty",
+      "region": "us",
+      "source": "Science Careers",
+      "published": "2026-11-20T22:04:00.000Z",
+      "tags": [],
+      "url": "https://jobs.sciencecareers.org/job/681342/professor-of-architecture-and-society-50-percent-m-f-d-/"
+    },
     {
       "title": "Beirne B. Carter Center for Immunolgy Research: Associate or Full Professor - Beirne B. Carter Center for Immunology Research University of Virginia",
       "org": "University of Virginia · United States",
@@ -24,72 +92,14 @@
       "url": "https://jobs.sciencecareers.org/job/681333/professor-s-associate-professor-s-assistant-professor-s-/"
     },
     {
-      "title": "Emerging Scholars Forum 2027 | 19-20 January 2027 | Singapore",
-      "org": "Nanyang Technological University, Singapore · United States",
+      "title": "Computer Network Technology Adjunct Instructor",
+      "org": "College of the Canyons · United States",
       "role": "faculty",
       "region": "us",
-      "source": "Science Careers",
-      "published": "2026-10-27T09:58:00.000Z",
+      "source": "Inside Higher Ed",
+      "published": "2025-07-20T09:00:00.000Z",
       "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/680924/emerging-scholars-forum-2027-19-20-january-2027-singapore-/"
-    },
-    {
-      "title": "Senior MEMS Development Engineer/Scientist - Pathogen",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-20T10:00:00.000Z",
-      "tags": [],
-      "url": "https://jobs.sciencecareers.org/job/681335/senior-mems-development-engineer-scientist-pathogen/"
-    },
-    {
-      "title": "(Senior) Computational Genomics Scientist, Algorithms & AI/ML",
-      "org": "Ellison Institute of Technology · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-20T10:00:00.000Z",
-      "tags": [
-        "Computational"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681334/-senior-computational-genomics-scientist-algorithms-and-ai-ml/"
-    },
-    {
-      "title": "Postdoctoral Positions in Cancer Biology, Therapeutic Antibodies, ADCs, and CAR-T",
-      "org": "Houston Methodist Research Institute · United States",
-      "role": "postdoc",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-20T00:43:00.000Z",
-      "tags": [
-        "Postdoc"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681330/postdoctoral-positions-in-cancer-biology-therapeutic-antibodies-adcs-and-car-t-/"
-    },
-    {
-      "title": "Canada Research Chair (Tier 1) in Behavioural Neuroscience (Associate/Full Professor)",
-      "org": "York University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-19T23:05:00.000Z",
-      "tags": [
-        "Neuroscience"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681328/canada-research-chair-tier-1-in-behavioural-neuroscience-associate-full-professor-/"
-    },
-    {
-      "title": "Department of Biological Sciences: Assistant/Associate Professor, Purdue Biological Sciences, Intelligent Medicines–Structural Biology",
-      "org": "Purdue University · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Science Careers",
-      "published": "2026-11-19T01:11:00.000Z",
-      "tags": [
-        "Faculty"
-      ],
-      "url": "https://jobs.sciencecareers.org/job/681316/assistant-associate-professor-purdue-biological-sciences-intelligent-medicines-structural-biology/"
+      "url": "https://careers.insidehighered.com/job/3374938/computer-network-technology-adjunct-instructor/"
     },
     {
       "title": "Assistant Professor / Associate Professor Design [ Communication Design]",
@@ -102,16 +112,6 @@
         "Faculty"
       ],
       "url": "https://careers.insidehighered.com/job/3577947/assistant-professor-associate-professor-design-communication-design-/"
-    },
-    {
-      "title": "First Year English and Mathematics - POOL",
-      "org": "University of West Georgia: Limited Term Instructor · United States",
-      "role": "faculty",
-      "region": "us",
-      "source": "Inside Higher Ed",
-      "published": "2025-07-10T09:00:00.000Z",
-      "tags": [],
-      "url": "https://careers.insidehighered.com/job/3370914/limited-term-instructor-first-year-english-and-mathematics-pool/"
     },
     {
       "title": "Linguistics (Modern Languages) Adjunct Instructor",
